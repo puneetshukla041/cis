@@ -6,7 +6,7 @@ import { getLearningTopic, getTopicQuestionJson, paper1LearningTopics } from "@/
 export default async function TopicPage({ params }: { params: Promise<{ topicId: string }> }) {
   const { topicId } = await params;
   const topic = getLearningTopic(topicId);
-  const quiz = getTopicQuestionJson(topic.id).questions.slice(0, 10);
+  const quiz = getTopicQuestionJson(topic.id).questions;
   return (
     <div className="space-y-5">
       <div className="no-print flex flex-wrap items-center justify-between gap-3">

@@ -8,10 +8,15 @@ export default function LearnPage() {
   return (
     <div className="space-y-5">
       <section className="card p-5">
-        <p className="text-sm text-muted">50-day Paper 1 learning system</p>
-        <p className="mt-2 max-w-5xl leading-7 text-soft">
-          Read one topic deeply during the day, then practise its 100-question JSON at night. Each lesson has theory, fixed memory facts, PYQ traps, mistakes, revision method and a micro quiz.
-        </p>
+        <div className="flex flex-wrap items-start justify-between gap-3">
+          <div>
+            <p className="text-sm text-muted">50-day Paper 1 learning system</p>
+            <p className="mt-2 max-w-5xl leading-7 text-soft">
+              Read one topic deeply during the day, then practise its 100-question JSON at night. Each lesson now has detailed theory, MCQ-ready fact bank, PYQ traps, mistakes, revision method and a full 100-question topic practice set.
+            </p>
+          </div>
+          <a href="/api/learning/all-questions" target="_blank" className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-medium text-white">Download 5000 MCQ bank</a>
+        </div>
       </section>
       {buckets.map((bucket) => (
         <section key={bucket} className="space-y-3">

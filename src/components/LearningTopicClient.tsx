@@ -82,6 +82,20 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
           </aside>
         </div>
 
+
+
+        <div className="note-box p-4">
+          <p className="text-sm font-medium text-muted">Complete MCQ-ready fact bank</p>
+          <div className="mt-4 grid gap-3 md:grid-cols-2">
+            {topic.facts.map((fact, i) => (
+              <div key={`${fact.key}-${i}`} className="rounded-xl border p-3" style={{ borderColor: "var(--border)" }}>
+                <p className="text-sm"><span className="text-muted">{i + 1}.</span> {fact.key} <span className="text-muted">—</span> {fact.answer}</p>
+                <p className="mt-2 text-sm leading-6 text-muted">{fact.explanation}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+
         <div className="grid gap-4 md:grid-cols-3">
           <div className="note-box p-4"><p className="text-sm font-medium text-muted">PYQ patterns</p><ul className="mt-3 list-disc space-y-2 pl-5 text-sm">{topic.pyqPatterns.map((x) => <li key={x}>{x}</li>)}</ul></div>
           <div className="note-box p-4"><p className="text-sm font-medium text-muted">Common mistakes</p><ul className="mt-3 list-disc space-y-2 pl-5 text-sm">{topic.mistakes.map((x) => <li key={x}>{x}</li>)}</ul></div>
@@ -96,8 +110,8 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
 
       <section className="card p-5">
         <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
-          <p className="text-base font-medium">Micro quiz</p>
-          <p className="text-sm text-muted">Score {score}/{microQuiz.length}</p>
+          <p className="text-base font-medium">Topic practice - 100 MCQs</p>
+          <p className="text-sm text-muted">Answered {Object.keys(answers).length}/{microQuiz.length} · Score {score}/{microQuiz.length}</p>
         </div>
         <div className="space-y-4">
           {microQuiz.map((q, i) => {
