@@ -6,34 +6,43 @@ const buckets = Array.from(new Set(paper1LearningTopics.map((t) => t.bucket)));
 
 export default function LearnPage() {
   return (
-    <div className="space-y-5">
-      <section className="card p-5">
-        <div className="flex flex-wrap items-start justify-between gap-3">
-          <div>
-            <p className="text-sm text-muted">50-day Paper 1 learning system</p>
-            <p className="mt-2 max-w-5xl leading-7 text-soft">
-              Read one topic deeply during the day, then practise its 100-question JSON at night. Each lesson now has detailed theory, MCQ-ready fact bank, PYQ traps, mistakes, revision method and a full 100-question topic practice set.
+    <div className="space-y-7 animate-in">
+      <section className="hero-card p-6 md:p-8">
+        <div className="flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between">
+          <div className="max-w-4xl">
+            <p className="eyebrow">Paper 1 library</p>
+            <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">50-day topic course with 100 MCQs per lesson.</h1>
+            <p className="mt-4 max-w-3xl text-sm leading-7 text-muted md:text-base">
+              Study from structured notes, then use the same topic for a full question set. The library is built for repeat revision, not one-time reading.
             </p>
           </div>
-          <a href="/api/learning/all-questions" target="_blank" className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-medium text-white">Download 5000 MCQ bank</a>
+          <a href="/api/learning/all-questions" target="_blank" className="btn-primary shrink-0">Download 5000 MCQ bank</a>
         </div>
       </section>
-      {buckets.map((bucket) => (
-        <section key={bucket} className="space-y-3">
-          <p className="px-1 text-sm text-muted">{bucket}</p>
-          <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
-            {paper1LearningTopics.filter((topic) => topic.bucket === bucket).map((topic) => (
-              <Link key={topic.id} href={`/learn/${topic.id}`} className="card hover-lift block p-5">
-                <p className="text-xs text-muted">Day {topic.day} · {topic.priority}</p>
-                <p className="mt-2 text-base leading-6">{topic.title}</p>
-                <div className="mt-4 flex flex-wrap gap-2">
-                  {topic.concepts.slice(0, 4).map((concept) => <span key={concept} className="rounded-full border px-2 py-1 text-xs text-muted" style={{ borderColor: "var(--border)" }}>{concept}</span>)}
-                </div>
-              </Link>
-            ))}
-          </div>
-        </section>
-      ))}
+
+      {buckets.map((bucket) => {
+        const topics = paper1LearningTopics.filter((topic) => topic.bucket === bucket);
+        return (
+          <section key={bucket} className="space-y-3">
+            <div className="flex items-center justify-between gap-3 px-1">
+              <p className="text-sm font-medium text-muted">{bucket}</p>
+              <span className="pill">{topics.length} topics</span>
+            </div>
+            <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+              {topics.map((topic) => (
+                <Link key={topic.id} href={`/learn/${topic.id}`} className="card hover-lift block p-5">
+                  <div className="flex flex-wrap gap-2"><span className="pill">Day {topic.day}</span><span className="pill">{topic.priority}</span></div>
+                  <p className="mt-4 text-base font-semibold leading-6">{topic.title}</p>
+                  <p className="mt-2 line-clamp-2 text-sm leading-6 text-muted">{topic.why}</p>
+                  <div className="mt-4 flex flex-wrap gap-2">
+                    {topic.concepts.slice(0, 5).map((concept) => <span key={concept} className="pill">{concept}</span>)}
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        );
+      })}
     </div>
   );
 }

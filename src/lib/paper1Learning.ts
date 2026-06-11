@@ -11159,7 +11159,7 @@ function directQuestion(topic: LearningTopic, fact: LearningFact, pool: string[]
     `For Basic Computer Instructor Paper 1, what should be remembered about ${fact.key}?`,
     `Which option correctly completes the pair: ${fact.key} — ?`,
     `In a PYQ-style question, ${fact.key} is linked with which answer?`,
-    `Choose the best exam memory point for ${fact.key}.`
+    `Choose the best exam memory point for ${fact.key} in ${topic.title}.`
   ];
   const { options, answer } = optionSet(fact.answer, pool, index + topic.day);
   return {

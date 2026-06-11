@@ -76,5 +76,6 @@ export const practiceBuildSchema = z.object({
   subject: z.string().optional(),
   topic: z.string().optional(),
   difficulty: difficultySchema.optional(),
+  source: z.enum(["mixed", "library", "json"]).optional().default("mixed"),
   limit: z.number().min(5).max(100).default(25),
 });

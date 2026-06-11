@@ -68,7 +68,7 @@ export default function TestFilters({ filters }: { filters?: any }) {
     }, 0);
   };
 
-  const inputClass = "rounded-xl border px-4 py-3 text-sm outline-none";
+  const inputClass = "field text-sm";
   const dateLabel = form.dateMode === "all" ? "All dates" : form.date ? formatDateForDisplay(form.date) : "Select date";
 
   return (
@@ -118,12 +118,12 @@ export default function TestFilters({ filters }: { filters?: any }) {
             onChange={(event) => setForm((prev) => ({ ...prev, dateMode: "custom", date: event.target.value }))}
             className={`${inputClass} flex-1`}
           />
-          <button type="button" onClick={() => update("dateMode", "today")} className="rounded-xl border px-3 text-xs font-medium" style={{ borderColor: "var(--border)" }}>Today</button>
+          <button type="button" onClick={() => update("dateMode", "today")} className="btn-secondary px-3 py-2 text-xs">Today</button>
         </div>
       </div>
       <div className="mt-3 flex flex-wrap items-center justify-between gap-3">
         <p className="text-sm text-muted">{dateLabel}. Filters update automatically. Reset shows every available test.</p>
-        <button type="button" onClick={reset} className="rounded-xl border px-4 py-2 text-sm font-medium" style={{ borderColor: "var(--border)" }}>Reset</button>
+        <button type="button" onClick={reset} className="btn-secondary px-4 py-2 text-sm">Reset</button>
       </div>
       {isPending ? <p className="mt-2 text-xs text-muted">Updating...</p> : null}
     </div>

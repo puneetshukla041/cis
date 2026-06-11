@@ -30,22 +30,22 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
 
   return (
     <div className="space-y-5">
-      <div className="card p-4">
+      <div className="hero-card p-5 md:p-6">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div className="space-y-1">
-            <p className="text-xs text-muted">Day {topic.day} · {topic.bucket} · {topic.priority}</p>
-            <p className="text-lg font-medium">{topic.title}</p>
+            <p className="eyebrow">Day {topic.day} · {topic.bucket} · {topic.priority}</p>
+            <p className="mt-2 text-2xl font-semibold tracking-tight">{topic.title}</p>
           </div>
           <div className="flex flex-wrap gap-2 text-sm">
-            <button onClick={() => setBookmarked((v) => !v)} className="rounded-xl border px-4 py-2 font-medium" style={{ borderColor: "var(--border)" }}>{bookmarked ? "Bookmarked" : "Bookmark"}</button>
-            <button onClick={() => setCompleted((v) => !v)} className="rounded-xl border px-4 py-2 font-medium" style={{ borderColor: "var(--border)" }}>{completed ? "Completed" : "Mark complete"}</button>
-            <a href={`/api/learning/${topic.id}/questions`} target="_blank" className="rounded-xl bg-blue-600 px-4 py-2 font-medium text-white">100 Q JSON</a>
-            <button onClick={() => window.print()} className="rounded-xl border px-4 py-2 font-medium" style={{ borderColor: "var(--border)" }}>Print/PDF</button>
+            <button onClick={() => setBookmarked((v) => !v)} className="btn-secondary px-4 py-2">{bookmarked ? "Bookmarked" : "Bookmark"}</button>
+            <button onClick={() => setCompleted((v) => !v)} className="btn-secondary px-4 py-2">{completed ? "Completed" : "Mark complete"}</button>
+            <a href={`/api/learning/${topic.id}/questions`} target="_blank" className="btn-primary px-4 py-2">100 Q JSON</a>
+            <button onClick={() => window.print()} className="btn-secondary px-4 py-2">Print/PDF</button>
           </div>
         </div>
       </div>
 
-      <section className="card p-5 space-y-5">
+      <section className="card p-5 md:p-6 space-y-6">
         <div className="note-box p-4">
           <p className="text-sm text-muted">Why this matters</p>
           <p className="mt-2 leading-7">{topic.why}</p>
@@ -54,7 +54,7 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
         <div>
           <p className="mb-3 text-sm text-muted">Concepts to master</p>
           <div className="flex flex-wrap gap-2">
-            {topic.concepts.map((concept) => <span key={concept} className="rounded-full border px-3 py-1 text-sm" style={{ borderColor: "var(--border)" }}>{concept}</span>)}
+            {topic.concepts.map((concept) => <span key={concept} className="pill">{concept}</span>)}
           </div>
         </div>
 
@@ -69,7 +69,7 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
           </div>
           <aside className="space-y-4">
             {topic.tables.map((table) => (
-              <div key={table.title} className="rounded-2xl border p-4" style={{ borderColor: "var(--border)" }}>
+              <div key={table.title} className="note-box p-4">
                 <p className="mb-3 text-sm font-medium text-muted">{table.title}</p>
                 <div className="overflow-x-auto">
                   <table className="table-clean text-sm">
@@ -88,7 +88,7 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
           <p className="text-sm font-medium text-muted">Complete MCQ-ready fact bank</p>
           <div className="mt-4 grid gap-3 md:grid-cols-2">
             {topic.facts.map((fact, i) => (
-              <div key={`${fact.key}-${i}`} className="rounded-xl border p-3" style={{ borderColor: "var(--border)" }}>
+              <div key={`${fact.key}-${i}`} className="mini-card p-3">
                 <p className="text-sm"><span className="text-muted">{i + 1}.</span> {fact.key} <span className="text-muted">—</span> {fact.answer}</p>
                 <p className="mt-2 text-sm leading-6 text-muted">{fact.explanation}</p>
               </div>
@@ -108,9 +108,9 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
         </div>
       </section>
 
-      <section className="card p-5">
+      <section className="card p-5 md:p-6">
         <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
-          <p className="text-base font-medium">Topic practice - 100 MCQs</p>
+          <p className="text-lg font-semibold tracking-tight">Topic practice - 100 MCQs</p>
           <p className="text-sm text-muted">Answered {Object.keys(answers).length}/{microQuiz.length} · Score {score}/{microQuiz.length}</p>
         </div>
         <div className="space-y-4">

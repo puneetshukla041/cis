@@ -162,27 +162,27 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
   return (
     <Container>
       <div className="grid gap-6 lg:grid-cols-[1fr_340px]">
-        <div className="card p-5">
+        <div className="card p-5 md:p-6">
           <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
             <div>
-              <p className="text-sm font-bold text-muted">{attempt.testTitle} • Q {index + 1}/{questions.length}</p>
-              <p className="text-lg font-medium">{studyMode === "learning" ? "Learning Mode" : "Exam Mode"}</p>
+              <p className="text-sm font-medium text-muted">{attempt.testTitle} • Q {index + 1}/{questions.length}</p>
+              <p className="text-xl font-semibold tracking-tight">{studyMode === "learning" ? "Learning Mode" : "Exam Mode"}</p>
             </div>
             <div className="flex items-center gap-3">
-              <select value={studyMode} onChange={(e) => setStudyMode(e.target.value as StudyMode)} className="rounded-xl border px-3 py-2 text-sm font-medium" style={{ background: "var(--panel-2)", borderColor: "var(--border)" }}>
+              <select value={studyMode} onChange={(e) => setStudyMode(e.target.value as StudyMode)} className="field px-3 py-2 text-sm">
                 <option value="learning">Learning Mode</option>
                 <option value="exam">Exam Mode</option>
               </select>
-              <div className="rounded-2xl bg-red-100 px-4 py-2 text-lg font-medium text-red-700">{mm}:{ss}</div>
+              <div className="rounded-2xl border px-4 py-2 text-lg font-semibold" style={{ borderColor: "var(--border)", background: "var(--panel-2)", color: "var(--danger)" }}>{mm}:{ss}</div>
             </div>
           </div>
 
           <div className="mini-card p-5">
             <div className="mb-3 flex flex-wrap gap-2 text-xs font-medium">
-              <span className="rounded-full bg-blue-100 px-3 py-1 text-blue-700">{q.subject}</span>
-              <span className="rounded-full bg-slate-200 dark:bg-zinc-900 px-3 py-1 text-zinc-700 dark:text-zinc-100">{q.topic}</span>
-              <span className="rounded-full bg-amber-100 px-3 py-1 text-amber-700">{q.difficulty}</span>
-              <span className="rounded-full bg-emerald-100 px-3 py-1 text-emerald-700">{q.importance}</span>
+              <span className="pill">{q.subject}</span>
+              <span className="pill">{q.topic}</span>
+              <span className="pill">{q.difficulty}</span>
+              <span className="pill">{q.importance}</span>
             </div>
             <p className="text-base font-medium leading-8">{q.question}</p>
           </div>
@@ -198,7 +198,7 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
 
           {studyMode === "learning" && answered ? (
             <div className={`mt-5 rounded-2xl border p-4 ${isCorrect ? "border-green-200 bg-green-50 text-green-800 dark:border-green-900/50 dark:bg-green-950/30 dark:text-green-200" : "border-red-200 bg-red-50 text-red-800 dark:border-red-900/50 dark:bg-red-950/30 dark:text-red-200"}`}>
-              <p className="text-lg font-medium">{isCorrect ? "Correct" : `Wrong. Correct answer is ${q.answer}`}</p>
+              <p className="text-xl font-semibold tracking-tight">{isCorrect ? "Correct" : `Wrong. Correct answer is ${q.answer}`}</p>
               <p className="mt-2 text-sm"><b>Explanation:</b> {q.explanation || "No explanation available."}</p>
               {q.sourceHint ? <p className="mt-2 text-xs"><b>Source:</b> {q.sourceHint}</p> : null}
             </div>
@@ -210,19 +210,19 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
           </div>
 
           <div className="mt-5 flex flex-wrap justify-between gap-3">
-            <button onClick={goPrev} className="rounded-xl border px-5 py-3 font-medium" style={{ borderColor: "var(--border)" }}>Previous</button>
+            <button onClick={goPrev} className="btn-secondary px-5 py-3">Previous</button>
             <div className="flex flex-wrap gap-3">
-              <button onClick={skipAndNext} className="rounded-xl border px-5 py-3 font-medium" style={{ borderColor: "var(--border)" }}>Skip & Next</button>
-              <button onClick={() => save({ isSkipped: a?.isSkipped, selectedOption: a?.selectedOption, isBookmarked: !a?.isBookmarked })} className="rounded-xl border px-5 py-3 font-medium" style={{ borderColor: "var(--border)" }}>{a?.isBookmarked ? "Unbookmark" : "Bookmark"}</button>
-              <button onClick={goNext} className="rounded-xl bg-blue-600 px-5 py-3 font-medium text-white">Next</button>
+              <button onClick={skipAndNext} className="btn-secondary px-5 py-3">Skip & Next</button>
+              <button onClick={() => save({ isSkipped: a?.isSkipped, selectedOption: a?.selectedOption, isBookmarked: !a?.isBookmarked })} className="btn-secondary px-5 py-3">{a?.isBookmarked ? "Unbookmark" : "Bookmark"}</button>
+              <button onClick={goNext} className="btn-primary px-5 py-3">Next</button>
             </div>
           </div>
         </div>
 
-        <aside className="card p-5">
+        <aside className="card p-5 md:p-6">
           <div className="flex gap-2">
-            <button onClick={() => setFull(!full)} className="rounded-xl border px-4 py-2 text-sm font-medium" style={{ borderColor: "var(--border)" }}>{full ? "Exit Full Screen" : "Full Screen"}</button>
-            <button onClick={() => submit(false)} disabled={submitting} className="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-medium text-white disabled:opacity-50">Submit</button>
+            <button onClick={() => setFull(!full)} className="btn-secondary px-4 py-2 text-sm">{full ? "Exit Full Screen" : "Full Screen"}</button>
+            <button onClick={() => submit(false)} disabled={submitting} className="rounded-xl px-4 py-2 text-sm font-semibold text-white disabled:opacity-50" style={{ background: "var(--success)" }}>Submit</button>
           </div>
 
           <div className="mt-5 grid grid-cols-2 gap-3 text-center">
