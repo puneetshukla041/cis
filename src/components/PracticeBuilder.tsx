@@ -49,9 +49,9 @@ export default function PracticeBuilder() {
   const toast = useToast();
 
   const sourceHelp = useMemo(() => {
-    if (form.source === "library") return "Uses only the Paper 1 Learning Library.";
+    if (form.source === "library") return "Uses only approved Paper 1 Learning Library questions.";
     if (form.source === "json") return "Uses only your uploaded JSON question bank.";
-    return "Uses a 50/50 mix when both sources exist, otherwise falls back automatically.";
+    return "Mixes approved library and uploaded JSON when both exist, otherwise falls back automatically.";
   }, [form.source]);
 
   const update = <K extends keyof FormState>(key: K, value: FormState[K]) => setForm((prev) => ({ ...prev, [key]: value }));
@@ -98,12 +98,12 @@ export default function PracticeBuilder() {
             <p className="eyebrow">Practice builder</p>
             <h1 className="mt-3 text-2xl font-semibold tracking-tight md:text-3xl">Build a focused test from library and uploaded questions.</h1>
             <p className="mt-3 max-w-2xl text-sm leading-7 text-muted md:text-base">
-              Mix Paper 1 learning-bank questions with your uploaded JSON bank, prioritize weak areas, and keep every generated set balanced by topic and difficulty.
+              Build practice from approved Learning Library questions and your uploaded JSON bank. Draft or auto-generated questions are blocked.
             </p>
           </div>
           <div className="grid grid-cols-3 gap-2 rounded-2xl border p-2 text-center text-xs" style={{ borderColor: "var(--border)", background: "var(--panel-2)" }}>
-            <div className="rounded-xl px-3 py-2"><span className="block text-sm font-semibold">50%</span><span className="text-muted">Library</span></div>
-            <div className="rounded-xl px-3 py-2"><span className="block text-sm font-semibold">50%</span><span className="text-muted">JSON</span></div>
+            <div className="rounded-xl px-3 py-2"><span className="block text-sm font-semibold">Approved</span><span className="text-muted">Library</span></div>
+            <div className="rounded-xl px-3 py-2"><span className="block text-sm font-semibold">Verified</span><span className="text-muted">JSON</span></div>
             <div className="rounded-xl px-3 py-2"><span className="block text-sm font-semibold">0</span><span className="text-muted">Duplicates</span></div>
           </div>
         </div>
