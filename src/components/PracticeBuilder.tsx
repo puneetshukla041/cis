@@ -38,11 +38,12 @@ type FormState = {
   subject: string;
   topic: string;
   difficulty: "" | "easy" | "medium" | "hard";
+  practiceType: "learning" | "exam";
   limit: number;
 };
 
 export default function PracticeBuilder() {
-  const [form, setForm] = useState<FormState>({ mode: "random", paper: "", source: "mixed", subject: "", topic: "", difficulty: "", limit: 25 });
+  const [form, setForm] = useState<FormState>({ mode: "random", paper: "", source: "mixed", subject: "", topic: "", difficulty: "", practiceType: "learning", limit: 25 });
   const [building, setBuilding] = useState(false);
   const router = useRouter();
   const toast = useToast();
@@ -73,7 +74,7 @@ export default function PracticeBuilder() {
       const start = await fetch("/api/attempts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ testId: json.data.test._id, mode: payload.mode || "random" }),
+        body: JSON.stringify({ testId: json.data.test._id, mode: payload.mode || "random", practiceType: payload.practiceType || "learning" }),
       });
       const started = await start.json();
       if (!start.ok) {
@@ -132,6 +133,13 @@ export default function PracticeBuilder() {
               <option value="">Any paper</option>
               <option value="paper1">Paper 1</option>
               <option value="paper2">Paper 2</option>
+            </select>
+          </label>
+
+          <label className="control-label">Practice type
+            <select value={form.practiceType} onChange={(event) => update("practiceType", event.target.value as FormState["practiceType"])} className={fieldClass}>
+              <option value="learning">Learning Practice: submit each answer, see explanation</option>
+              <option value="exam">Exam Practice: timer, final review after submit</option>
             </select>
           </label>
 

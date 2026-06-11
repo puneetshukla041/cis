@@ -286,7 +286,7 @@ export async function getTestManageData(testId: string): Promise<any | null> {
   await connectDB();
   const [test, questions] = await Promise.all([
     (TestModel as any).findById(testId).lean(),
-    QuestionModel.find({ testId }).select("order question options answer explanation subject chapter topic difficulty importance sourceHint").sort({ order: 1 }).lean(),
+    QuestionModel.find({ testId }).select("order question options answer explanation subject chapter topic subtopic difficulty importance sourceHint source reviewStatus facultyReviewed factSource pyqSimilarity examPatternTag whyCorrect whyOthersWrong qualityScore").sort({ order: 1 }).lean(),
   ]);
   if (!test) return null;
   return toPlain({ test, questions });

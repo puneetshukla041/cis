@@ -103,6 +103,15 @@ function normalizeQuestion(raw: any, index: number, meta: any) {
     difficulty: normalizeDifficulty(raw?.difficulty ?? raw?.level),
     importance: normalizeImportance(raw?.importance ?? raw?.priority ?? raw?.weightage),
     sourceHint: clean(raw?.sourceHint ?? raw?.source ?? raw?.askedIn ?? raw?.pyq ?? ""),
+    source: raw?.source === "Learning Library" ? "Learning Library" : raw?.source === "Previous Year Pattern" ? "Previous Year Pattern" : raw?.source === "Custom Test" ? "Custom Test" : "Uploaded JSON",
+    reviewStatus: raw?.reviewStatus || raw?.status || "approved",
+    facultyReviewed: Boolean(raw?.facultyReviewed || raw?.reviewedByFaculty),
+    factSource: clean(raw?.factSource ?? raw?.sourceReference ?? raw?.sourceHint ?? raw?.source ?? "Uploaded question bank"),
+    pyqSimilarity: raw?.pyqSimilarity || "medium",
+    examPatternTag: clean(raw?.examPatternTag ?? raw?.pattern ?? raw?.questionType ?? "uploaded practice"),
+    whyCorrect: clean(raw?.whyCorrect ?? raw?.correctExplanation ?? ""),
+    whyOthersWrong: clean(raw?.whyOthersWrong ?? raw?.wrongOptionsExplanation ?? ""),
+    qualityScore: Number(raw?.qualityScore ?? 75),
   };
 }
 

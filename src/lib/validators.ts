@@ -5,6 +5,9 @@ export const paperSchema = z.enum(["paper1", "paper2"]);
 export const modeSchema = z.enum(["daily", "mock", "topic", "weak", "random"]);
 export const difficultySchema = z.enum(["easy", "medium", "hard"]);
 export const importanceSchema = z.enum(["low", "medium", "high"]);
+export const reviewStatusSchema = z.enum(["draft", "reviewed", "approved", "rejected"]);
+export const sourceSchema = z.enum(["Learning Library", "Uploaded JSON", "Previous Year Pattern", "Custom Test"]);
+export const pyqSimilaritySchema = z.enum(["direct", "high", "medium", "low"]);
 
 export const questionInputSchema = z.object({
   question: z.string().min(4, "Question is too short"),
@@ -23,6 +26,15 @@ export const questionInputSchema = z.object({
   difficulty: difficultySchema,
   importance: importanceSchema,
   sourceHint: z.string().optional().default(""),
+  source: sourceSchema.optional().default("Uploaded JSON"),
+  reviewStatus: reviewStatusSchema.optional().default("approved"),
+  facultyReviewed: z.boolean().optional().default(false),
+  factSource: z.string().optional().default(""),
+  pyqSimilarity: pyqSimilaritySchema.optional().default("medium"),
+  examPatternTag: z.string().optional().default(""),
+  whyCorrect: z.string().optional().default(""),
+  whyOthersWrong: z.string().optional().default(""),
+  qualityScore: z.number().min(0).max(100).optional().default(75),
 });
 
 export const uploadTestSchema = z.object({
@@ -60,6 +72,7 @@ export const updateTestSchema = z.object({
 export const startAttemptSchema = z.object({
   testId: z.string().min(1),
   mode: modeSchema.optional().default("daily"),
+  practiceType: z.enum(["learning", "exam"]).optional().default("learning"),
 });
 
 export const answerSchema = z.object({
@@ -77,5 +90,6 @@ export const practiceBuildSchema = z.object({
   topic: z.string().optional(),
   difficulty: difficultySchema.optional(),
   source: z.enum(["mixed", "library", "json"]).optional().default("mixed"),
+  practiceType: z.enum(["learning", "exam"]).optional().default("learning"),
   limit: z.number().min(5).max(100).default(25),
 });

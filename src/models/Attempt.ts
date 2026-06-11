@@ -7,6 +7,7 @@ const AttemptSchema = new Schema(
     testTitle: { type: String, default: "" },
     paper: { type: String, enum: ["paper1", "paper2"], required: true, index: true },
     mode: { type: String, enum: ["daily", "mock", "topic", "weak", "random"], default: "daily", index: true },
+    practiceType: { type: String, enum: ["learning", "exam"], default: "learning", index: true },
     status: { type: String, enum: ["in-progress", "submitted"], default: "in-progress", index: true },
     startedAt: { type: Date, default: Date.now, index: true },
     submittedAt: { type: Date },

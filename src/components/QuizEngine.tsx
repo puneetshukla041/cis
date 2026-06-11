@@ -13,7 +13,7 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
   const [draftMap, setDraftMap] = useState<Record<string, Option | undefined>>(() => Object.fromEntries(answers.filter((a: any) => a.selectedOption).map((a: any) => [String(a.questionId), a.selectedOption])));
   const [elapsed, setElapsed] = useState(attempt.elapsedSeconds || 0);
   const [full, setFull] = useState(false);
-  const [studyMode, setStudyMode] = useState<StudyMode>("learning");
+  const [studyMode, setStudyMode] = useState<StudyMode>((attempt.practiceType === "exam" ? "exam" : "learning") as StudyMode);
   const [notes, setNotes] = useState<Record<string, string>>({});
   const [submitting, setSubmitting] = useState(false);
   const [saving, setSaving] = useState(false);
@@ -232,8 +232,10 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
           {studyMode === "learning" && answered ? (
             <div className={`mt-5 rounded-2xl border p-4 ${isCorrect ? "border-green-200 bg-green-50 text-green-800 dark:border-green-900/50 dark:bg-green-950/30 dark:text-green-200" : "border-red-200 bg-red-50 text-red-800 dark:border-red-900/50 dark:bg-red-950/30 dark:text-red-200"}`}>
               <p className="text-xl font-semibold tracking-tight">{isCorrect ? "Correct" : `Wrong. Correct answer is ${q.answer}`}</p>
-              <p className="mt-2 text-sm"><b>Explanation:</b> {q.explanation || "No explanation available."}</p>
-              <p className="mt-2 text-xs"><b>Difficulty:</b> {q.difficulty} {q.sourceHint ? <> · <b>Source:</b> {q.sourceHint}</> : null}</p>
+              <p className="mt-2 text-sm"><b>Why correct:</b> {q.whyCorrect || q.explanation || "The correct option satisfies the question condition."}</p>
+              <p className="mt-2 text-sm"><b>Why other options are wrong:</b> {q.whyOthersWrong || "Other options do not match the required concept, fact or calculation."}</p>
+              <p className="mt-2 text-sm"><b>Detailed explanation:</b> {q.explanation || "No explanation available."}</p>
+              <p className="mt-2 text-xs"><b>Difficulty:</b> {q.difficulty} · <b>Pattern:</b> {q.examPatternTag || "practice"} {q.sourceHint ? <> · <b>Source:</b> {q.source || q.sourceHint}</> : null}</p>
             </div>
           ) : null}
 

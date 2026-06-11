@@ -15,6 +15,19 @@ export default async function DashboardPage() {
         <p className="mt-3 max-w-2xl text-sm leading-7 text-muted">Track accuracy, topic mastery, weak areas and practice readiness after each test.</p>
       </section>
 
+      <section className="card p-5 md:p-6">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div><p className="text-lg font-semibold tracking-tight">Daily target engine</p><p className="mt-1 text-sm text-muted">Built from learning completion and weak-topic analytics.</p></div>
+          <a href="/targets" className="btn-secondary px-4 py-2 text-sm">Open targets</a>
+        </div>
+        <div className="mt-5 grid gap-3 md:grid-cols-4">
+          <div className="mini-card p-4"><p className="text-sm font-medium">Read today’s notes</p><p className="mt-1 text-xs text-muted">Continue the next incomplete Paper 1 topic.</p></div>
+          <div className="mini-card p-4"><p className="text-sm font-medium">100 topic MCQs</p><p className="mt-1 text-xs text-muted">Use Learning Practice after theory.</p></div>
+          <div className="mini-card p-4"><p className="text-sm font-medium">30 wrong questions</p><p className="mt-1 text-xs text-muted">Review wrong/skipped/bookmarked items.</p></div>
+          <div className="mini-card p-4"><p className="text-sm font-medium">One weak-topic set</p><p className="mt-1 text-xs text-muted">Let analytics choose weak areas.</p></div>
+        </div>
+      </section>
+
       <section className="grid gap-4 md:grid-cols-2 xl:grid-cols-5">
         <StatCard label="Tests Attempted" value={s.totalTestsAttempted} tone="blue" />
         <StatCard label="Questions Solved" value={s.totalQuestionsSolved} tone="green" />

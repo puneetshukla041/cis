@@ -43,6 +43,8 @@ export async function POST(request: Request, context: { params: Promise<{ attemp
         topic: question.topic,
         subtopic: question.subtopic,
         difficulty: question.difficulty,
+        source: question.source,
+        examPatternTag: question.examPatternTag,
       },
       { upsert: true, new: true }
     );

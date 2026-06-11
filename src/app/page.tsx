@@ -36,10 +36,13 @@ export default async function HomePage() {
         <StatCard label="Readiness" value={`${data?.summary?.readinessScore || 0}/100`} helper={data?.summary?.rankPrediction || "Start practicing"} />
       </section>
 
-      <section className="grid gap-4 lg:grid-cols-3">
+      <section className="grid gap-4 lg:grid-cols-3 xl:grid-cols-6">
         <Link href="/learn" className="card hover-lift p-5"><p className="font-medium">Learn</p><p className="mt-2 text-sm leading-6 text-muted">Paper 1 topic notes, fact banks, PYQ traps and full topic sets.</p></Link>
         <Link href="/practice" className="card hover-lift p-5"><p className="font-medium">Practice</p><p className="mt-2 text-sm leading-6 text-muted">Mix learning-library and uploaded JSON questions with balanced coverage.</p></Link>
         <Link href="/dashboard" className="card hover-lift p-5"><p className="font-medium">Review</p><p className="mt-2 text-sm leading-6 text-muted">Track weak topics, accuracy, time and readiness after attempts.</p></Link>
+        <Link href="/coverage" className="card hover-lift p-5"><p className="font-medium">Coverage matrix</p><p className="mt-2 text-sm leading-6 text-muted">Check Paper 1 syllabus readiness and topic coverage.</p></Link>
+        <Link href="/targets" className="card hover-lift p-5"><p className="font-medium">Daily targets</p><p className="mt-2 text-sm leading-6 text-muted">Know what to read, solve and revise today.</p></Link>
+        <Link href="/admin/content" className="card hover-lift p-5"><p className="font-medium">Content audit</p><p className="mt-2 text-sm leading-6 text-muted">Faculty-style checks for question bank quality.</p></Link>
       </section>
     </div>
   );

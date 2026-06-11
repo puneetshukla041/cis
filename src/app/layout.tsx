@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 import type { Metadata } from "next";
 import Link from "next/link";
 import "./globals.css";
@@ -14,10 +16,12 @@ const nav = [
   ["Tests", "/tests"],
   ["Learn", "/learn"],
   ["Syllabus", "/syllabus"],
+  ["Coverage", "/coverage"],
   ["50 Days", "/plan"],
-  ["Upload", "/upload"],
-  ["Dashboard", "/dashboard"],
   ["Practice", "/practice"],
+  ["Targets", "/targets"],
+  ["Dashboard", "/dashboard"],
+  ["Upload", "/upload"],
 ];
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

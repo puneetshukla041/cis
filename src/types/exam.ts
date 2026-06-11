@@ -4,6 +4,9 @@ export type Difficulty = "easy" | "medium" | "hard";
 export type Importance = "low" | "medium" | "high";
 export type OptionKey = "A" | "B" | "C" | "D";
 export type AttemptStatus = "in-progress" | "submitted";
+export type ReviewStatus = "draft" | "reviewed" | "approved" | "rejected";
+export type QuestionSource = "Learning Library" | "Uploaded JSON" | "Previous Year Pattern" | "Custom Test";
+export type PyqSimilarity = "direct" | "high" | "medium" | "low";
 
 export interface QuestionInput {
   question: string;
@@ -17,6 +20,15 @@ export interface QuestionInput {
   difficulty: Difficulty;
   importance: Importance;
   sourceHint?: string;
+  source?: QuestionSource;
+  reviewStatus?: ReviewStatus;
+  facultyReviewed?: boolean;
+  factSource?: string;
+  pyqSimilarity?: PyqSimilarity;
+  examPatternTag?: string;
+  whyCorrect?: string;
+  whyOthersWrong?: string;
+  qualityScore?: number;
 }
 
 export interface TestUploadInput {

@@ -307,11 +307,14 @@ export default function LearningTopicClient({ topic, microQuiz }: { topic: Learn
             {submitted ? (
               <div className={`mt-4 rounded-2xl border p-4 ${submitted === current.answer ? "border-emerald-500/50 bg-emerald-500/10" : "border-rose-500/50 bg-rose-500/10"}`}>
                 <p className="font-medium">Correct Answer: {current.answer}</p>
+                <p className="mt-2 text-sm leading-7"><span className="text-muted">Why correct:</span> {current.whyCorrect || current.explanation}</p>
+                <p className="mt-2 text-sm leading-7"><span className="text-muted">Why other options are wrong:</span> {current.whyOthersWrong || "Other options do not satisfy the exact association or condition."}</p>
                 <p className="mt-2 text-sm leading-7 text-muted">{current.explanation}</p>
                 <div className="mt-3 flex flex-wrap gap-2 text-xs">
                   <span className="pill">Difficulty: {current.difficulty}</span>
                   <span className="pill">Topic: {current.topic}</span>
-                  <span className="pill">Source: {current.sourceHint || "Learning Library"}</span>
+                  <span className="pill">Pattern: {current.examPatternTag || "topic practice"}</span>
+                  <span className="pill">Source: {current.source || current.sourceHint || "Learning Library"}</span>
                 </div>
               </div>
             ) : null}

@@ -171,6 +171,15 @@ function buildQuestionDocs(testId: any, normalizedData: TestUploadInput, validat
     difficulty: q.difficulty,
     importance: q.importance,
     sourceHint: q.sourceHint || "",
+    source: q.source || "Uploaded JSON",
+    reviewStatus: q.reviewStatus || "approved",
+    facultyReviewed: q.facultyReviewed || false,
+    factSource: q.factSource || q.sourceHint || "Uploaded question bank",
+    pyqSimilarity: q.pyqSimilarity || "medium",
+    examPatternTag: q.examPatternTag || "uploaded practice",
+    whyCorrect: q.whyCorrect || `The correct option is ${q.answer} based on the uploaded answer key.`,
+    whyOthersWrong: q.whyOthersWrong || "Other options do not match the uploaded answer key or question condition.",
+    qualityScore: q.qualityScore || (q.explanation && q.explanation.length >= 120 ? 82 : 65),
   }));
 }
 

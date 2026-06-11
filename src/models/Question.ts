@@ -22,6 +22,15 @@ const QuestionSchema = new Schema(
     difficulty: { type: String, enum: ["easy", "medium", "hard"], required: true, index: true },
     importance: { type: String, enum: ["low", "medium", "high"], required: true, index: true },
     sourceHint: { type: String, default: "" },
+    source: { type: String, enum: ["Learning Library", "Uploaded JSON", "Previous Year Pattern", "Custom Test"], default: "Uploaded JSON", index: true },
+    reviewStatus: { type: String, enum: ["draft", "reviewed", "approved", "rejected"], default: "approved", index: true },
+    facultyReviewed: { type: Boolean, default: false, index: true },
+    factSource: { type: String, default: "" },
+    pyqSimilarity: { type: String, enum: ["direct", "high", "medium", "low"], default: "medium", index: true },
+    examPatternTag: { type: String, default: "" },
+    whyCorrect: { type: String, default: "" },
+    whyOthersWrong: { type: String, default: "" },
+    qualityScore: { type: Number, default: 75, index: true },
   },
   { timestamps: true }
 );

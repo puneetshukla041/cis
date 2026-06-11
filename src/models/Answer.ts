@@ -18,6 +18,8 @@ const AnswerSchema = new Schema(
     topic: { type: String, index: true },
     subtopic: { type: String, index: true },
     difficulty: { type: String, enum: ["easy", "medium", "hard"], index: true },
+    source: { type: String, index: true },
+    examPatternTag: { type: String, index: true },
   },
   { timestamps: true }
 );
