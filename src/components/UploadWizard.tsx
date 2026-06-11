@@ -208,7 +208,7 @@ export default function UploadWizard({ replaceTestId }: { replaceTestId?: string
     date: meta.date,
     durationMinutes: Number(meta.durationMinutes || 120),
     mode: meta.mode,
-    category: meta.paperName,
+    category: meta.category,
     subject: meta.subject,
     totalMarks: Number(meta.totalMarks || 100),
     negativeMarking: meta.negativeMarking,
@@ -304,7 +304,7 @@ export default function UploadWizard({ replaceTestId }: { replaceTestId?: string
   return (
     <div className="relative grid gap-6 lg:grid-cols-[1fr_410px]">
       {(loading || isParsing || isPending) ? (
-        <div className="absolute inset-0 z-20 flex min-h-80 items-start justify-center rounded-[24px] bg-white/75 pt-24 backdrop-blur-sm dark:bg-slate-950/75">
+        <div className="absolute inset-0 z-20 flex min-h-80 items-start justify-center rounded-[24px] bg-white/75 pt-24 backdrop-blur-sm dark:bg-black/85">
           <div className="card w-full max-w-sm p-6 text-center">
             <div className="mx-auto h-12 w-12 animate-spin rounded-full border-4 border-blue-200 border-t-blue-600" />
             <p className="mt-4 font-medium">{loadingLabel || (isParsing ? "Reading JSON..." : "Loading...")}</p>
@@ -317,35 +317,36 @@ export default function UploadWizard({ replaceTestId }: { replaceTestId?: string
         <div className="card p-5">
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
             <div>
-              <h1 className="text-2xl font-medium">{replaceTestId ? "Replace" : "Upload"}</h1>
+              <p className="text-lg font-medium">{replaceTestId ? "Replace Test" : "Upload Test"}</p>
               <p className="text-sm text-muted">Paste JSON or upload JSON/CSV/Excel. Metadata is auto-detected and editable before saving.</p>
             </div>
             <span className={`rounded-full px-3 py-1 text-sm font-medium ${willTrim ? "bg-orange-100 text-orange-700" : "bg-blue-100 text-blue-700"}`}>{isParsing ? "Reading..." : `${originalCount} Q`}</span>
           </div>
 
           <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
-            <label className="text-sm font-medium">Exam Name<input value={meta.examName} onChange={(e) => setMeta({ ...meta, examName: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
-            <label className="text-sm font-medium">Paper Type<select value={meta.paper} onChange={(e) => setMeta({ ...meta, paper: e.target.value as any, paperName: e.target.value === "paper2" ? "Paper 2" : "Paper 1" })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }}><option value="paper1">Paper 1</option><option value="paper2">Paper 2</option></select></label>
-            <label className="text-sm font-medium">Date<input type="date" value={meta.date} onChange={(e) => setMeta((prev) => applyDailyAutoMeta(prev, e.target.value))} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
-            <label className="text-sm font-medium xl:col-span-2">Title<input value={meta.title} onChange={(e) => setMeta({ ...meta, title: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
-            <label className="text-sm font-medium">Duration<input type="number" value={meta.durationMinutes} onChange={(e) => setMeta({ ...meta, durationMinutes: Number(e.target.value) })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
-            <label className="text-sm font-medium">Subject<input value={meta.subject} onChange={(e) => setMeta({ ...meta, subject: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
-            <label className="text-sm font-medium">Mode<select value={meta.mode} onChange={(e) => setMeta({ ...meta, mode: e.target.value as any })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }}><option value="daily">Daily</option><option value="mock">Mock</option><option value="topic">Topic</option><option value="weak">Weak</option><option value="random">Random</option></select></label>
-            <label className="text-sm font-medium">Total Marks<input type="number" value={meta.totalMarks} onChange={(e) => setMeta({ ...meta, totalMarks: Number(e.target.value) })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
-            <label className="text-sm font-medium">Negative Marking<input value={meta.negativeMarking} onChange={(e) => setMeta({ ...meta, negativeMarking: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold">Exam Name<input value={meta.examName} onChange={(e) => setMeta({ ...meta, examName: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold">Paper Type<select value={meta.paper} onChange={(e) => setMeta({ ...meta, paper: e.target.value as any, paperName: e.target.value === "paper2" ? "Paper 2" : "Paper 1" })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }}><option value="paper1">Paper 1</option><option value="paper2">Paper 2</option></select></label>
+            <label className="text-sm font-bold">Date<input type="date" value={meta.date} onChange={(e) => setMeta((prev) => applyDailyAutoMeta(prev, e.target.value))} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold xl:col-span-2">Title<input value={meta.title} onChange={(e) => setMeta({ ...meta, title: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold">Duration<input type="number" value={meta.durationMinutes} onChange={(e) => setMeta({ ...meta, durationMinutes: Number(e.target.value) })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold">Category<input value={meta.category} onChange={(e) => setMeta({ ...meta, category: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold">Subject<input value={meta.subject} onChange={(e) => setMeta({ ...meta, subject: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold">Mode<select value={meta.mode} onChange={(e) => setMeta({ ...meta, mode: e.target.value as any })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }}><option value="daily">Daily</option><option value="mock">Mock</option><option value="topic">Topic</option><option value="weak">Weak</option><option value="random">Random</option></select></label>
+            <label className="text-sm font-bold">Total Marks<input type="number" value={meta.totalMarks} onChange={(e) => setMeta({ ...meta, totalMarks: Number(e.target.value) })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
+            <label className="text-sm font-bold">Negative Marking<input value={meta.negativeMarking} onChange={(e) => setMeta({ ...meta, negativeMarking: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
           </div>
           <div className="mt-4 flex flex-wrap items-center gap-3 rounded-2xl border p-3 text-sm" style={{ borderColor: "var(--border)", background: "var(--panel-2)" }}>
             <button type="button" onClick={() => setMeta((prev) => applyDailyAutoMeta(prev, getTodayDateOnly()))} className="rounded-xl bg-emerald-600 px-4 py-2 font-medium text-white">Auto Today + Paper</button>
-            <span className="font-medium text-muted">Auto daily plan: {formatDateForDisplay(meta.date)} = {meta.paperName}. Changing date updates Paper 1/Paper 2 automatically.</span>
+            <span className="font-bold text-muted">Auto daily plan: {formatDateForDisplay(meta.date)} = {meta.paperName}. Changing date updates Paper 1/Paper 2 automatically.</span>
           </div>
         </div>
 
         <div className="card p-5">
-          {willTrim ? <div className="mb-4 rounded-2xl border border-orange-200 bg-orange-50 p-4 text-sm font-medium text-orange-700 dark:border-orange-900/40 dark:bg-orange-950/30 dark:text-orange-300">This file has {originalCount} questions. App will upload first {MAX_UPLOAD_QUESTIONS}; extra {ignoredCount} ignored.</div> : null}
-          {localDuplicates.length ? <div className="mb-4 rounded-2xl border border-red-200 bg-red-50 p-4 text-sm font-medium text-red-700 dark:border-red-900/40 dark:bg-red-950/30 dark:text-red-300">Duplicate questions detected inside first 100: {localDuplicates.length}</div> : null}
-          {validation?.valid === false ? <div className="mb-4 rounded-2xl border border-red-200 bg-red-50 p-4 text-sm font-medium text-red-700 dark:border-red-900/40 dark:bg-red-950/30 dark:text-red-300">{validation.reason || "Validation failed."}</div> : null}
+          {willTrim ? <div className="mb-4 rounded-2xl border border-orange-200 bg-orange-50 p-4 text-sm font-bold text-orange-700 dark:border-orange-900/40 dark:bg-orange-950/30 dark:text-orange-300">This file has {originalCount} questions. App will upload first {MAX_UPLOAD_QUESTIONS}; extra {ignoredCount} ignored.</div> : null}
+          {localDuplicates.length ? <div className="mb-4 rounded-2xl border border-red-200 bg-red-50 p-4 text-sm font-bold text-red-700 dark:border-red-900/40 dark:bg-red-950/30 dark:text-red-300">Duplicate questions detected inside first 100: {localDuplicates.length}</div> : null}
+          {validation?.valid === false ? <div className="mb-4 rounded-2xl border border-red-200 bg-red-50 p-4 text-sm font-bold text-red-700 dark:border-red-900/40 dark:bg-red-950/30 dark:text-red-300">{validation.reason || "Validation failed."}</div> : null}
 
-          <textarea value={text} onChange={(e) => { setText(e.target.value); setValidation(null); }} spellCheck={false} className="h-[58vh] w-full rounded-2xl border bg-slate-950 p-4 font-mono text-sm text-slate-100 outline-none focus:ring-2 focus:ring-blue-500" style={{ borderColor: "var(--border)" }} />
+          <textarea value={text} onChange={(e) => { setText(e.target.value); setValidation(null); }} spellCheck={false} className="h-[58vh] w-full rounded-2xl border bg-black p-4 font-mono text-sm text-white outline-none focus:ring-2 focus:ring-blue-500" style={{ borderColor: "var(--border)" }} />
 
           <div className="mt-4 flex flex-wrap gap-3">
             <label className="cursor-pointer rounded-xl border px-5 py-3 text-sm font-medium" style={{ borderColor: "var(--border)" }}>Choose File<input type="file" accept="application/json,.json,.csv,.xlsx,.xls" className="sr-only" disabled={loading || isParsing} onChange={readFile} /></label>
@@ -358,25 +359,25 @@ export default function UploadWizard({ replaceTestId }: { replaceTestId?: string
 
       <aside className="space-y-4">
         <div className="card p-5">
-          <h2 className="text-lg font-medium">Preview</h2>
+          <p className="text-lg font-medium">Preview</p>
           <div className="mt-3 space-y-1 text-sm text-muted">
             <p>Title: <b>{meta.title || "-"}</b></p><p>Exam: <b>{meta.examName}</b></p><p>Paper: <b>{meta.paperName}</b></p><p>Date: <b>{formatDateForDisplay(meta.date)} ({meta.date})</b></p><p>Duration: <b>{meta.durationMinutes} min</b></p><p>Mode: <b>{meta.mode}</b></p><p>JSON Questions: <b>{originalCount}</b></p><p>Questions to Upload: <b>{acceptedCount}</b></p><p>Extra Ignored: <b>{ignoredCount}</b></p>
           </div>
         </div>
 
         <div className="card p-5">
-          <h2 className="text-lg font-medium">First Question Check</h2>
-          {uploadQuestions[0] ? <div className="mt-3 rounded-2xl bg-slate-100 p-3 text-sm dark:bg-slate-900"><p className="font-medium">{uploadQuestions[0].question}</p><p className="mt-2 text-muted">A. {uploadQuestions[0].options?.A}</p><p className="text-muted">B. {uploadQuestions[0].options?.B}</p><p className="text-muted">C. {uploadQuestions[0].options?.C}</p><p className="text-muted">D. {uploadQuestions[0].options?.D}</p><p className="mt-2 font-medium text-green-600">Answer: {uploadQuestions[0].answer}</p></div> : <p className="mt-2 text-sm text-muted">No question detected.</p>}
+          <p className="text-lg font-medium">First Question Check</p>
+          {uploadQuestions[0] ? <div className="mt-3 rounded-2xl bg-slate-100 dark:bg-zinc-950 p-3 text-sm dark:bg-black"><p className="font-medium">{uploadQuestions[0].question}</p><p className="mt-2 text-muted">A. {uploadQuestions[0].options?.A}</p><p className="text-muted">B. {uploadQuestions[0].options?.B}</p><p className="text-muted">C. {uploadQuestions[0].options?.C}</p><p className="text-muted">D. {uploadQuestions[0].options?.D}</p><p className="mt-2 font-bold text-green-600">Answer: {uploadQuestions[0].answer}</p></div> : <p className="mt-2 text-sm text-muted">No question detected.</p>}
         </div>
 
         <div className="card p-5">
-          <h2 className="text-lg font-medium">Topic Coverage</h2>
-          {topicCoverage.length ? <div className="mt-3 max-h-64 space-y-2 overflow-auto text-sm">{topicCoverage.slice(0, 20).map((item) => <div key={item.topic} className="flex items-center justify-between gap-3 rounded-xl bg-slate-100 px-3 py-2 dark:bg-slate-900"><span className="text-muted">{item.topic}</span><b>{item.count}</b></div>)}</div> : <p className="mt-2 text-sm text-muted">No topics detected.</p>}
+          <p className="text-lg font-medium">Topic Coverage</p>
+          {topicCoverage.length ? <div className="mt-3 max-h-64 space-y-2 overflow-auto text-sm">{topicCoverage.slice(0, 20).map((item) => <div key={item.topic} className="flex items-center justify-between gap-3 rounded-xl bg-slate-100 dark:bg-zinc-950 px-3 py-2 dark:bg-black"><span className="text-muted">{item.topic}</span><b>{item.count}</b></div>)}</div> : <p className="mt-2 text-sm text-muted">No topics detected.</p>}
         </div>
 
         <div className="card p-5">
-          <h2 className="text-lg font-medium">Validation Stats</h2>
-          {validation ? <div className="mt-3 space-y-2 text-sm"><p>Valid: <b>{String(validation.valid ?? false)}</b></p>{validation.reason ? <p className="rounded-xl bg-red-50 p-3 font-medium text-red-700 dark:bg-red-950/30 dark:text-red-300">{validation.reason}</p> : null}{validation.warnings?.map((w: string) => <p key={w} className="rounded-xl bg-orange-50 p-3 font-medium text-orange-700 dark:bg-orange-950/30 dark:text-orange-300">{w}</p>)}<p>Accepted: <b>{validation.stats?.acceptedQuestionCount || acceptedCount}</b></p><p>Original: <b>{validation.stats?.originalQuestionCount || originalCount}</b></p><p>Ignored: <b>{validation.stats?.ignoredQuestionCount || ignoredCount}</b></p><p>Already seen warning: <b>{validation.used?.length || 0}</b></p></div> : <p className="mt-2 text-sm text-muted">Click validate to see upload stats.</p>}
+          <p className="text-lg font-medium">Validation Stats</p>
+          {validation ? <div className="mt-3 space-y-2 text-sm"><p>Valid: <b>{String(validation.valid ?? false)}</b></p>{validation.reason ? <p className="rounded-xl bg-red-50 p-3 font-bold text-red-700 dark:bg-red-950/30 dark:text-red-300">{validation.reason}</p> : null}{validation.warnings?.map((w: string) => <p key={w} className="rounded-xl bg-orange-50 p-3 font-bold text-orange-700 dark:bg-orange-950/30 dark:text-orange-300">{w}</p>)}<p>Accepted: <b>{validation.stats?.acceptedQuestionCount || acceptedCount}</b></p><p>Original: <b>{validation.stats?.originalQuestionCount || originalCount}</b></p><p>Ignored: <b>{validation.stats?.ignoredQuestionCount || ignoredCount}</b></p><p>Already seen warning: <b>{validation.used?.length || 0}</b></p></div> : <p className="mt-2 text-sm text-muted">Click validate to see upload stats.</p>}
         </div>
       </aside>
     </div>

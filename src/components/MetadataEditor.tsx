@@ -47,7 +47,7 @@ export default function MetadataEditor({ test }: { test: any }) {
 
   return (
     <div className="card p-5">
-      <h2 className="text-xl font-black">Edit Metadata</h2>
+      <p className="text-base font-medium">Edit Metadata</p>
       <div className="mt-4 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
         <label className="font-bold xl:col-span-2">Title<input value={form.title} onChange={(e) => setForm({ ...form, title: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
         <label className="font-bold">Date<input type="date" value={form.date} onChange={(e) => setForm({ ...form, date: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
@@ -62,10 +62,10 @@ export default function MetadataEditor({ test }: { test: any }) {
         <label className="font-bold md:col-span-2 xl:col-span-3">Description<textarea value={form.description} onChange={(e) => setForm({ ...form, description: e.target.value })} className={inputClass} style={{ background: "var(--panel-2)", borderColor: "var(--border)" }} /></label>
       </div>
       <div className="mt-4 flex flex-wrap items-center gap-3 rounded-2xl border p-3 text-sm" style={{ borderColor: "var(--border)", background: "var(--panel-2)" }}>
-        <button type="button" onClick={autoToday} className="rounded-xl bg-emerald-600 px-4 py-2 font-black text-white">Auto Today Date</button>
+        <button type="button" onClick={autoToday} className="rounded-xl bg-emerald-600 px-4 py-2 font-medium text-white">Auto Today Date</button>
         <span className="font-bold text-muted">Current selected date: {formatDateForDisplay(form.date)}</span>
       </div>
-      <button onClick={save} className="mt-5 rounded-xl bg-blue-600 px-5 py-3 font-black text-white">Save Metadata</button>
+      <button onClick={save} className="mt-5 rounded-xl bg-blue-600 px-5 py-3 font-medium text-white">Save Metadata</button>
     </div>
   );
 }

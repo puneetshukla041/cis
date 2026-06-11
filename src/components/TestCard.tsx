@@ -45,7 +45,7 @@ export default function TestCard({ test }: Props) {
           <p className="text-xs font-medium uppercase text-muted">
             {paperLabel} • {test.mode || "daily"} • {test.questionCount || 0} Q
           </p>
-          <h3 className="mt-1 line-clamp-2 text-lg font-medium">{test.title || "Untitled Test"}</h3>
+          <p className="mt-1 line-clamp-2 text-base font-medium">{test.title || "Untitled Test"}</p>
           <p className="mt-1 text-sm text-muted">
             {test.examName || "Rajasthan Computer Instructor"} • {formatDateForDisplay(test.date)} • {test.durationMinutes || 120} min
           </p>
@@ -55,11 +55,11 @@ export default function TestCard({ test }: Props) {
         </span>
       </div>
 
-      <div className="mt-3 flex flex-wrap gap-2 text-xs font-medium text-muted">
-        <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-slate-900">{test.category || test.paperName || paperLabel}</span>
-        <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-slate-900">{test.subject || "Mixed"}</span>
-        <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-slate-900">Marks {test.totalMarks || 100}</span>
-        <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-slate-900">Neg {test.negativeMarking || "1/3"}</span>
+      <div className="mt-3 flex flex-wrap gap-2 text-xs text-muted">
+        <span className="rounded-full bg-slate-100 dark:bg-zinc-950 px-3 py-1 dark:bg-zinc-950">{test.category || test.paperName || paperLabel}</span>
+        <span className="rounded-full bg-slate-100 dark:bg-zinc-950 px-3 py-1 dark:bg-zinc-950">{test.subject || "Mixed"}</span>
+        <span className="rounded-full bg-slate-100 dark:bg-zinc-950 px-3 py-1 dark:bg-zinc-950">Marks {test.totalMarks || 100}</span>
+        <span className="rounded-full bg-slate-100 dark:bg-zinc-950 px-3 py-1 dark:bg-zinc-950">Neg {test.negativeMarking || "1/3"}</span>
       </div>
 
       {topics.length ? <p className="mt-3 text-sm text-muted">Top topics: {topics.join(", ")}</p> : null}
@@ -69,8 +69,8 @@ export default function TestCard({ test }: Props) {
       </div>
 
       <div className="mt-5 grid grid-cols-2 gap-3 text-center text-sm">
-        <div className="mini-card p-3"><b>{attempt?.attempted || 0}</b><p className="text-xs text-muted">Attempted</p></div>
-        <div className="mini-card p-3"><b>{attempt?.score ?? "-"}</b><p className="text-xs text-muted">Score</p></div>
+        <div className="mini-card p-3"><span className="font-medium">{attempt?.attempted || 0}</span><p className="text-xs text-muted">Attempted</p></div>
+        <div className="mini-card p-3"><span className="font-medium">{attempt?.score ?? "-"}</span><p className="text-xs text-muted">Score</p></div>
       </div>
 
       <div className="mt-5 flex flex-wrap gap-2">

@@ -11,8 +11,8 @@ export default async function AttemptPage({ params }: { params: Promise<{ attemp
   if (data.attempt.status === "submitted") {
     return (
       <div className="card p-8 text-center">
-        <h1 className="text-2xl font-black">This test is already submitted.</h1>
-        <Link href={`/review/${attemptId}`} className="mt-5 inline-block rounded-xl bg-blue-600 px-5 py-3 font-black text-white">Open Review</Link>
+        <p className="text-lg font-medium">This test is already submitted.</p>
+        <Link href={`/review/${attemptId}`} className="mt-5 inline-block rounded-xl bg-blue-600 px-5 py-3 font-medium text-white">Open Review</Link>
       </div>
     );
   }

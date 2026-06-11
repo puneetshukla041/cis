@@ -11,11 +11,31 @@ import { UserStatsModel } from "@/models/UserStats";
 const DEFAULT_USER_ID = process.env.NEXT_PUBLIC_DEFAULT_USER_ID || "default-user";
 const TEST_LIST_LIMIT = 24;
 
+function hasMongoUri() {
+  return Boolean(process.env.MONGODB_URI);
+}
+
+function emptyDashboard() {
+  return {
+    summary: {
+      totalTestsUploaded: 0, totalQuestionBank: 0, totalTestsAttempted: 0, totalQuestionsSolved: 0,
+      correct: 0, wrong: 0, accuracy: 0, dailyStreak: 0, bestStreak: 0, readinessScore: 0,
+      rankPrediction: "Add MongoDB URI to enable tracking", totalTimeSeconds: 0,
+    },
+    paperWise: [
+      { paper: "paper1", tests: 0, attempted: 0, correct: 0, wrong: 0, accuracy: 0 },
+      { paper: "paper2", tests: 0, attempted: 0, correct: 0, wrong: 0, accuracy: 0 },
+    ],
+    strongestTopics: [], weakestTopics: [], difficultyWise: [], trends: [], weeklyProgress: [], monthlyProgress: [],
+  };
+}
+
 function toPlain<T>(value: T): T {
   return JSON.parse(JSON.stringify(value));
 }
 
 export async function getDashboardData(userId = DEFAULT_USER_ID): Promise<any> {
+  if (!hasMongoUri()) return emptyDashboard();
   await connectDB();
   const [totalTestsUploaded, totalQuestionBank, paperStats, trendRows, answerStats, stats, analytics] = await Promise.all([
     TestModel.estimatedDocumentCount(),
@@ -123,6 +143,7 @@ export async function getDashboardData(userId = DEFAULT_USER_ID): Promise<any> {
 }
 
 export async function getTestsData(searchParams: Record<string, string> = {}, userId = DEFAULT_USER_ID): Promise<any> {
+  if (!hasMongoUri()) return { tests: [], total: 0, page: 1, pages: 1, filters: { q: searchParams.q || "", paper: searchParams.paper || "", mode: searchParams.mode || "", subject: searchParams.subject || "", status: searchParams.status || "", date: searchParams.date || "", dateFrom: searchParams.dateFrom || "", dateTo: searchParams.dateTo || "", subjects: [] } };
   await connectDB();
 
   const q = (searchParams.q || "").trim();
@@ -147,7 +168,6 @@ export async function getTestsData(searchParams: Record<string, string> = {}, us
         { description: regex },
         { examName: regex },
         { paperName: regex },
-        { category: regex },
         { subject: regex },
         { tags: regex },
         { "topicCoverage.subject": regex },
@@ -206,7 +226,7 @@ export async function getTestsData(searchParams: Record<string, string> = {}, us
   const paged = merged.slice((page - 1) * limit, page * limit);
 
   const allTestsForFilters = await TestModel.find({})
-    .select("subject paperName topicCoverage")
+    .select("subject topicCoverage")
     .limit(2000)
     .lean();
 
@@ -239,6 +259,7 @@ export async function getTestsData(searchParams: Record<string, string> = {}, us
 }
 
 export async function getTestManageData(testId: string): Promise<any | null> {
+  if (!hasMongoUri()) return null;
   await connectDB();
   const [test, questions] = await Promise.all([
     (TestModel as any).findById(testId).lean(),
@@ -249,6 +270,7 @@ export async function getTestManageData(testId: string): Promise<any | null> {
 }
 
 export async function getAttemptData(attemptId: string): Promise<any | null> {
+  if (!hasMongoUri()) return null;
   await connectDB();
   const attempt = await (AttemptModel as any).findById(attemptId).lean();
   if (!attempt) return null;
@@ -260,6 +282,7 @@ export async function getAttemptData(attemptId: string): Promise<any | null> {
 }
 
 export async function getReportData(attemptId: string): Promise<any | null> {
+  if (!hasMongoUri()) return null;
   await connectDB();
   const attempt = await (AttemptModel as any).findById(attemptId).lean();
   if (!attempt) return null;

@@ -165,8 +165,8 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
         <div className="card p-5">
           <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
             <div>
-              <p className="text-sm font-medium text-muted">{attempt.testTitle} • Q {index + 1}/{questions.length}</p>
-              <h1 className="text-2xl font-medium">{studyMode === "learning" ? "Learning Mode" : "Exam Mode"}</h1>
+              <p className="text-sm font-bold text-muted">{attempt.testTitle} • Q {index + 1}/{questions.length}</p>
+              <p className="text-lg font-medium">{studyMode === "learning" ? "Learning Mode" : "Exam Mode"}</p>
             </div>
             <div className="flex items-center gap-3">
               <select value={studyMode} onChange={(e) => setStudyMode(e.target.value as StudyMode)} className="rounded-xl border px-3 py-2 text-sm font-medium" style={{ background: "var(--panel-2)", borderColor: "var(--border)" }}>
@@ -180,17 +180,17 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
           <div className="mini-card p-5">
             <div className="mb-3 flex flex-wrap gap-2 text-xs font-medium">
               <span className="rounded-full bg-blue-100 px-3 py-1 text-blue-700">{q.subject}</span>
-              <span className="rounded-full bg-slate-200 px-3 py-1 text-slate-700">{q.topic}</span>
+              <span className="rounded-full bg-slate-200 dark:bg-zinc-900 px-3 py-1 text-zinc-700 dark:text-zinc-100">{q.topic}</span>
               <span className="rounded-full bg-amber-100 px-3 py-1 text-amber-700">{q.difficulty}</span>
               <span className="rounded-full bg-emerald-100 px-3 py-1 text-emerald-700">{q.importance}</span>
             </div>
-            <h2 className="text-xl font-medium leading-8">{q.question}</h2>
+            <p className="text-base font-medium leading-8">{q.question}</p>
           </div>
 
           <div className="mt-5 grid gap-3">
             {(["A", "B", "C", "D"] as Option[]).map((key) => (
-              <button key={key} onClick={() => save({ selectedOption: key, isSkipped: false, isBookmarked: a?.isBookmarked })} className="rounded-2xl border p-4 text-left font-medium hover:scale-[1.005]" style={optionStyle(key)}>
-                <span className="mr-3 rounded-full bg-slate-100 px-3 py-1 text-xs text-slate-700">{key}</span>
+              <button key={key} onClick={() => save({ selectedOption: key, isSkipped: false, isBookmarked: a?.isBookmarked })} className="rounded-2xl border p-4 text-left font-bold hover:scale-[1.005]" style={optionStyle(key)}>
+                <span className="mr-3 rounded-full bg-slate-100 dark:bg-zinc-950 px-3 py-1 text-xs text-zinc-700 dark:text-zinc-100">{key}</span>
                 {q.options[key]}
               </button>
             ))}
@@ -234,7 +234,7 @@ export default function QuizEngine({ attempt, questions, answers }: { attempt: a
             <div className="mini-card p-3"><b>{stats.bookmarked}</b><p className="text-xs text-muted">Bookmarked</p></div>
           </div>
 
-          <div className="mt-5 flex flex-wrap gap-2 text-xs font-medium text-muted">
+          <div className="mt-5 flex flex-wrap gap-2 text-xs font-bold text-muted">
             <span className="rounded-full bg-green-100 px-2 py-1 text-green-700">Green correct</span>
             <span className="rounded-full bg-red-100 px-2 py-1 text-red-700">Red wrong</span>
             <span className="rounded-full bg-yellow-100 px-2 py-1 text-yellow-700">Yellow skipped</span>
