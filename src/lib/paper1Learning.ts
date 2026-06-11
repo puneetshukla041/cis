@@ -57,7 +57,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Paper 1 Strategy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Paper 1 total questions: 100 MCQs. Remember the fixed exam pair: Paper 1 total questions — 100 MCQs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Paper 1 total marks: 100 marks. Remember the fixed exam pair: Paper 1 total marks — 100 marks. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Duration: 2 hours. Remember the fixed exam pair: Duration — 2 hours. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Negative marking: 1/3 mark deducted for each wrong answer. Remember the fixed exam pair: Negative marking — 1/3 mark deducted for each wrong answer. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rajasthan GK coverage: Art & Culture, History, Geography, General Science, Current Affairs of Rajasthan. Remember the fixed exam pair: Rajasthan GK coverage — Art & Culture, History, Geography, General Science, Current Affairs of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. General Ability coverage: Logical Reasoning, Decision Making, Mental Ability, Basic Numeracy, Data Interpretation. Remember the fixed exam pair: General Ability coverage — Logical Reasoning, Decision Making, Mental Ability, Basic Numeracy, Data Interpretation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Class level for numeracy and DI: Class X level. Remember the fixed exam pair: Class level for numeracy and DI — Class X level. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Safe attempt rule: attempt known questions first and avoid blind guessing. Remember the fixed exam pair: Safe attempt rule — attempt known questions first and avoid blind guessing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Daily method: deep theory during day and 100 topic MCQs at night. Remember the fixed exam pair: Daily method — deep theory during day and 100 topic MCQs at night. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Wrong notebook: one-line correction for every wrong MCQ. Remember the fixed exam pair: Wrong notebook — one-line correction for every wrong MCQ. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Rank target method: accuracy, revision cycles and mixed mocks after topic mastery. Remember the fixed exam pair: Rank target method — accuracy, revision cycles and mixed mocks after topic mastery. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Paper 1 Strategy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Paper 1 total questions: 100 MCQs. Fixed association: Paper 1 total questions — 100 MCQs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Paper 1 total marks: 100 marks. Fixed association: Paper 1 total marks — 100 marks. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Duration: 2 hours. Fixed association: Duration — 2 hours. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Negative marking: 1/3 mark deducted for each wrong answer. Fixed association: Negative marking — 1/3 mark deducted for each wrong answer. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rajasthan GK coverage: Art & Culture, History, Geography, General Science, Current Affairs of Rajasthan. Fixed association: Rajasthan GK coverage — Art & Culture, History, Geography, General Science, Current Affairs of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. General Ability coverage: Logical Reasoning, Decision Making, Mental Ability, Basic Numeracy, Data Interpretation. Fixed association: General Ability coverage — Logical Reasoning, Decision Making, Mental Ability, Basic Numeracy, Data Interpretation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Class level for numeracy and DI: Class X level. Fixed association: Class level for numeracy and DI — Class X level. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Safe attempt rule: attempt known questions first and avoid blind guessing. Fixed association: Safe attempt rule — attempt known questions first and avoid blind guessing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Daily method: deep theory during day and 100 topic MCQs at night. Fixed association: Daily method — deep theory during day and 100 topic MCQs at night. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Wrong notebook: one-line correction for every wrong MCQ. Fixed association: Wrong notebook — one-line correction for every wrong MCQ. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Rank target method: accuracy, revision cycles and mixed mocks after topic mastery. Fixed association: Rank target method — accuracy, revision cycles and mixed mocks after topic mastery. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -144,7 +144,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -162,67 +162,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Paper 1 total questions",
         "answer": "100 MCQs",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Paper 1 total questions — 100 MCQs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Paper 1 total questions — 100 MCQs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Paper 1 total marks",
         "answer": "100 marks",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Paper 1 total marks — 100 marks. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Paper 1 total marks — 100 marks. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Duration",
         "answer": "2 hours",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Duration — 2 hours. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Duration — 2 hours. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Negative marking",
         "answer": "1/3 mark deducted for each wrong answer",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Negative marking — 1/3 mark deducted for each wrong answer. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Negative marking — 1/3 mark deducted for each wrong answer. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan GK coverage",
         "answer": "Art & Culture, History, Geography, General Science, Current Affairs of Rajasthan",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Rajasthan GK coverage — Art & Culture, History, Geography, General Science, Current Affairs of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan GK coverage — Art & Culture, History, Geography, General Science, Current Affairs of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "General Ability coverage",
         "answer": "Logical Reasoning, Decision Making, Mental Ability, Basic Numeracy, Data Interpretation",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: General Ability coverage — Logical Reasoning, Decision Making, Mental Ability, Basic Numeracy, Data Interpretation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: General Ability coverage — Logical Reasoning, Decision Making, Mental Ability, Basic Numeracy, Data Interpretation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Class level for numeracy and DI",
         "answer": "Class X level",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Class level for numeracy and DI — Class X level. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Class level for numeracy and DI — Class X level. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Safe attempt rule",
         "answer": "attempt known questions first and avoid blind guessing",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Safe attempt rule — attempt known questions first and avoid blind guessing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Safe attempt rule — attempt known questions first and avoid blind guessing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Daily method",
         "answer": "deep theory during day and 100 topic MCQs at night",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Daily method — deep theory during day and 100 topic MCQs at night. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Daily method — deep theory during day and 100 topic MCQs at night. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Wrong notebook",
         "answer": "one-line correction for every wrong MCQ",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Wrong notebook — one-line correction for every wrong MCQ. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Wrong notebook — one-line correction for every wrong MCQ. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rank target method",
         "answer": "accuracy, revision cycles and mixed mocks after topic mastery",
         "tag": "strategy",
-        "explanation": "Remember the fixed exam pair: Rank target method — accuracy, revision cycles and mixed mocks after topic mastery. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rank target method — accuracy, revision cycles and mixed mocks after topic mastery. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -263,7 +263,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Ghoomar: women’s traditional circular dance of Rajasthan. Remember the fixed exam pair: Ghoomar — women’s traditional circular dance of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Kalbeliya: dance of Kalbeliya community with serpent-like movements. Remember the fixed exam pair: Kalbeliya — dance of Kalbeliya community with serpent-like movements. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Bhavai: balancing dance performed with pots or objects. Remember the fixed exam pair: Bhavai — balancing dance performed with pots or objects. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Gair: festival/group circular dance, especially western Rajasthan memory. Remember the fixed exam pair: Gair — festival/group circular dance, especially western Rajasthan memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Chari: pot/lamp dance tradition. Remember the fixed exam pair: Chari — pot/lamp dance tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Terah Taali: Kamadia community; manjira-based devotional performance. Remember the fixed exam pair: Terah Taali — Kamadia community; manjira-based devotional performance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Kachhi Ghodi: dummy-horse dance associated with heroic/festive performance. Remember the fixed exam pair: Kachhi Ghodi — dummy-horse dance associated with heroic/festive performance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Gavri: Bhil ritual theatre/performance tradition. Remember the fixed exam pair: Gavri — Bhil ritual theatre/performance tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Maand: classical-flavoured folk singing of Rajasthan. Remember the fixed exam pair: Maand — classical-flavoured folk singing of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Panihari: folk songs linked with water-carrier/desert life. Remember the fixed exam pair: Panihari — folk songs linked with water-carrier/desert life. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Langa: hereditary musician community of western Rajasthan. Remember the fixed exam pair: Langa — hereditary musician community of western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Manganiyar: hereditary musician community known for folk singing. Remember the fixed exam pair: Manganiyar — hereditary musician community known for folk singing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Bhopa-Bhopi: performers associated with Phad singing traditions. Remember the fixed exam pair: Bhopa-Bhopi — performers associated with Phad singing traditions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Ravanhatta: string instrument commonly linked with Bhopa tradition. Remember the fixed exam pair: Ravanhatta — string instrument commonly linked with Bhopa tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Algoza: double flute folk instrument. Remember the fixed exam pair: Algoza — double flute folk instrument. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Kathputli: traditional puppet theatre of Rajasthan. Remember the fixed exam pair: Kathputli — traditional puppet theatre of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Khayal: folk theatre form. Remember the fixed exam pair: Khayal — folk theatre form. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n18. Tamasha: folk drama/theatre tradition. Remember the fixed exam pair: Tamasha — folk drama/theatre tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n19. Nautanki: popular folk theatre style. Remember the fixed exam pair: Nautanki — popular folk theatre style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Ghoomar: women’s traditional circular dance of Rajasthan. Fixed association: Ghoomar — women’s traditional circular dance of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Kalbeliya: dance of Kalbeliya community with serpent-like movements. Fixed association: Kalbeliya — dance of Kalbeliya community with serpent-like movements. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Bhavai: balancing dance performed with pots or objects. Fixed association: Bhavai — balancing dance performed with pots or objects. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Gair: festival/group circular dance, especially western Rajasthan memory. Fixed association: Gair — festival/group circular dance, especially western Rajasthan memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Chari: pot/lamp dance tradition. Fixed association: Chari — pot/lamp dance tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Terah Taali: Kamadia community; manjira-based devotional performance. Fixed association: Terah Taali — Kamadia community; manjira-based devotional performance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Kachhi Ghodi: dummy-horse dance associated with heroic/festive performance. Fixed association: Kachhi Ghodi — dummy-horse dance associated with heroic/festive performance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Gavri: Bhil ritual theatre/performance tradition. Fixed association: Gavri — Bhil ritual theatre/performance tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Maand: classical-flavoured folk singing of Rajasthan. Fixed association: Maand — classical-flavoured folk singing of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Panihari: folk songs linked with water-carrier/desert life. Fixed association: Panihari — folk songs linked with water-carrier/desert life. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Langa: hereditary musician community of western Rajasthan. Fixed association: Langa — hereditary musician community of western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Manganiyar: hereditary musician community known for folk singing. Fixed association: Manganiyar — hereditary musician community known for folk singing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Bhopa-Bhopi: performers associated with Phad singing traditions. Fixed association: Bhopa-Bhopi — performers associated with Phad singing traditions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Ravanhatta: string instrument commonly linked with Bhopa tradition. Fixed association: Ravanhatta — string instrument commonly linked with Bhopa tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Algoza: double flute folk instrument. Fixed association: Algoza — double flute folk instrument. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Kathputli: traditional puppet theatre of Rajasthan. Fixed association: Kathputli — traditional puppet theatre of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Khayal: folk theatre form. Fixed association: Khayal — folk theatre form. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n18. Tamasha: folk drama/theatre tradition. Fixed association: Tamasha — folk drama/theatre tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n19. Nautanki: popular folk theatre style. Fixed association: Nautanki — popular folk theatre style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -385,7 +385,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -403,115 +403,115 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Ghoomar",
         "answer": "women’s traditional circular dance of Rajasthan",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Ghoomar — women’s traditional circular dance of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ghoomar — women’s traditional circular dance of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kalbeliya",
         "answer": "dance of Kalbeliya community with serpent-like movements",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Kalbeliya — dance of Kalbeliya community with serpent-like movements. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kalbeliya — dance of Kalbeliya community with serpent-like movements. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bhavai",
         "answer": "balancing dance performed with pots or objects",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Bhavai — balancing dance performed with pots or objects. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bhavai — balancing dance performed with pots or objects. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gair",
         "answer": "festival/group circular dance, especially western Rajasthan memory",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Gair — festival/group circular dance, especially western Rajasthan memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gair — festival/group circular dance, especially western Rajasthan memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Chari",
         "answer": "pot/lamp dance tradition",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Chari — pot/lamp dance tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chari — pot/lamp dance tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Terah Taali",
         "answer": "Kamadia community; manjira-based devotional performance",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Terah Taali — Kamadia community; manjira-based devotional performance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Terah Taali — Kamadia community; manjira-based devotional performance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kachhi Ghodi",
         "answer": "dummy-horse dance associated with heroic/festive performance",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Kachhi Ghodi — dummy-horse dance associated with heroic/festive performance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kachhi Ghodi — dummy-horse dance associated with heroic/festive performance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gavri",
         "answer": "Bhil ritual theatre/performance tradition",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Gavri — Bhil ritual theatre/performance tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gavri — Bhil ritual theatre/performance tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Maand",
         "answer": "classical-flavoured folk singing of Rajasthan",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Maand — classical-flavoured folk singing of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Maand — classical-flavoured folk singing of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Panihari",
         "answer": "folk songs linked with water-carrier/desert life",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Panihari — folk songs linked with water-carrier/desert life. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Panihari — folk songs linked with water-carrier/desert life. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Langa",
         "answer": "hereditary musician community of western Rajasthan",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Langa — hereditary musician community of western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Langa — hereditary musician community of western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Manganiyar",
         "answer": "hereditary musician community known for folk singing",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Manganiyar — hereditary musician community known for folk singing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Manganiyar — hereditary musician community known for folk singing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bhopa-Bhopi",
         "answer": "performers associated with Phad singing traditions",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Bhopa-Bhopi — performers associated with Phad singing traditions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bhopa-Bhopi — performers associated with Phad singing traditions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ravanhatta",
         "answer": "string instrument commonly linked with Bhopa tradition",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Ravanhatta — string instrument commonly linked with Bhopa tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ravanhatta — string instrument commonly linked with Bhopa tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Algoza",
         "answer": "double flute folk instrument",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Algoza — double flute folk instrument. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Algoza — double flute folk instrument. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kathputli",
         "answer": "traditional puppet theatre of Rajasthan",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Kathputli — traditional puppet theatre of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kathputli — traditional puppet theatre of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Khayal",
         "answer": "folk theatre form",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Khayal — folk theatre form. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Khayal — folk theatre form. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Tamasha",
         "answer": "folk drama/theatre tradition",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Tamasha — folk drama/theatre tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Tamasha — folk drama/theatre tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Nautanki",
         "answer": "popular folk theatre style",
         "tag": "culture",
-        "explanation": "Remember the fixed exam pair: Nautanki — popular folk theatre style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Nautanki — popular folk theatre style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -552,7 +552,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Phad: long cloth scroll painting connected with Pabuji and Devnarayanji. Remember the fixed exam pair: Phad — long cloth scroll painting connected with Pabuji and Devnarayanji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Pichwai: Nathdwara painting tradition linked with Shrinathji. Remember the fixed exam pair: Pichwai — Nathdwara painting tradition linked with Shrinathji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mandana: wall and floor decoration tradition. Remember the fixed exam pair: Mandana — wall and floor decoration tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Sanjhi: stencil/decorative devotional art tradition. Remember the fixed exam pair: Sanjhi — stencil/decorative devotional art tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Bewan: folk art form noted in Rajasthan art lists. Remember the fixed exam pair: Bewan — folk art form noted in Rajasthan art lists. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Mewar school: traditional Hindu/devotional themes and strong local style. Remember the fixed exam pair: Mewar school — traditional Hindu/devotional themes and strong local style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Marwar school: courtly and heroic/local themes. Remember the fixed exam pair: Marwar school — courtly and heroic/local themes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Bundi school: nature, monsoon, palace and hunting scenes. Remember the fixed exam pair: Bundi school — nature, monsoon, palace and hunting scenes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Kota school: hunting and wildlife scenes. Remember the fixed exam pair: Kota school — hunting and wildlife scenes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Kishangarh school: Bani Thani and refined lyrical style. Remember the fixed exam pair: Kishangarh school — Bani Thani and refined lyrical style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Bikaner school: Mughal and Deccan influence memory. Remember the fixed exam pair: Bikaner school — Mughal and Deccan influence memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Jaipur school: courtly, refined and planned style. Remember the fixed exam pair: Jaipur school — courtly, refined and planned style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Alwar school: late miniature tradition memory. Remember the fixed exam pair: Alwar school — late miniature tradition memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Miniature painting: small detailed court and devotional painting tradition. Remember the fixed exam pair: Miniature painting — small detailed court and devotional painting tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Bani Thani: iconic Kishangarh painting association. Remember the fixed exam pair: Bani Thani — iconic Kishangarh painting association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Phad: long cloth scroll painting connected with Pabuji and Devnarayanji. Fixed association: Phad — long cloth scroll painting connected with Pabuji and Devnarayanji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Pichwai: Nathdwara painting tradition linked with Shrinathji. Fixed association: Pichwai — Nathdwara painting tradition linked with Shrinathji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mandana: wall and floor decoration tradition. Fixed association: Mandana — wall and floor decoration tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Sanjhi: stencil/decorative devotional art tradition. Fixed association: Sanjhi — stencil/decorative devotional art tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Bewan: folk art form noted in Rajasthan art lists. Fixed association: Bewan — folk art form noted in Rajasthan art lists. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Mewar school: traditional Hindu/devotional themes and strong local style. Fixed association: Mewar school — traditional Hindu/devotional themes and strong local style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Marwar school: courtly and heroic/local themes. Fixed association: Marwar school — courtly and heroic/local themes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Bundi school: nature, monsoon, palace and hunting scenes. Fixed association: Bundi school — nature, monsoon, palace and hunting scenes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Kota school: hunting and wildlife scenes. Fixed association: Kota school — hunting and wildlife scenes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Kishangarh school: Bani Thani and refined lyrical style. Fixed association: Kishangarh school — Bani Thani and refined lyrical style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Bikaner school: Mughal and Deccan influence memory. Fixed association: Bikaner school — Mughal and Deccan influence memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Jaipur school: courtly, refined and planned style. Fixed association: Jaipur school — courtly, refined and planned style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Alwar school: late miniature tradition memory. Fixed association: Alwar school — late miniature tradition memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Miniature painting: small detailed court and devotional painting tradition. Fixed association: Miniature painting — small detailed court and devotional painting tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Bani Thani: iconic Kishangarh painting association. Fixed association: Bani Thani — iconic Kishangarh painting association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -659,7 +659,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -677,91 +677,91 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Phad",
         "answer": "long cloth scroll painting connected with Pabuji and Devnarayanji",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Phad — long cloth scroll painting connected with Pabuji and Devnarayanji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Phad — long cloth scroll painting connected with Pabuji and Devnarayanji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pichwai",
         "answer": "Nathdwara painting tradition linked with Shrinathji",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Pichwai — Nathdwara painting tradition linked with Shrinathji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pichwai — Nathdwara painting tradition linked with Shrinathji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mandana",
         "answer": "wall and floor decoration tradition",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Mandana — wall and floor decoration tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mandana — wall and floor decoration tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sanjhi",
         "answer": "stencil/decorative devotional art tradition",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Sanjhi — stencil/decorative devotional art tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sanjhi — stencil/decorative devotional art tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bewan",
         "answer": "folk art form noted in Rajasthan art lists",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Bewan — folk art form noted in Rajasthan art lists. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bewan — folk art form noted in Rajasthan art lists. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mewar school",
         "answer": "traditional Hindu/devotional themes and strong local style",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Mewar school — traditional Hindu/devotional themes and strong local style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mewar school — traditional Hindu/devotional themes and strong local style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Marwar school",
         "answer": "courtly and heroic/local themes",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Marwar school — courtly and heroic/local themes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Marwar school — courtly and heroic/local themes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bundi school",
         "answer": "nature, monsoon, palace and hunting scenes",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Bundi school — nature, monsoon, palace and hunting scenes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bundi school — nature, monsoon, palace and hunting scenes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kota school",
         "answer": "hunting and wildlife scenes",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Kota school — hunting and wildlife scenes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kota school — hunting and wildlife scenes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kishangarh school",
         "answer": "Bani Thani and refined lyrical style",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Kishangarh school — Bani Thani and refined lyrical style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kishangarh school — Bani Thani and refined lyrical style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bikaner school",
         "answer": "Mughal and Deccan influence memory",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Bikaner school — Mughal and Deccan influence memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bikaner school — Mughal and Deccan influence memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jaipur school",
         "answer": "courtly, refined and planned style",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Jaipur school — courtly, refined and planned style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jaipur school — courtly, refined and planned style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Alwar school",
         "answer": "late miniature tradition memory",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Alwar school — late miniature tradition memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Alwar school — late miniature tradition memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Miniature painting",
         "answer": "small detailed court and devotional painting tradition",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Miniature painting — small detailed court and devotional painting tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Miniature painting — small detailed court and devotional painting tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bani Thani",
         "answer": "iconic Kishangarh painting association",
         "tag": "painting",
-        "explanation": "Remember the fixed exam pair: Bani Thani — iconic Kishangarh painting association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bani Thani — iconic Kishangarh painting association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -802,7 +802,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Thewa: Pratapgarh; gold work on glass. Remember the fixed exam pair: Thewa — Pratapgarh; gold work on glass. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Usta art: Bikaner; ornamental gold work. Remember the fixed exam pair: Usta art — Bikaner; ornamental gold work. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Blue Pottery: Jaipur craft memory. Remember the fixed exam pair: Blue Pottery — Jaipur craft memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Meenakari: Jaipur enamel work. Remember the fixed exam pair: Meenakari — Jaipur enamel work. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Kota Doria: Kota-Bundi textile memory. Remember the fixed exam pair: Kota Doria — Kota-Bundi textile memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Bandhej: tie-dye textile tradition. Remember the fixed exam pair: Bandhej — tie-dye textile tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Leheriya: wave-pattern tie-dye textile. Remember the fixed exam pair: Leheriya — wave-pattern tie-dye textile. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Sanganeri print: Sanganer; block printing. Remember the fixed exam pair: Sanganeri print — Sanganer; block printing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Bagru print: Bagru; block printing. Remember the fixed exam pair: Bagru print — Bagru; block printing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Lac work: Jaipur and other craft centres. Remember the fixed exam pair: Lac work — Jaipur and other craft centres. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Mojari/Jutti: traditional footwear. Remember the fixed exam pair: Mojari/Jutti — traditional footwear. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Ivory/wood/stone craft: traditional Rajasthan craft category. Remember the fixed exam pair: Ivory/wood/stone craft — traditional Rajasthan craft category. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Kathputli craft: puppet-making and performance tradition. Remember the fixed exam pair: Kathputli craft — puppet-making and performance tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Marble craft: Makrana/Rajasthan stone craft memory. Remember the fixed exam pair: Marble craft — Makrana/Rajasthan stone craft memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Thewa: Pratapgarh; gold work on glass. Fixed association: Thewa — Pratapgarh; gold work on glass. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Usta art: Bikaner; ornamental gold work. Fixed association: Usta art — Bikaner; ornamental gold work. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Blue Pottery: Jaipur craft memory. Fixed association: Blue Pottery — Jaipur craft memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Meenakari: Jaipur enamel work. Fixed association: Meenakari — Jaipur enamel work. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Kota Doria: Kota-Bundi textile memory. Fixed association: Kota Doria — Kota-Bundi textile memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Bandhej: tie-dye textile tradition. Fixed association: Bandhej — tie-dye textile tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Leheriya: wave-pattern tie-dye textile. Fixed association: Leheriya — wave-pattern tie-dye textile. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Sanganeri print: Sanganer; block printing. Fixed association: Sanganeri print — Sanganer; block printing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Bagru print: Bagru; block printing. Fixed association: Bagru print — Bagru; block printing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Lac work: Jaipur and other craft centres. Fixed association: Lac work — Jaipur and other craft centres. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Mojari/Jutti: traditional footwear. Fixed association: Mojari/Jutti — traditional footwear. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Ivory/wood/stone craft: traditional Rajasthan craft category. Fixed association: Ivory/wood/stone craft — traditional Rajasthan craft category. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Kathputli craft: puppet-making and performance tradition. Fixed association: Kathputli craft — puppet-making and performance tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Marble craft: Makrana/Rajasthan stone craft memory. Fixed association: Marble craft — Makrana/Rajasthan stone craft memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -904,7 +904,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -922,85 +922,85 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Thewa",
         "answer": "Pratapgarh; gold work on glass",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Thewa — Pratapgarh; gold work on glass. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Thewa — Pratapgarh; gold work on glass. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Usta art",
         "answer": "Bikaner; ornamental gold work",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Usta art — Bikaner; ornamental gold work. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Usta art — Bikaner; ornamental gold work. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Blue Pottery",
         "answer": "Jaipur craft memory",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Blue Pottery — Jaipur craft memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Blue Pottery — Jaipur craft memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Meenakari",
         "answer": "Jaipur enamel work",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Meenakari — Jaipur enamel work. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Meenakari — Jaipur enamel work. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kota Doria",
         "answer": "Kota-Bundi textile memory",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Kota Doria — Kota-Bundi textile memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kota Doria — Kota-Bundi textile memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bandhej",
         "answer": "tie-dye textile tradition",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Bandhej — tie-dye textile tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bandhej — tie-dye textile tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Leheriya",
         "answer": "wave-pattern tie-dye textile",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Leheriya — wave-pattern tie-dye textile. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Leheriya — wave-pattern tie-dye textile. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sanganeri print",
         "answer": "Sanganer; block printing",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Sanganeri print — Sanganer; block printing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sanganeri print — Sanganer; block printing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bagru print",
         "answer": "Bagru; block printing",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Bagru print — Bagru; block printing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bagru print — Bagru; block printing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Lac work",
         "answer": "Jaipur and other craft centres",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Lac work — Jaipur and other craft centres. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Lac work — Jaipur and other craft centres. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mojari/Jutti",
         "answer": "traditional footwear",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Mojari/Jutti — traditional footwear. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mojari/Jutti — traditional footwear. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ivory/wood/stone craft",
         "answer": "traditional Rajasthan craft category",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Ivory/wood/stone craft — traditional Rajasthan craft category. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ivory/wood/stone craft — traditional Rajasthan craft category. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kathputli craft",
         "answer": "puppet-making and performance tradition",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Kathputli craft — puppet-making and performance tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kathputli craft — puppet-making and performance tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Marble craft",
         "answer": "Makrana/Rajasthan stone craft memory",
         "tag": "craft",
-        "explanation": "Remember the fixed exam pair: Marble craft — Makrana/Rajasthan stone craft memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Marble craft — Makrana/Rajasthan stone craft memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -1041,7 +1041,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Borla: forehead/head ornament. Remember the fixed exam pair: Borla — forehead/head ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Rakhdi: head ornament. Remember the fixed exam pair: Rakhdi — head ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Timaniya: neck ornament. Remember the fixed exam pair: Timaniya — neck ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Hansli: neck ornament. Remember the fixed exam pair: Hansli — neck ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Nath: nose ornament. Remember the fixed exam pair: Nath — nose ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Damana: traditional ornament memory. Remember the fixed exam pair: Damana — traditional ornament memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Bajuband: upper arm ornament. Remember the fixed exam pair: Bajuband — upper arm ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Kardhani: waist ornament. Remember the fixed exam pair: Kardhani — waist ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Paijeb: ankle ornament. Remember the fixed exam pair: Paijeb — ankle ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Pagdi/Safa: male headgear. Remember the fixed exam pair: Pagdi/Safa — male headgear. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Angarkha: traditional upper garment. Remember the fixed exam pair: Angarkha — traditional upper garment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Dhoti: traditional male lower garment. Remember the fixed exam pair: Dhoti — traditional male lower garment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Odhani: women’s veil/covering. Remember the fixed exam pair: Odhani — women’s veil/covering. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Ghagra: women’s skirt. Remember the fixed exam pair: Ghagra — women’s skirt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Regional costumes: district/community dress traditions. Remember the fixed exam pair: Regional costumes — district/community dress traditions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Borla: forehead/head ornament. Fixed association: Borla — forehead/head ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Rakhdi: head ornament. Fixed association: Rakhdi — head ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Timaniya: neck ornament. Fixed association: Timaniya — neck ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Hansli: neck ornament. Fixed association: Hansli — neck ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Nath: nose ornament. Fixed association: Nath — nose ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Damana: traditional ornament memory. Fixed association: Damana — traditional ornament memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Bajuband: upper arm ornament. Fixed association: Bajuband — upper arm ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Kardhani: waist ornament. Fixed association: Kardhani — waist ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Paijeb: ankle ornament. Fixed association: Paijeb — ankle ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Pagdi/Safa: male headgear. Fixed association: Pagdi/Safa — male headgear. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Angarkha: traditional upper garment. Fixed association: Angarkha — traditional upper garment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Dhoti: traditional male lower garment. Fixed association: Dhoti — traditional male lower garment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Odhani: women’s veil/covering. Fixed association: Odhani — women’s veil/covering. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Ghagra: women’s skirt. Fixed association: Ghagra — women’s skirt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Regional costumes: district/community dress traditions. Fixed association: Regional costumes — district/community dress traditions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -1148,7 +1148,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -1166,91 +1166,91 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Borla",
         "answer": "forehead/head ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Borla — forehead/head ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Borla — forehead/head ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rakhdi",
         "answer": "head ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Rakhdi — head ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rakhdi — head ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Timaniya",
         "answer": "neck ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Timaniya — neck ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Timaniya — neck ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Hansli",
         "answer": "neck ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Hansli — neck ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Hansli — neck ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Nath",
         "answer": "nose ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Nath — nose ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Nath — nose ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Damana",
         "answer": "traditional ornament memory",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Damana — traditional ornament memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Damana — traditional ornament memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bajuband",
         "answer": "upper arm ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Bajuband — upper arm ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bajuband — upper arm ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kardhani",
         "answer": "waist ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Kardhani — waist ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kardhani — waist ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Paijeb",
         "answer": "ankle ornament",
         "tag": "ornament",
-        "explanation": "Remember the fixed exam pair: Paijeb — ankle ornament. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Paijeb — ankle ornament. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pagdi/Safa",
         "answer": "male headgear",
         "tag": "dress",
-        "explanation": "Remember the fixed exam pair: Pagdi/Safa — male headgear. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pagdi/Safa — male headgear. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Angarkha",
         "answer": "traditional upper garment",
         "tag": "dress",
-        "explanation": "Remember the fixed exam pair: Angarkha — traditional upper garment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Angarkha — traditional upper garment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Dhoti",
         "answer": "traditional male lower garment",
         "tag": "dress",
-        "explanation": "Remember the fixed exam pair: Dhoti — traditional male lower garment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Dhoti — traditional male lower garment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Odhani",
         "answer": "women’s veil/covering",
         "tag": "dress",
-        "explanation": "Remember the fixed exam pair: Odhani — women’s veil/covering. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Odhani — women’s veil/covering. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ghagra",
         "answer": "women’s skirt",
         "tag": "dress",
-        "explanation": "Remember the fixed exam pair: Ghagra — women’s skirt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ghagra — women’s skirt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Regional costumes",
         "answer": "district/community dress traditions",
         "tag": "dress",
-        "explanation": "Remember the fixed exam pair: Regional costumes — district/community dress traditions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Regional costumes — district/community dress traditions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -1291,7 +1291,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Pushkar fair: Ajmer; Kartik context. Remember the fixed exam pair: Pushkar fair — Ajmer; Kartik context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Beneshwar fair: tribal fair near Mahi-Som-Jakham confluence. Remember the fixed exam pair: Beneshwar fair — tribal fair near Mahi-Som-Jakham confluence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ramdevra fair: Baba Ramdevji association. Remember the fixed exam pair: Ramdevra fair — Baba Ramdevji association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Gogamedi fair: Gogaji association. Remember the fixed exam pair: Gogamedi fair — Gogaji association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Kaila Devi fair: Karauli region. Remember the fixed exam pair: Kaila Devi fair — Karauli region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Karni Mata: Deshnok, Bikaner. Remember the fixed exam pair: Karni Mata — Deshnok, Bikaner. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Sheetla Mata fair: Sheetla Mata worship memory. Remember the fixed exam pair: Sheetla Mata fair — Sheetla Mata worship memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Gangaur: Gauri/Shiva-Parvati worship. Remember the fixed exam pair: Gangaur — Gauri/Shiva-Parvati worship. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Teej: monsoon/women’s festival. Remember the fixed exam pair: Teej — monsoon/women’s festival. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Sheetla Ashtami: Sheetla Mata worship. Remember the fixed exam pair: Sheetla Ashtami — Sheetla Mata worship. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Urs Ajmer: Khwaja Moinuddin Chishti. Remember the fixed exam pair: Urs Ajmer — Khwaja Moinuddin Chishti. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Pabuji: folk deity linked with Phad tradition. Remember the fixed exam pair: Pabuji — folk deity linked with Phad tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Tejaji: folk deity associated with snakebite protection. Remember the fixed exam pair: Tejaji — folk deity associated with snakebite protection. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Gogaji: folk deity associated with snake and hero tradition. Remember the fixed exam pair: Gogaji — folk deity associated with snake and hero tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Ramdevji: folk deity of Ramdevra; social harmony memory. Remember the fixed exam pair: Ramdevji — folk deity of Ramdevra; social harmony memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Devnarayanji: Gurjar-linked folk deity. Remember the fixed exam pair: Devnarayanji — Gurjar-linked folk deity. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Mallinathji: Marwar folk deity/fair memory. Remember the fixed exam pair: Mallinathji — Marwar folk deity/fair memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n18. Harbhuji: Rajasthan folk deity memory. Remember the fixed exam pair: Harbhuji — Rajasthan folk deity memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n19. Mehaji: Rajasthan folk deity memory. Remember the fixed exam pair: Mehaji — Rajasthan folk deity memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Pushkar fair: Ajmer; Kartik context. Fixed association: Pushkar fair — Ajmer; Kartik context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Beneshwar fair: tribal fair near Mahi-Som-Jakham confluence. Fixed association: Beneshwar fair — tribal fair near Mahi-Som-Jakham confluence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ramdevra fair: Baba Ramdevji association. Fixed association: Ramdevra fair — Baba Ramdevji association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Gogamedi fair: Gogaji association. Fixed association: Gogamedi fair — Gogaji association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Kaila Devi fair: Karauli region. Fixed association: Kaila Devi fair — Karauli region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Karni Mata: Deshnok, Bikaner. Fixed association: Karni Mata — Deshnok, Bikaner. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Sheetla Mata fair: Sheetla Mata worship memory. Fixed association: Sheetla Mata fair — Sheetla Mata worship memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Gangaur: Gauri/Shiva-Parvati worship. Fixed association: Gangaur — Gauri/Shiva-Parvati worship. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Teej: monsoon/women’s festival. Fixed association: Teej — monsoon/women’s festival. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Sheetla Ashtami: Sheetla Mata worship. Fixed association: Sheetla Ashtami — Sheetla Mata worship. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Urs Ajmer: Khwaja Moinuddin Chishti. Fixed association: Urs Ajmer — Khwaja Moinuddin Chishti. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Pabuji: folk deity linked with Phad tradition. Fixed association: Pabuji — folk deity linked with Phad tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Tejaji: folk deity associated with snakebite protection. Fixed association: Tejaji — folk deity associated with snakebite protection. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Gogaji: folk deity associated with snake and hero tradition. Fixed association: Gogaji — folk deity associated with snake and hero tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Ramdevji: folk deity of Ramdevra; social harmony memory. Fixed association: Ramdevji — folk deity of Ramdevra; social harmony memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Devnarayanji: Gurjar-linked folk deity. Fixed association: Devnarayanji — Gurjar-linked folk deity. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Mallinathji: Marwar folk deity/fair memory. Fixed association: Mallinathji — Marwar folk deity/fair memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n18. Harbhuji: Rajasthan folk deity memory. Fixed association: Harbhuji — Rajasthan folk deity memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n19. Mehaji: Rajasthan folk deity memory. Fixed association: Mehaji — Rajasthan folk deity memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -1413,7 +1413,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -1431,115 +1431,115 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Pushkar fair",
         "answer": "Ajmer; Kartik context",
         "tag": "fair",
-        "explanation": "Remember the fixed exam pair: Pushkar fair — Ajmer; Kartik context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pushkar fair — Ajmer; Kartik context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Beneshwar fair",
         "answer": "tribal fair near Mahi-Som-Jakham confluence",
         "tag": "fair",
-        "explanation": "Remember the fixed exam pair: Beneshwar fair — tribal fair near Mahi-Som-Jakham confluence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Beneshwar fair — tribal fair near Mahi-Som-Jakham confluence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ramdevra fair",
         "answer": "Baba Ramdevji association",
         "tag": "fair",
-        "explanation": "Remember the fixed exam pair: Ramdevra fair — Baba Ramdevji association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ramdevra fair — Baba Ramdevji association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gogamedi fair",
         "answer": "Gogaji association",
         "tag": "fair",
-        "explanation": "Remember the fixed exam pair: Gogamedi fair — Gogaji association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gogamedi fair — Gogaji association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kaila Devi fair",
         "answer": "Karauli region",
         "tag": "fair",
-        "explanation": "Remember the fixed exam pair: Kaila Devi fair — Karauli region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kaila Devi fair — Karauli region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Karni Mata",
         "answer": "Deshnok, Bikaner",
         "tag": "temple",
-        "explanation": "Remember the fixed exam pair: Karni Mata — Deshnok, Bikaner. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Karni Mata — Deshnok, Bikaner. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sheetla Mata fair",
         "answer": "Sheetla Mata worship memory",
         "tag": "fair",
-        "explanation": "Remember the fixed exam pair: Sheetla Mata fair — Sheetla Mata worship memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sheetla Mata fair — Sheetla Mata worship memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gangaur",
         "answer": "Gauri/Shiva-Parvati worship",
         "tag": "festival",
-        "explanation": "Remember the fixed exam pair: Gangaur — Gauri/Shiva-Parvati worship. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gangaur — Gauri/Shiva-Parvati worship. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Teej",
         "answer": "monsoon/women’s festival",
         "tag": "festival",
-        "explanation": "Remember the fixed exam pair: Teej — monsoon/women’s festival. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Teej — monsoon/women’s festival. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sheetla Ashtami",
         "answer": "Sheetla Mata worship",
         "tag": "festival",
-        "explanation": "Remember the fixed exam pair: Sheetla Ashtami — Sheetla Mata worship. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sheetla Ashtami — Sheetla Mata worship. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Urs Ajmer",
         "answer": "Khwaja Moinuddin Chishti",
         "tag": "festival",
-        "explanation": "Remember the fixed exam pair: Urs Ajmer — Khwaja Moinuddin Chishti. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Urs Ajmer — Khwaja Moinuddin Chishti. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pabuji",
         "answer": "folk deity linked with Phad tradition",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Pabuji — folk deity linked with Phad tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pabuji — folk deity linked with Phad tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Tejaji",
         "answer": "folk deity associated with snakebite protection",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Tejaji — folk deity associated with snakebite protection. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Tejaji — folk deity associated with snakebite protection. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gogaji",
         "answer": "folk deity associated with snake and hero tradition",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Gogaji — folk deity associated with snake and hero tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gogaji — folk deity associated with snake and hero tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ramdevji",
         "answer": "folk deity of Ramdevra; social harmony memory",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Ramdevji — folk deity of Ramdevra; social harmony memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ramdevji — folk deity of Ramdevra; social harmony memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Devnarayanji",
         "answer": "Gurjar-linked folk deity",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Devnarayanji — Gurjar-linked folk deity. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Devnarayanji — Gurjar-linked folk deity. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mallinathji",
         "answer": "Marwar folk deity/fair memory",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Mallinathji — Marwar folk deity/fair memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mallinathji — Marwar folk deity/fair memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Harbhuji",
         "answer": "Rajasthan folk deity memory",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Harbhuji — Rajasthan folk deity memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Harbhuji — Rajasthan folk deity memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mehaji",
         "answer": "Rajasthan folk deity memory",
         "tag": "deity",
-        "explanation": "Remember the fixed exam pair: Mehaji — Rajasthan folk deity memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mehaji — Rajasthan folk deity memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -1580,7 +1580,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Chittorgarh Fort: Mewar; Vijay Stambh and Kirti Stambh context. Remember the fixed exam pair: Chittorgarh Fort — Mewar; Vijay Stambh and Kirti Stambh context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Kumbhalgarh Fort: Maharana Kumbha association. Remember the fixed exam pair: Kumbhalgarh Fort — Maharana Kumbha association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mehrangarh Fort: Jodhpur; Rao Jodha association. Remember the fixed exam pair: Mehrangarh Fort — Jodhpur; Rao Jodha association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Jaisalmer/Sonargarh: Bhati rulers; living fort memory. Remember the fixed exam pair: Jaisalmer/Sonargarh — Bhati rulers; living fort memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Taragarh: Ajmer/Bundi fort memory depending context. Remember the fixed exam pair: Taragarh — Ajmer/Bundi fort memory depending context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Ranthambore Fort: Sawai Madhopur. Remember the fixed exam pair: Ranthambore Fort — Sawai Madhopur. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Bala Quila: Alwar. Remember the fixed exam pair: Bala Quila — Alwar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Gagron Fort: Jhalawar; water fort memory. Remember the fixed exam pair: Gagron Fort — Jhalawar; water fort memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Dilwara temples: Mount Abu; Jain temples. Remember the fixed exam pair: Dilwara temples — Mount Abu; Jain temples. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Eklingji: Mewar deity tradition. Remember the fixed exam pair: Eklingji — Mewar deity tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Nathdwara: Shrinathji. Remember the fixed exam pair: Nathdwara — Shrinathji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Govind Devji: Jaipur temple memory. Remember the fixed exam pair: Govind Devji — Jaipur temple memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Osian: temple town memory. Remember the fixed exam pair: Osian — temple town memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Bharatiya Lok Kala Mandal: Udaipur; folk culture preservation. Remember the fixed exam pair: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Jawahar Kala Kendra: Jaipur; art and culture centre. Remember the fixed exam pair: Jawahar Kala Kendra — Jaipur; art and culture centre. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Albert Hall Museum: Jaipur museum. Remember the fixed exam pair: Albert Hall Museum — Jaipur museum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Ahar Museum: Udaipur archaeology memory. Remember the fixed exam pair: Ahar Museum — Udaipur archaeology memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Art & Culture, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Chittorgarh Fort: Mewar; Vijay Stambh and Kirti Stambh context. Fixed association: Chittorgarh Fort — Mewar; Vijay Stambh and Kirti Stambh context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Kumbhalgarh Fort: Maharana Kumbha association. Fixed association: Kumbhalgarh Fort — Maharana Kumbha association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mehrangarh Fort: Jodhpur; Rao Jodha association. Fixed association: Mehrangarh Fort — Jodhpur; Rao Jodha association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Jaisalmer/Sonargarh: Bhati rulers; living fort memory. Fixed association: Jaisalmer/Sonargarh — Bhati rulers; living fort memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Taragarh: Ajmer/Bundi fort memory depending context. Fixed association: Taragarh — Ajmer/Bundi fort memory depending context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Ranthambore Fort: Sawai Madhopur. Fixed association: Ranthambore Fort — Sawai Madhopur. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Bala Quila: Alwar. Fixed association: Bala Quila — Alwar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Gagron Fort: Jhalawar; water fort memory. Fixed association: Gagron Fort — Jhalawar; water fort memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Dilwara temples: Mount Abu; Jain temples. Fixed association: Dilwara temples — Mount Abu; Jain temples. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Eklingji: Mewar deity tradition. Fixed association: Eklingji — Mewar deity tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Nathdwara: Shrinathji. Fixed association: Nathdwara — Shrinathji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Govind Devji: Jaipur temple memory. Fixed association: Govind Devji — Jaipur temple memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Osian: temple town memory. Fixed association: Osian — temple town memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Bharatiya Lok Kala Mandal: Udaipur; folk culture preservation. Fixed association: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Jawahar Kala Kendra: Jaipur; art and culture centre. Fixed association: Jawahar Kala Kendra — Jaipur; art and culture centre. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Albert Hall Museum: Jaipur museum. Fixed association: Albert Hall Museum — Jaipur museum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Ahar Museum: Udaipur archaeology memory. Fixed association: Ahar Museum — Udaipur archaeology memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -1697,7 +1697,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -1715,103 +1715,103 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Chittorgarh Fort",
         "answer": "Mewar; Vijay Stambh and Kirti Stambh context",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Chittorgarh Fort — Mewar; Vijay Stambh and Kirti Stambh context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chittorgarh Fort — Mewar; Vijay Stambh and Kirti Stambh context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kumbhalgarh Fort",
         "answer": "Maharana Kumbha association",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Kumbhalgarh Fort — Maharana Kumbha association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kumbhalgarh Fort — Maharana Kumbha association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mehrangarh Fort",
         "answer": "Jodhpur; Rao Jodha association",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Mehrangarh Fort — Jodhpur; Rao Jodha association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mehrangarh Fort — Jodhpur; Rao Jodha association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jaisalmer/Sonargarh",
         "answer": "Bhati rulers; living fort memory",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Jaisalmer/Sonargarh — Bhati rulers; living fort memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jaisalmer/Sonargarh — Bhati rulers; living fort memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Taragarh",
         "answer": "Ajmer/Bundi fort memory depending context",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Taragarh — Ajmer/Bundi fort memory depending context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Taragarh — Ajmer/Bundi fort memory depending context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ranthambore Fort",
         "answer": "Sawai Madhopur",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Ranthambore Fort — Sawai Madhopur. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ranthambore Fort — Sawai Madhopur. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bala Quila",
         "answer": "Alwar",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Bala Quila — Alwar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bala Quila — Alwar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gagron Fort",
         "answer": "Jhalawar; water fort memory",
         "tag": "fort",
-        "explanation": "Remember the fixed exam pair: Gagron Fort — Jhalawar; water fort memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gagron Fort — Jhalawar; water fort memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Dilwara temples",
         "answer": "Mount Abu; Jain temples",
         "tag": "temple",
-        "explanation": "Remember the fixed exam pair: Dilwara temples — Mount Abu; Jain temples. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Dilwara temples — Mount Abu; Jain temples. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Eklingji",
         "answer": "Mewar deity tradition",
         "tag": "temple",
-        "explanation": "Remember the fixed exam pair: Eklingji — Mewar deity tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Eklingji — Mewar deity tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Nathdwara",
         "answer": "Shrinathji",
         "tag": "temple",
-        "explanation": "Remember the fixed exam pair: Nathdwara — Shrinathji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Nathdwara — Shrinathji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Govind Devji",
         "answer": "Jaipur temple memory",
         "tag": "temple",
-        "explanation": "Remember the fixed exam pair: Govind Devji — Jaipur temple memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Govind Devji — Jaipur temple memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Osian",
         "answer": "temple town memory",
         "tag": "temple",
-        "explanation": "Remember the fixed exam pair: Osian — temple town memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Osian — temple town memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bharatiya Lok Kala Mandal",
         "answer": "Udaipur; folk culture preservation",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jawahar Kala Kendra",
         "answer": "Jaipur; art and culture centre",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Jawahar Kala Kendra — Jaipur; art and culture centre. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jawahar Kala Kendra — Jaipur; art and culture centre. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Albert Hall Museum",
         "answer": "Jaipur museum",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Albert Hall Museum — Jaipur museum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Albert Hall Museum — Jaipur museum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ahar Museum",
         "answer": "Udaipur archaeology memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Ahar Museum — Udaipur archaeology memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ahar Museum — Udaipur archaeology memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -1852,7 +1852,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Kalibanga: Hanumangarh; Harappan site; ploughed field memory. Remember the fixed exam pair: Kalibanga — Hanumangarh; Harappan site; ploughed field memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Ahar: Udaipur; Ahar-Banas Chalcolithic culture. Remember the fixed exam pair: Ahar — Udaipur; Ahar-Banas Chalcolithic culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ganeshwar: Sikar/Neem ka Thana belt; copper culture. Remember the fixed exam pair: Ganeshwar — Sikar/Neem ka Thana belt; copper culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Bairath/Viratnagar: Jaipur; Matsya region; Ashokan/Buddhist remains. Remember the fixed exam pair: Bairath/Viratnagar — Jaipur; Matsya region; Ashokan/Buddhist remains. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Gilund: Rajsamand; Ahar-Banas culture. Remember the fixed exam pair: Gilund — Rajsamand; Ahar-Banas culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Balathal: Udaipur region; Chalcolithic site. Remember the fixed exam pair: Balathal — Udaipur region; Chalcolithic site. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Bagor: Bhilwara; Mesolithic evidence. Remember the fixed exam pair: Bagor — Bhilwara; Mesolithic evidence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Tilwara: Barmer; ancient/early culture evidence. Remember the fixed exam pair: Tilwara — Barmer; ancient/early culture evidence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Nagari: Chittorgarh; ancient Madhyamika. Remember the fixed exam pair: Nagari — Chittorgarh; ancient Madhyamika. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Sunari: Jhunjhunu archaeological site. Remember the fixed exam pair: Sunari — Jhunjhunu archaeological site. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Ojhiyana: Chittorgarh region archaeological memory. Remember the fixed exam pair: Ojhiyana — Chittorgarh region archaeological memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Jodhpura: Jaipur region archaeological site. Remember the fixed exam pair: Jodhpura — Jaipur region archaeological site. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Harappan link: Kalibanga is the strongest Rajasthan Harappan memory. Remember the fixed exam pair: Harappan link — Kalibanga is the strongest Rajasthan Harappan memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Copper culture link: Ganeshwar is the strongest copper culture memory. Remember the fixed exam pair: Copper culture link — Ganeshwar is the strongest copper culture memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Kalibanga: Hanumangarh; Harappan site; ploughed field memory. Fixed association: Kalibanga — Hanumangarh; Harappan site; ploughed field memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Ahar: Udaipur; Ahar-Banas Chalcolithic culture. Fixed association: Ahar — Udaipur; Ahar-Banas Chalcolithic culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ganeshwar: Sikar/Neem ka Thana belt; copper culture. Fixed association: Ganeshwar — Sikar/Neem ka Thana belt; copper culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Bairath/Viratnagar: Jaipur; Matsya region; Ashokan/Buddhist remains. Fixed association: Bairath/Viratnagar — Jaipur; Matsya region; Ashokan/Buddhist remains. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Gilund: Rajsamand; Ahar-Banas culture. Fixed association: Gilund — Rajsamand; Ahar-Banas culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Balathal: Udaipur region; Chalcolithic site. Fixed association: Balathal — Udaipur region; Chalcolithic site. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Bagor: Bhilwara; Mesolithic evidence. Fixed association: Bagor — Bhilwara; Mesolithic evidence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Tilwara: Barmer; ancient/early culture evidence. Fixed association: Tilwara — Barmer; ancient/early culture evidence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Nagari: Chittorgarh; ancient Madhyamika. Fixed association: Nagari — Chittorgarh; ancient Madhyamika. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Sunari: Jhunjhunu archaeological site. Fixed association: Sunari — Jhunjhunu archaeological site. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Ojhiyana: Chittorgarh region archaeological memory. Fixed association: Ojhiyana — Chittorgarh region archaeological memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Jodhpura: Jaipur region archaeological site. Fixed association: Jodhpura — Jaipur region archaeological site. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Harappan link: Kalibanga is the strongest Rajasthan Harappan memory. Fixed association: Harappan link — Kalibanga is the strongest Rajasthan Harappan memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Copper culture link: Ganeshwar is the strongest copper culture memory. Fixed association: Copper culture link — Ganeshwar is the strongest copper culture memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -1954,7 +1954,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -1972,85 +1972,85 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Kalibanga",
         "answer": "Hanumangarh; Harappan site; ploughed field memory",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Kalibanga — Hanumangarh; Harappan site; ploughed field memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kalibanga — Hanumangarh; Harappan site; ploughed field memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ahar",
         "answer": "Udaipur; Ahar-Banas Chalcolithic culture",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Ahar — Udaipur; Ahar-Banas Chalcolithic culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ahar — Udaipur; Ahar-Banas Chalcolithic culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ganeshwar",
         "answer": "Sikar/Neem ka Thana belt; copper culture",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Ganeshwar — Sikar/Neem ka Thana belt; copper culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ganeshwar — Sikar/Neem ka Thana belt; copper culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bairath/Viratnagar",
         "answer": "Jaipur; Matsya region; Ashokan/Buddhist remains",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Bairath/Viratnagar — Jaipur; Matsya region; Ashokan/Buddhist remains. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bairath/Viratnagar — Jaipur; Matsya region; Ashokan/Buddhist remains. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gilund",
         "answer": "Rajsamand; Ahar-Banas culture",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Gilund — Rajsamand; Ahar-Banas culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gilund — Rajsamand; Ahar-Banas culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Balathal",
         "answer": "Udaipur region; Chalcolithic site",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Balathal — Udaipur region; Chalcolithic site. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Balathal — Udaipur region; Chalcolithic site. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bagor",
         "answer": "Bhilwara; Mesolithic evidence",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Bagor — Bhilwara; Mesolithic evidence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bagor — Bhilwara; Mesolithic evidence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Tilwara",
         "answer": "Barmer; ancient/early culture evidence",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Tilwara — Barmer; ancient/early culture evidence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Tilwara — Barmer; ancient/early culture evidence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Nagari",
         "answer": "Chittorgarh; ancient Madhyamika",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Nagari — Chittorgarh; ancient Madhyamika. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Nagari — Chittorgarh; ancient Madhyamika. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sunari",
         "answer": "Jhunjhunu archaeological site",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Sunari — Jhunjhunu archaeological site. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sunari — Jhunjhunu archaeological site. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ojhiyana",
         "answer": "Chittorgarh region archaeological memory",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Ojhiyana — Chittorgarh region archaeological memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ojhiyana — Chittorgarh region archaeological memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jodhpura",
         "answer": "Jaipur region archaeological site",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Jodhpura — Jaipur region archaeological site. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jodhpura — Jaipur region archaeological site. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Harappan link",
         "answer": "Kalibanga is the strongest Rajasthan Harappan memory",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Harappan link — Kalibanga is the strongest Rajasthan Harappan memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Harappan link — Kalibanga is the strongest Rajasthan Harappan memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Copper culture link",
         "answer": "Ganeshwar is the strongest copper culture memory",
         "tag": "archaeology",
-        "explanation": "Remember the fixed exam pair: Copper culture link — Ganeshwar is the strongest copper culture memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Copper culture link — Ganeshwar is the strongest copper culture memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -2091,7 +2091,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Guhil/Sisodia: Mewar dynasty. Remember the fixed exam pair: Guhil/Sisodia — Mewar dynasty. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Bappa Rawal: early Mewar ruler memory. Remember the fixed exam pair: Bappa Rawal — early Mewar ruler memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Hammir: Mewar ruler memory. Remember the fixed exam pair: Hammir — Mewar ruler memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Rana Kumbha: Kumbhalgarh and Vijay Stambh association. Remember the fixed exam pair: Rana Kumbha — Kumbhalgarh and Vijay Stambh association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rana Sanga: Battle of Khanwa association. Remember the fixed exam pair: Rana Sanga — Battle of Khanwa association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Maharana Pratap: Haldighati, Dewair and Chavand association. Remember the fixed exam pair: Maharana Pratap — Haldighati, Dewair and Chavand association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Amar Singh I: Mughal relation/treaty context. Remember the fixed exam pair: Amar Singh I — Mughal relation/treaty context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Raj Singh: Mewar ruler memory. Remember the fixed exam pair: Raj Singh — Mewar ruler memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Rathore: Marwar dynasty. Remember the fixed exam pair: Rathore — Marwar dynasty. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rao Jodha: founder of Jodhpur. Remember the fixed exam pair: Rao Jodha — founder of Jodhpur. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Rao Maldev: Marwar ruler; Giri Sumel context. Remember the fixed exam pair: Rao Maldev — Marwar ruler; Giri Sumel context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Rao Chandrasen: Forgotten hero of Marwar memory. Remember the fixed exam pair: Rao Chandrasen — Forgotten hero of Marwar memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Durgadas Rathore: protected Ajit Singh; Marwar resistance. Remember the fixed exam pair: Durgadas Rathore — protected Ajit Singh; Marwar resistance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Kachwaha: Amber/Jaipur dynasty. Remember the fixed exam pair: Kachwaha — Amber/Jaipur dynasty. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Sawai Jai Singh II: Jaipur city and Jantar Mantar. Remember the fixed exam pair: Sawai Jai Singh II — Jaipur city and Jantar Mantar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Bhati: Jaisalmer dynasty memory. Remember the fixed exam pair: Bhati — Jaisalmer dynasty memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Hada: Bundi/Kota dynasty memory. Remember the fixed exam pair: Hada — Bundi/Kota dynasty memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Guhil/Sisodia: Mewar dynasty. Fixed association: Guhil/Sisodia — Mewar dynasty. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Bappa Rawal: early Mewar ruler memory. Fixed association: Bappa Rawal — early Mewar ruler memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Hammir: Mewar ruler memory. Fixed association: Hammir — Mewar ruler memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Rana Kumbha: Kumbhalgarh and Vijay Stambh association. Fixed association: Rana Kumbha — Kumbhalgarh and Vijay Stambh association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rana Sanga: Battle of Khanwa association. Fixed association: Rana Sanga — Battle of Khanwa association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Maharana Pratap: Haldighati, Dewair and Chavand association. Fixed association: Maharana Pratap — Haldighati, Dewair and Chavand association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Amar Singh I: Mughal relation/treaty context. Fixed association: Amar Singh I — Mughal relation/treaty context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Raj Singh: Mewar ruler memory. Fixed association: Raj Singh — Mewar ruler memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Rathore: Marwar dynasty. Fixed association: Rathore — Marwar dynasty. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rao Jodha: founder of Jodhpur. Fixed association: Rao Jodha — founder of Jodhpur. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Rao Maldev: Marwar ruler; Giri Sumel context. Fixed association: Rao Maldev — Marwar ruler; Giri Sumel context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Rao Chandrasen: Forgotten hero of Marwar memory. Fixed association: Rao Chandrasen — Forgotten hero of Marwar memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Durgadas Rathore: protected Ajit Singh; Marwar resistance. Fixed association: Durgadas Rathore — protected Ajit Singh; Marwar resistance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Kachwaha: Amber/Jaipur dynasty. Fixed association: Kachwaha — Amber/Jaipur dynasty. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Sawai Jai Singh II: Jaipur city and Jantar Mantar. Fixed association: Sawai Jai Singh II — Jaipur city and Jantar Mantar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Bhati: Jaisalmer dynasty memory. Fixed association: Bhati — Jaisalmer dynasty memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Hada: Bundi/Kota dynasty memory. Fixed association: Hada — Bundi/Kota dynasty memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -2208,7 +2208,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -2226,103 +2226,103 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Guhil/Sisodia",
         "answer": "Mewar dynasty",
         "tag": "dynasty",
-        "explanation": "Remember the fixed exam pair: Guhil/Sisodia — Mewar dynasty. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Guhil/Sisodia — Mewar dynasty. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bappa Rawal",
         "answer": "early Mewar ruler memory",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Bappa Rawal — early Mewar ruler memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bappa Rawal — early Mewar ruler memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Hammir",
         "answer": "Mewar ruler memory",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Hammir — Mewar ruler memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Hammir — Mewar ruler memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rana Kumbha",
         "answer": "Kumbhalgarh and Vijay Stambh association",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Rana Kumbha — Kumbhalgarh and Vijay Stambh association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rana Kumbha — Kumbhalgarh and Vijay Stambh association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rana Sanga",
         "answer": "Battle of Khanwa association",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Rana Sanga — Battle of Khanwa association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rana Sanga — Battle of Khanwa association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Maharana Pratap",
         "answer": "Haldighati, Dewair and Chavand association",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Maharana Pratap — Haldighati, Dewair and Chavand association. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Maharana Pratap — Haldighati, Dewair and Chavand association. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Amar Singh I",
         "answer": "Mughal relation/treaty context",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Amar Singh I — Mughal relation/treaty context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Amar Singh I — Mughal relation/treaty context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Raj Singh",
         "answer": "Mewar ruler memory",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Raj Singh — Mewar ruler memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Raj Singh — Mewar ruler memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rathore",
         "answer": "Marwar dynasty",
         "tag": "dynasty",
-        "explanation": "Remember the fixed exam pair: Rathore — Marwar dynasty. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rathore — Marwar dynasty. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rao Jodha",
         "answer": "founder of Jodhpur",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Rao Jodha — founder of Jodhpur. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rao Jodha — founder of Jodhpur. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rao Maldev",
         "answer": "Marwar ruler; Giri Sumel context",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Rao Maldev — Marwar ruler; Giri Sumel context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rao Maldev — Marwar ruler; Giri Sumel context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rao Chandrasen",
         "answer": "Forgotten hero of Marwar memory",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Rao Chandrasen — Forgotten hero of Marwar memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rao Chandrasen — Forgotten hero of Marwar memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Durgadas Rathore",
         "answer": "protected Ajit Singh; Marwar resistance",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Durgadas Rathore — protected Ajit Singh; Marwar resistance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Durgadas Rathore — protected Ajit Singh; Marwar resistance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kachwaha",
         "answer": "Amber/Jaipur dynasty",
         "tag": "dynasty",
-        "explanation": "Remember the fixed exam pair: Kachwaha — Amber/Jaipur dynasty. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kachwaha — Amber/Jaipur dynasty. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sawai Jai Singh II",
         "answer": "Jaipur city and Jantar Mantar",
         "tag": "ruler",
-        "explanation": "Remember the fixed exam pair: Sawai Jai Singh II — Jaipur city and Jantar Mantar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sawai Jai Singh II — Jaipur city and Jantar Mantar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bhati",
         "answer": "Jaisalmer dynasty memory",
         "tag": "dynasty",
-        "explanation": "Remember the fixed exam pair: Bhati — Jaisalmer dynasty memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bhati — Jaisalmer dynasty memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Hada",
         "answer": "Bundi/Kota dynasty memory",
         "tag": "dynasty",
-        "explanation": "Remember the fixed exam pair: Hada — Bundi/Kota dynasty memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Hada — Bundi/Kota dynasty memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -2360,7 +2360,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Second Battle of Tarain: 1192; Prithviraj Chauhan vs Muhammad Ghori. Remember the fixed exam pair: Second Battle of Tarain — 1192; Prithviraj Chauhan vs Muhammad Ghori. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Battle of Khanwa: 1527; Babur vs Rana Sanga. Remember the fixed exam pair: Battle of Khanwa — 1527; Babur vs Rana Sanga. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Battle of Haldighati: 1576; Maharana Pratap vs Mughal forces led by Man Singh. Remember the fixed exam pair: Battle of Haldighati — 1576; Maharana Pratap vs Mughal forces led by Man Singh. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Battle of Dewair: 1582; Maharana Pratap recovery phase. Remember the fixed exam pair: Battle of Dewair — 1582; Maharana Pratap recovery phase. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Giri Sumel/Sammel: 1544; Sher Shah Suri vs Rao Maldev forces. Remember the fixed exam pair: Giri Sumel/Sammel — 1544; Sher Shah Suri vs Rao Maldev forces. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Chavand: Maharana Pratap’s later capital. Remember the fixed exam pair: Chavand — Maharana Pratap’s later capital. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Chetak: Maharana Pratap’s horse. Remember the fixed exam pair: Chetak — Maharana Pratap’s horse. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Man Singh: Mughal commander at Haldighati. Remember the fixed exam pair: Man Singh — Mughal commander at Haldighati. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Rana Sanga: Khanwa hero. Remember the fixed exam pair: Rana Sanga — Khanwa hero. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rao Maldev: Giri Sumel context. Remember the fixed exam pair: Rao Maldev — Giri Sumel context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Chronology trap: Tarain before Khanwa before Giri Sumel before Haldighati before Dewair. Remember the fixed exam pair: Chronology trap — Tarain before Khanwa before Giri Sumel before Haldighati before Dewair. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Second Battle of Tarain: 1192; Prithviraj Chauhan vs Muhammad Ghori. Fixed association: Second Battle of Tarain — 1192; Prithviraj Chauhan vs Muhammad Ghori. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Battle of Khanwa: 1527; Babur vs Rana Sanga. Fixed association: Battle of Khanwa — 1527; Babur vs Rana Sanga. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Battle of Haldighati: 1576; Maharana Pratap vs Mughal forces led by Man Singh. Fixed association: Battle of Haldighati — 1576; Maharana Pratap vs Mughal forces led by Man Singh. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Battle of Dewair: 1582; Maharana Pratap recovery phase. Fixed association: Battle of Dewair — 1582; Maharana Pratap recovery phase. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Giri Sumel/Sammel: 1544; Sher Shah Suri vs Rao Maldev forces. Fixed association: Giri Sumel/Sammel — 1544; Sher Shah Suri vs Rao Maldev forces. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Chavand: Maharana Pratap’s later capital. Fixed association: Chavand — Maharana Pratap’s later capital. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Chetak: Maharana Pratap’s horse. Fixed association: Chetak — Maharana Pratap’s horse. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Man Singh: Mughal commander at Haldighati. Fixed association: Man Singh — Mughal commander at Haldighati. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Rana Sanga: Khanwa hero. Fixed association: Rana Sanga — Khanwa hero. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rao Maldev: Giri Sumel context. Fixed association: Rao Maldev — Giri Sumel context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Chronology trap: Tarain before Khanwa before Giri Sumel before Haldighati before Dewair. Fixed association: Chronology trap — Tarain before Khanwa before Giri Sumel before Haldighati before Dewair. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -2447,7 +2447,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -2465,67 +2465,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Second Battle of Tarain",
         "answer": "1192; Prithviraj Chauhan vs Muhammad Ghori",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Second Battle of Tarain — 1192; Prithviraj Chauhan vs Muhammad Ghori. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Second Battle of Tarain — 1192; Prithviraj Chauhan vs Muhammad Ghori. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Battle of Khanwa",
         "answer": "1527; Babur vs Rana Sanga",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Battle of Khanwa — 1527; Babur vs Rana Sanga. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Battle of Khanwa — 1527; Babur vs Rana Sanga. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Battle of Haldighati",
         "answer": "1576; Maharana Pratap vs Mughal forces led by Man Singh",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Battle of Haldighati — 1576; Maharana Pratap vs Mughal forces led by Man Singh. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Battle of Haldighati — 1576; Maharana Pratap vs Mughal forces led by Man Singh. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Battle of Dewair",
         "answer": "1582; Maharana Pratap recovery phase",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Battle of Dewair — 1582; Maharana Pratap recovery phase. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Battle of Dewair — 1582; Maharana Pratap recovery phase. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Giri Sumel/Sammel",
         "answer": "1544; Sher Shah Suri vs Rao Maldev forces",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Giri Sumel/Sammel — 1544; Sher Shah Suri vs Rao Maldev forces. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Giri Sumel/Sammel — 1544; Sher Shah Suri vs Rao Maldev forces. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Chavand",
         "answer": "Maharana Pratap’s later capital",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Chavand — Maharana Pratap’s later capital. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chavand — Maharana Pratap’s later capital. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Chetak",
         "answer": "Maharana Pratap’s horse",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Chetak — Maharana Pratap’s horse. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chetak — Maharana Pratap’s horse. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Man Singh",
         "answer": "Mughal commander at Haldighati",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Man Singh — Mughal commander at Haldighati. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Man Singh — Mughal commander at Haldighati. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rana Sanga",
         "answer": "Khanwa hero",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Rana Sanga — Khanwa hero. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rana Sanga — Khanwa hero. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rao Maldev",
         "answer": "Giri Sumel context",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Rao Maldev — Giri Sumel context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rao Maldev — Giri Sumel context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Chronology trap",
         "answer": "Tarain before Khanwa before Giri Sumel before Haldighati before Dewair",
         "tag": "battle",
-        "explanation": "Remember the fixed exam pair: Chronology trap — Tarain before Khanwa before Giri Sumel before Haldighati before Dewair. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chronology trap — Tarain before Khanwa before Giri Sumel before Haldighati before Dewair. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -2566,7 +2566,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bijolia movement: peasant movement; Vijay Singh Pathik memory. Remember the fixed exam pair: Bijolia movement — peasant movement; Vijay Singh Pathik memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Begun movement: peasant movement memory. Remember the fixed exam pair: Begun movement — peasant movement memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Praja Mandal: responsible government movement in princely states. Remember the fixed exam pair: Praja Mandal — responsible government movement in princely states. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Bhil movement: tribal issues and political awakening. Remember the fixed exam pair: Bhil movement — tribal issues and political awakening. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Govind Guru: tribal/Bhagat movement memory. Remember the fixed exam pair: Govind Guru — tribal/Bhagat movement memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Rajasthan Seva Sangh: political awakening and movement support. Remember the fixed exam pair: Rajasthan Seva Sangh — political awakening and movement support. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Desh Hitaishini Sabha: political/social organization memory. Remember the fixed exam pair: Desh Hitaishini Sabha — political/social organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Veer Bharat Sabha: political organization memory. Remember the fixed exam pair: Veer Bharat Sabha — political organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Sarv Hitaishini Sabha: political/social organization memory. Remember the fixed exam pair: Sarv Hitaishini Sabha — political/social organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Matsya Union: stage of Rajasthan integration. Remember the fixed exam pair: Matsya Union — stage of Rajasthan integration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. United Rajasthan: stage of Rajasthan integration. Remember the fixed exam pair: United Rajasthan — stage of Rajasthan integration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Greater Rajasthan: stage of Rajasthan integration. Remember the fixed exam pair: Greater Rajasthan — stage of Rajasthan integration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. 1 November 1956: final major reorganisation context. Remember the fixed exam pair: 1 November 1956 — final major reorganisation context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Hiralal Shastri: first Chief Minister of Rajasthan. Remember the fixed exam pair: Hiralal Shastri — first Chief Minister of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Sardar Patel/V. P. Menon: integration of princely states context. Remember the fixed exam pair: Sardar Patel/V. P. Menon — integration of princely states context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bijolia movement: peasant movement; Vijay Singh Pathik memory. Fixed association: Bijolia movement — peasant movement; Vijay Singh Pathik memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Begun movement: peasant movement memory. Fixed association: Begun movement — peasant movement memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Praja Mandal: responsible government movement in princely states. Fixed association: Praja Mandal — responsible government movement in princely states. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Bhil movement: tribal issues and political awakening. Fixed association: Bhil movement — tribal issues and political awakening. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Govind Guru: tribal/Bhagat movement memory. Fixed association: Govind Guru — tribal/Bhagat movement memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Rajasthan Seva Sangh: political awakening and movement support. Fixed association: Rajasthan Seva Sangh — political awakening and movement support. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Desh Hitaishini Sabha: political/social organization memory. Fixed association: Desh Hitaishini Sabha — political/social organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Veer Bharat Sabha: political organization memory. Fixed association: Veer Bharat Sabha — political organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Sarv Hitaishini Sabha: political/social organization memory. Fixed association: Sarv Hitaishini Sabha — political/social organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Matsya Union: stage of Rajasthan integration. Fixed association: Matsya Union — stage of Rajasthan integration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. United Rajasthan: stage of Rajasthan integration. Fixed association: United Rajasthan — stage of Rajasthan integration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Greater Rajasthan: stage of Rajasthan integration. Fixed association: Greater Rajasthan — stage of Rajasthan integration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. 1 November 1956: final major reorganisation context. Fixed association: 1 November 1956 — final major reorganisation context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Hiralal Shastri: first Chief Minister of Rajasthan. Fixed association: Hiralal Shastri — first Chief Minister of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Sardar Patel/V. P. Menon: integration of princely states context. Fixed association: Sardar Patel/V. P. Menon — integration of princely states context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -2673,7 +2673,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -2691,91 +2691,91 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Bijolia movement",
         "answer": "peasant movement; Vijay Singh Pathik memory",
         "tag": "movement",
-        "explanation": "Remember the fixed exam pair: Bijolia movement — peasant movement; Vijay Singh Pathik memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bijolia movement — peasant movement; Vijay Singh Pathik memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Begun movement",
         "answer": "peasant movement memory",
         "tag": "movement",
-        "explanation": "Remember the fixed exam pair: Begun movement — peasant movement memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Begun movement — peasant movement memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Praja Mandal",
         "answer": "responsible government movement in princely states",
         "tag": "movement",
-        "explanation": "Remember the fixed exam pair: Praja Mandal — responsible government movement in princely states. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Praja Mandal — responsible government movement in princely states. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bhil movement",
         "answer": "tribal issues and political awakening",
         "tag": "movement",
-        "explanation": "Remember the fixed exam pair: Bhil movement — tribal issues and political awakening. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bhil movement — tribal issues and political awakening. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Govind Guru",
         "answer": "tribal/Bhagat movement memory",
         "tag": "movement",
-        "explanation": "Remember the fixed exam pair: Govind Guru — tribal/Bhagat movement memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Govind Guru — tribal/Bhagat movement memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Seva Sangh",
         "answer": "political awakening and movement support",
         "tag": "organization",
-        "explanation": "Remember the fixed exam pair: Rajasthan Seva Sangh — political awakening and movement support. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Seva Sangh — political awakening and movement support. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Desh Hitaishini Sabha",
         "answer": "political/social organization memory",
         "tag": "organization",
-        "explanation": "Remember the fixed exam pair: Desh Hitaishini Sabha — political/social organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Desh Hitaishini Sabha — political/social organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Veer Bharat Sabha",
         "answer": "political organization memory",
         "tag": "organization",
-        "explanation": "Remember the fixed exam pair: Veer Bharat Sabha — political organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Veer Bharat Sabha — political organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sarv Hitaishini Sabha",
         "answer": "political/social organization memory",
         "tag": "organization",
-        "explanation": "Remember the fixed exam pair: Sarv Hitaishini Sabha — political/social organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sarv Hitaishini Sabha — political/social organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Matsya Union",
         "answer": "stage of Rajasthan integration",
         "tag": "integration",
-        "explanation": "Remember the fixed exam pair: Matsya Union — stage of Rajasthan integration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Matsya Union — stage of Rajasthan integration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "United Rajasthan",
         "answer": "stage of Rajasthan integration",
         "tag": "integration",
-        "explanation": "Remember the fixed exam pair: United Rajasthan — stage of Rajasthan integration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: United Rajasthan — stage of Rajasthan integration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Greater Rajasthan",
         "answer": "stage of Rajasthan integration",
         "tag": "integration",
-        "explanation": "Remember the fixed exam pair: Greater Rajasthan — stage of Rajasthan integration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Greater Rajasthan — stage of Rajasthan integration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "1 November 1956",
         "answer": "final major reorganisation context",
         "tag": "integration",
-        "explanation": "Remember the fixed exam pair: 1 November 1956 — final major reorganisation context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: 1 November 1956 — final major reorganisation context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Hiralal Shastri",
         "answer": "first Chief Minister of Rajasthan",
         "tag": "integration",
-        "explanation": "Remember the fixed exam pair: Hiralal Shastri — first Chief Minister of Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Hiralal Shastri — first Chief Minister of Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sardar Patel/V. P. Menon",
         "answer": "integration of princely states context",
         "tag": "integration",
-        "explanation": "Remember the fixed exam pair: Sardar Patel/V. P. Menon — integration of princely states context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sardar Patel/V. P. Menon — integration of princely states context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -2816,7 +2816,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bishnoi sect: Guru Jambhoji. Remember the fixed exam pair: Bishnoi sect — Guru Jambhoji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Dadu Panth: Dadu Dayal. Remember the fixed exam pair: Dadu Panth — Dadu Dayal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ram Snehi sect: Ram Charanji / Dariyavji branch memory. Remember the fixed exam pair: Ram Snehi sect — Ram Charanji / Dariyavji branch memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Jasnathi sect: Jasnathji. Remember the fixed exam pair: Jasnathi sect — Jasnathji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Nath tradition: yogi/saint tradition. Remember the fixed exam pair: Nath tradition — yogi/saint tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Mira Bai: Krishna devotion. Remember the fixed exam pair: Mira Bai — Krishna devotion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Charan saints: literary and heroic tradition memory. Remember the fixed exam pair: Charan saints — literary and heroic tradition memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Dingal: heroic/martial Rajasthani literature. Remember the fixed exam pair: Dingal — heroic/martial Rajasthani literature. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Pingal: poetic/literary tradition memory. Remember the fixed exam pair: Pingal — poetic/literary tradition memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Khyat: historical chronicle tradition. Remember the fixed exam pair: Khyat — historical chronicle tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Kuvalayamala: early literary reference memory. Remember the fixed exam pair: Kuvalayamala — early literary reference memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Akhaishahi: princely currency matching trap. Remember the fixed exam pair: Akhaishahi — princely currency matching trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Jhadshahi: currency-state trap. Remember the fixed exam pair: Jhadshahi — currency-state trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Vijaishahi: currency-state trap. Remember the fixed exam pair: Vijaishahi — currency-state trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Gajshahi: currency-state trap. Remember the fixed exam pair: Gajshahi — currency-state trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Book-author pairs: learn title, author, tag, period. Remember the fixed exam pair: Book-author pairs — learn title, author, tag, period. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan History, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bishnoi sect: Guru Jambhoji. Fixed association: Bishnoi sect — Guru Jambhoji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Dadu Panth: Dadu Dayal. Fixed association: Dadu Panth — Dadu Dayal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ram Snehi sect: Ram Charanji / Dariyavji branch memory. Fixed association: Ram Snehi sect — Ram Charanji / Dariyavji branch memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Jasnathi sect: Jasnathji. Fixed association: Jasnathi sect — Jasnathji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Nath tradition: yogi/saint tradition. Fixed association: Nath tradition — yogi/saint tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Mira Bai: Krishna devotion. Fixed association: Mira Bai — Krishna devotion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Charan saints: literary and heroic tradition memory. Fixed association: Charan saints — literary and heroic tradition memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Dingal: heroic/martial Rajasthani literature. Fixed association: Dingal — heroic/martial Rajasthani literature. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Pingal: poetic/literary tradition memory. Fixed association: Pingal — poetic/literary tradition memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Khyat: historical chronicle tradition. Fixed association: Khyat — historical chronicle tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Kuvalayamala: early literary reference memory. Fixed association: Kuvalayamala — early literary reference memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Akhaishahi: princely currency matching trap. Fixed association: Akhaishahi — princely currency matching trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Jhadshahi: currency-state trap. Fixed association: Jhadshahi — currency-state trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Vijaishahi: currency-state trap. Fixed association: Vijaishahi — currency-state trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Gajshahi: currency-state trap. Fixed association: Gajshahi — currency-state trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Book-author pairs: learn title, author, tag, period. Fixed association: Book-author pairs — learn title, author, tag, period. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -2928,7 +2928,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -2946,97 +2946,97 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Bishnoi sect",
         "answer": "Guru Jambhoji",
         "tag": "saint",
-        "explanation": "Remember the fixed exam pair: Bishnoi sect — Guru Jambhoji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bishnoi sect — Guru Jambhoji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Dadu Panth",
         "answer": "Dadu Dayal",
         "tag": "saint",
-        "explanation": "Remember the fixed exam pair: Dadu Panth — Dadu Dayal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Dadu Panth — Dadu Dayal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ram Snehi sect",
         "answer": "Ram Charanji / Dariyavji branch memory",
         "tag": "saint",
-        "explanation": "Remember the fixed exam pair: Ram Snehi sect — Ram Charanji / Dariyavji branch memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ram Snehi sect — Ram Charanji / Dariyavji branch memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jasnathi sect",
         "answer": "Jasnathji",
         "tag": "saint",
-        "explanation": "Remember the fixed exam pair: Jasnathi sect — Jasnathji. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jasnathi sect — Jasnathji. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Nath tradition",
         "answer": "yogi/saint tradition",
         "tag": "saint",
-        "explanation": "Remember the fixed exam pair: Nath tradition — yogi/saint tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Nath tradition — yogi/saint tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mira Bai",
         "answer": "Krishna devotion",
         "tag": "saint",
-        "explanation": "Remember the fixed exam pair: Mira Bai — Krishna devotion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mira Bai — Krishna devotion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Charan saints",
         "answer": "literary and heroic tradition memory",
         "tag": "literature",
-        "explanation": "Remember the fixed exam pair: Charan saints — literary and heroic tradition memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Charan saints — literary and heroic tradition memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Dingal",
         "answer": "heroic/martial Rajasthani literature",
         "tag": "literature",
-        "explanation": "Remember the fixed exam pair: Dingal — heroic/martial Rajasthani literature. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Dingal — heroic/martial Rajasthani literature. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pingal",
         "answer": "poetic/literary tradition memory",
         "tag": "literature",
-        "explanation": "Remember the fixed exam pair: Pingal — poetic/literary tradition memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pingal — poetic/literary tradition memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Khyat",
         "answer": "historical chronicle tradition",
         "tag": "literature",
-        "explanation": "Remember the fixed exam pair: Khyat — historical chronicle tradition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Khyat — historical chronicle tradition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kuvalayamala",
         "answer": "early literary reference memory",
         "tag": "literature",
-        "explanation": "Remember the fixed exam pair: Kuvalayamala — early literary reference memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kuvalayamala — early literary reference memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Akhaishahi",
         "answer": "princely currency matching trap",
         "tag": "coin",
-        "explanation": "Remember the fixed exam pair: Akhaishahi — princely currency matching trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Akhaishahi — princely currency matching trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jhadshahi",
         "answer": "currency-state trap",
         "tag": "coin",
-        "explanation": "Remember the fixed exam pair: Jhadshahi — currency-state trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jhadshahi — currency-state trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Vijaishahi",
         "answer": "currency-state trap",
         "tag": "coin",
-        "explanation": "Remember the fixed exam pair: Vijaishahi — currency-state trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Vijaishahi — currency-state trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gajshahi",
         "answer": "currency-state trap",
         "tag": "coin",
-        "explanation": "Remember the fixed exam pair: Gajshahi — currency-state trap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gajshahi — currency-state trap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Book-author pairs",
         "answer": "learn title, author, tag, period",
         "tag": "literature",
-        "explanation": "Remember the fixed exam pair: Book-author pairs — learn title, author, tag, period. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Book-author pairs — learn title, author, tag, period. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -3074,7 +3074,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Largest state by area: Rajasthan. Remember the fixed exam pair: Largest state by area — Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. International border: Pakistan border in western Rajasthan. Remember the fixed exam pair: International border — Pakistan border in western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Neighbouring states: Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat. Remember the fixed exam pair: Neighbouring states — Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Western desert: Thar desert region. Remember the fixed exam pair: Western desert — Thar desert region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Aravalli Range: old fold mountain range. Remember the fixed exam pair: Aravalli Range — old fold mountain range. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Guru Shikhar: highest peak of Rajasthan/Aravalli. Remember the fixed exam pair: Guru Shikhar — highest peak of Rajasthan/Aravalli. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Eastern plains: Banas-Chambal plains context. Remember the fixed exam pair: Eastern plains — Banas-Chambal plains context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. South-eastern plateau: Hadoti/Malwa edge memory. Remember the fixed exam pair: South-eastern plateau — Hadoti/Malwa edge memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Tropic of Cancer: passes through southern Rajasthan. Remember the fixed exam pair: Tropic of Cancer — passes through southern Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Extreme west memory: Jaisalmer-Barmer belt. Remember the fixed exam pair: Extreme west memory — Jaisalmer-Barmer belt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. International boundary districts: western border districts memory. Remember the fixed exam pair: International boundary districts — western border districts memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Largest state by area: Rajasthan. Fixed association: Largest state by area — Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. International border: Pakistan border in western Rajasthan. Fixed association: International border — Pakistan border in western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Neighbouring states: Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat. Fixed association: Neighbouring states — Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Western desert: Thar desert region. Fixed association: Western desert — Thar desert region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Aravalli Range: old fold mountain range. Fixed association: Aravalli Range — old fold mountain range. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Guru Shikhar: highest peak of Rajasthan/Aravalli. Fixed association: Guru Shikhar — highest peak of Rajasthan/Aravalli. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Eastern plains: Banas-Chambal plains context. Fixed association: Eastern plains — Banas-Chambal plains context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. South-eastern plateau: Hadoti/Malwa edge memory. Fixed association: South-eastern plateau — Hadoti/Malwa edge memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Tropic of Cancer: passes through southern Rajasthan. Fixed association: Tropic of Cancer — passes through southern Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Extreme west memory: Jaisalmer-Barmer belt. Fixed association: Extreme west memory — Jaisalmer-Barmer belt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. International boundary districts: western border districts memory. Fixed association: International boundary districts — western border districts memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -3161,7 +3161,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -3179,67 +3179,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Largest state by area",
         "answer": "Rajasthan",
         "tag": "location",
-        "explanation": "Remember the fixed exam pair: Largest state by area — Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Largest state by area — Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "International border",
         "answer": "Pakistan border in western Rajasthan",
         "tag": "location",
-        "explanation": "Remember the fixed exam pair: International border — Pakistan border in western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: International border — Pakistan border in western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Neighbouring states",
         "answer": "Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat",
         "tag": "location",
-        "explanation": "Remember the fixed exam pair: Neighbouring states — Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Neighbouring states — Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Gujarat. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Western desert",
         "answer": "Thar desert region",
         "tag": "physical",
-        "explanation": "Remember the fixed exam pair: Western desert — Thar desert region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Western desert — Thar desert region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Aravalli Range",
         "answer": "old fold mountain range",
         "tag": "physical",
-        "explanation": "Remember the fixed exam pair: Aravalli Range — old fold mountain range. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Aravalli Range — old fold mountain range. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Guru Shikhar",
         "answer": "highest peak of Rajasthan/Aravalli",
         "tag": "physical",
-        "explanation": "Remember the fixed exam pair: Guru Shikhar — highest peak of Rajasthan/Aravalli. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Guru Shikhar — highest peak of Rajasthan/Aravalli. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Eastern plains",
         "answer": "Banas-Chambal plains context",
         "tag": "physical",
-        "explanation": "Remember the fixed exam pair: Eastern plains — Banas-Chambal plains context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Eastern plains — Banas-Chambal plains context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "South-eastern plateau",
         "answer": "Hadoti/Malwa edge memory",
         "tag": "physical",
-        "explanation": "Remember the fixed exam pair: South-eastern plateau — Hadoti/Malwa edge memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: South-eastern plateau — Hadoti/Malwa edge memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Tropic of Cancer",
         "answer": "passes through southern Rajasthan",
         "tag": "location",
-        "explanation": "Remember the fixed exam pair: Tropic of Cancer — passes through southern Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Tropic of Cancer — passes through southern Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Extreme west memory",
         "answer": "Jaisalmer-Barmer belt",
         "tag": "location",
-        "explanation": "Remember the fixed exam pair: Extreme west memory — Jaisalmer-Barmer belt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Extreme west memory — Jaisalmer-Barmer belt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "International boundary districts",
         "answer": "western border districts memory",
         "tag": "location",
-        "explanation": "Remember the fixed exam pair: International boundary districts — western border districts memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: International boundary districts — western border districts memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -3278,7 +3278,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Desert soil: western Rajasthan. Remember the fixed exam pair: Desert soil — western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Red-yellow soil: southern/south-eastern Rajasthan memory. Remember the fixed exam pair: Red-yellow soil — southern/south-eastern Rajasthan memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Black soil: Hadoti/south-east crop belt memory. Remember the fixed exam pair: Black soil — Hadoti/south-east crop belt memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Alluvial soil: eastern plains. Remember the fixed exam pair: Alluvial soil — eastern plains. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Laterite soil: southern high rainfall patches memory. Remember the fixed exam pair: Laterite soil — southern high rainfall patches memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Arid climate: western desert. Remember the fixed exam pair: Arid climate — western desert. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Semi-arid climate: central Rajasthan belt. Remember the fixed exam pair: Semi-arid climate — central Rajasthan belt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. CAw climate: south/south-east humid tendency. Remember the fixed exam pair: CAw climate — south/south-east humid tendency. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. DBw/DAw: desert/semi-dry climate classification memory. Remember the fixed exam pair: DBw/DAw — desert/semi-dry climate classification memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Highest rainfall tendency: south-east/southern districts. Remember the fixed exam pair: Highest rainfall tendency — south-east/southern districts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Drought-prone area: western Rajasthan. Remember the fixed exam pair: Drought-prone area — western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Aravalli climate role: separates western arid and eastern/southern comparatively humid regions. Remember the fixed exam pair: Aravalli climate role — separates western arid and eastern/southern comparatively humid regions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Desert soil: western Rajasthan. Fixed association: Desert soil — western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Red-yellow soil: southern/south-eastern Rajasthan memory. Fixed association: Red-yellow soil — southern/south-eastern Rajasthan memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Black soil: Hadoti/south-east crop belt memory. Fixed association: Black soil — Hadoti/south-east crop belt memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Alluvial soil: eastern plains. Fixed association: Alluvial soil — eastern plains. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Laterite soil: southern high rainfall patches memory. Fixed association: Laterite soil — southern high rainfall patches memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Arid climate: western desert. Fixed association: Arid climate — western desert. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Semi-arid climate: central Rajasthan belt. Fixed association: Semi-arid climate — central Rajasthan belt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. CAw climate: south/south-east humid tendency. Fixed association: CAw climate — south/south-east humid tendency. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. DBw/DAw: desert/semi-dry climate classification memory. Fixed association: DBw/DAw — desert/semi-dry climate classification memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Highest rainfall tendency: south-east/southern districts. Fixed association: Highest rainfall tendency — south-east/southern districts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Drought-prone area: western Rajasthan. Fixed association: Drought-prone area — western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Aravalli climate role: separates western arid and eastern/southern comparatively humid regions. Fixed association: Aravalli climate role — separates western arid and eastern/southern comparatively humid regions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -3370,7 +3370,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -3388,73 +3388,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Desert soil",
         "answer": "western Rajasthan",
         "tag": "soil",
-        "explanation": "Remember the fixed exam pair: Desert soil — western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Desert soil — western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Red-yellow soil",
         "answer": "southern/south-eastern Rajasthan memory",
         "tag": "soil",
-        "explanation": "Remember the fixed exam pair: Red-yellow soil — southern/south-eastern Rajasthan memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Red-yellow soil — southern/south-eastern Rajasthan memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Black soil",
         "answer": "Hadoti/south-east crop belt memory",
         "tag": "soil",
-        "explanation": "Remember the fixed exam pair: Black soil — Hadoti/south-east crop belt memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Black soil — Hadoti/south-east crop belt memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Alluvial soil",
         "answer": "eastern plains",
         "tag": "soil",
-        "explanation": "Remember the fixed exam pair: Alluvial soil — eastern plains. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Alluvial soil — eastern plains. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Laterite soil",
         "answer": "southern high rainfall patches memory",
         "tag": "soil",
-        "explanation": "Remember the fixed exam pair: Laterite soil — southern high rainfall patches memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Laterite soil — southern high rainfall patches memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Arid climate",
         "answer": "western desert",
         "tag": "climate",
-        "explanation": "Remember the fixed exam pair: Arid climate — western desert. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Arid climate — western desert. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Semi-arid climate",
         "answer": "central Rajasthan belt",
         "tag": "climate",
-        "explanation": "Remember the fixed exam pair: Semi-arid climate — central Rajasthan belt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Semi-arid climate — central Rajasthan belt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "CAw climate",
         "answer": "south/south-east humid tendency",
         "tag": "climate",
-        "explanation": "Remember the fixed exam pair: CAw climate — south/south-east humid tendency. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: CAw climate — south/south-east humid tendency. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "DBw/DAw",
         "answer": "desert/semi-dry climate classification memory",
         "tag": "climate",
-        "explanation": "Remember the fixed exam pair: DBw/DAw — desert/semi-dry climate classification memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: DBw/DAw — desert/semi-dry climate classification memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Highest rainfall tendency",
         "answer": "south-east/southern districts",
         "tag": "rainfall",
-        "explanation": "Remember the fixed exam pair: Highest rainfall tendency — south-east/southern districts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Highest rainfall tendency — south-east/southern districts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Drought-prone area",
         "answer": "western Rajasthan",
         "tag": "rainfall",
-        "explanation": "Remember the fixed exam pair: Drought-prone area — western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Drought-prone area — western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Aravalli climate role",
         "answer": "separates western arid and eastern/southern comparatively humid regions",
         "tag": "physical",
-        "explanation": "Remember the fixed exam pair: Aravalli climate role — separates western arid and eastern/southern comparatively humid regions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Aravalli climate role — separates western arid and eastern/southern comparatively humid regions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -3492,7 +3492,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Luni: inland/saline drainage; western Rajasthan. Remember the fixed exam pair: Luni — inland/saline drainage; western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Chambal: Hadoti lifeline; important dam/project river. Remember the fixed exam pair: Chambal — Hadoti lifeline; important dam/project river. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Banas: major river of eastern Rajasthan. Remember the fixed exam pair: Banas — major river of eastern Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Mahi: southern Rajasthan; Arabian Sea drainage system. Remember the fixed exam pair: Mahi — southern Rajasthan; Arabian Sea drainage system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Sabarmati: origin in Aravalli area memory. Remember the fixed exam pair: Sabarmati — origin in Aravalli area memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Ghaggar: inland/seasonal northern drainage. Remember the fixed exam pair: Ghaggar — inland/seasonal northern drainage. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Banganga: eastern Rajasthan river. Remember the fixed exam pair: Banganga — eastern Rajasthan river. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Kali Sindh: Chambal tributary system. Remember the fixed exam pair: Kali Sindh — Chambal tributary system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Parbati: Chambal tributary. Remember the fixed exam pair: Parbati — Chambal tributary. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Berach: Banas system memory. Remember the fixed exam pair: Berach — Banas system memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Drainage trap: inland drainage is common in western Rajasthan. Remember the fixed exam pair: Drainage trap — inland drainage is common in western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Luni: inland/saline drainage; western Rajasthan. Fixed association: Luni — inland/saline drainage; western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Chambal: Hadoti lifeline; important dam/project river. Fixed association: Chambal — Hadoti lifeline; important dam/project river. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Banas: major river of eastern Rajasthan. Fixed association: Banas — major river of eastern Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Mahi: southern Rajasthan; Arabian Sea drainage system. Fixed association: Mahi — southern Rajasthan; Arabian Sea drainage system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Sabarmati: origin in Aravalli area memory. Fixed association: Sabarmati — origin in Aravalli area memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Ghaggar: inland/seasonal northern drainage. Fixed association: Ghaggar — inland/seasonal northern drainage. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Banganga: eastern Rajasthan river. Fixed association: Banganga — eastern Rajasthan river. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Kali Sindh: Chambal tributary system. Fixed association: Kali Sindh — Chambal tributary system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Parbati: Chambal tributary. Fixed association: Parbati — Chambal tributary. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Berach: Banas system memory. Fixed association: Berach — Banas system memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Drainage trap: inland drainage is common in western Rajasthan. Fixed association: Drainage trap — inland drainage is common in western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -3579,7 +3579,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -3597,67 +3597,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Luni",
         "answer": "inland/saline drainage; western Rajasthan",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Luni — inland/saline drainage; western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Luni — inland/saline drainage; western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Chambal",
         "answer": "Hadoti lifeline; important dam/project river",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Chambal — Hadoti lifeline; important dam/project river. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chambal — Hadoti lifeline; important dam/project river. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Banas",
         "answer": "major river of eastern Rajasthan",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Banas — major river of eastern Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Banas — major river of eastern Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mahi",
         "answer": "southern Rajasthan; Arabian Sea drainage system",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Mahi — southern Rajasthan; Arabian Sea drainage system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mahi — southern Rajasthan; Arabian Sea drainage system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sabarmati",
         "answer": "origin in Aravalli area memory",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Sabarmati — origin in Aravalli area memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sabarmati — origin in Aravalli area memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ghaggar",
         "answer": "inland/seasonal northern drainage",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Ghaggar — inland/seasonal northern drainage. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ghaggar — inland/seasonal northern drainage. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Banganga",
         "answer": "eastern Rajasthan river",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Banganga — eastern Rajasthan river. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Banganga — eastern Rajasthan river. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kali Sindh",
         "answer": "Chambal tributary system",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Kali Sindh — Chambal tributary system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kali Sindh — Chambal tributary system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Parbati",
         "answer": "Chambal tributary",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Parbati — Chambal tributary. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Parbati — Chambal tributary. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Berach",
         "answer": "Banas system memory",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Berach — Banas system memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Berach — Banas system memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Drainage trap",
         "answer": "inland drainage is common in western Rajasthan",
         "tag": "river",
-        "explanation": "Remember the fixed exam pair: Drainage trap — inland drainage is common in western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Drainage trap — inland drainage is common in western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -3698,7 +3698,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Sambhar Lake: largest inland saltwater lake. Remember the fixed exam pair: Sambhar Lake — largest inland saltwater lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Pushkar Lake: Ajmer; sacred lake. Remember the fixed exam pair: Pushkar Lake — Ajmer; sacred lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Jaisamand/Dhebar: large freshwater/artificial lake. Remember the fixed exam pair: Jaisamand/Dhebar — large freshwater/artificial lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Rajsamand Lake: Rajsamand district memory. Remember the fixed exam pair: Rajsamand Lake — Rajsamand district memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Nakki Lake: Mount Abu/Sirohi. Remember the fixed exam pair: Nakki Lake — Mount Abu/Sirohi. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Pachpadra Lake: Barmer; saline lake memory. Remember the fixed exam pair: Pachpadra Lake — Barmer; saline lake memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Didwana Lake: Nagaur; saline lake memory. Remember the fixed exam pair: Didwana Lake — Nagaur; saline lake memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Fateh Sagar: Udaipur lake. Remember the fixed exam pair: Fateh Sagar — Udaipur lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Pichola Lake: Udaipur lake. Remember the fixed exam pair: Pichola Lake — Udaipur lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Ana Sagar: Ajmer lake. Remember the fixed exam pair: Ana Sagar — Ajmer lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Indira Gandhi Canal: western Rajasthan irrigation. Remember the fixed exam pair: Indira Gandhi Canal — western Rajasthan irrigation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Bhakra project: Punjab-Haryana-Rajasthan link memory. Remember the fixed exam pair: Bhakra project — Punjab-Haryana-Rajasthan link memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Chambal project: Kota/Bundi irrigation and power. Remember the fixed exam pair: Chambal project — Kota/Bundi irrigation and power. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Mahi Bajaj Sagar: Banswara region. Remember the fixed exam pair: Mahi Bajaj Sagar — Banswara region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Bisalpur project: Tonk context; drinking water/irrigation. Remember the fixed exam pair: Bisalpur project — Tonk context; drinking water/irrigation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Kota Barrage: Chambal project. Remember the fixed exam pair: Kota Barrage — Chambal project. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Sambhar Lake: largest inland saltwater lake. Fixed association: Sambhar Lake — largest inland saltwater lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Pushkar Lake: Ajmer; sacred lake. Fixed association: Pushkar Lake — Ajmer; sacred lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Jaisamand/Dhebar: large freshwater/artificial lake. Fixed association: Jaisamand/Dhebar — large freshwater/artificial lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Rajsamand Lake: Rajsamand district memory. Fixed association: Rajsamand Lake — Rajsamand district memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Nakki Lake: Mount Abu/Sirohi. Fixed association: Nakki Lake — Mount Abu/Sirohi. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Pachpadra Lake: Barmer; saline lake memory. Fixed association: Pachpadra Lake — Barmer; saline lake memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Didwana Lake: Nagaur; saline lake memory. Fixed association: Didwana Lake — Nagaur; saline lake memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Fateh Sagar: Udaipur lake. Fixed association: Fateh Sagar — Udaipur lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Pichola Lake: Udaipur lake. Fixed association: Pichola Lake — Udaipur lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Ana Sagar: Ajmer lake. Fixed association: Ana Sagar — Ajmer lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Indira Gandhi Canal: western Rajasthan irrigation. Fixed association: Indira Gandhi Canal — western Rajasthan irrigation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Bhakra project: Punjab-Haryana-Rajasthan link memory. Fixed association: Bhakra project — Punjab-Haryana-Rajasthan link memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Chambal project: Kota/Bundi irrigation and power. Fixed association: Chambal project — Kota/Bundi irrigation and power. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Mahi Bajaj Sagar: Banswara region. Fixed association: Mahi Bajaj Sagar — Banswara region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Bisalpur project: Tonk context; drinking water/irrigation. Fixed association: Bisalpur project — Tonk context; drinking water/irrigation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Kota Barrage: Chambal project. Fixed association: Kota Barrage — Chambal project. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -3810,7 +3810,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -3828,97 +3828,97 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Sambhar Lake",
         "answer": "largest inland saltwater lake",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Sambhar Lake — largest inland saltwater lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sambhar Lake — largest inland saltwater lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pushkar Lake",
         "answer": "Ajmer; sacred lake",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Pushkar Lake — Ajmer; sacred lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pushkar Lake — Ajmer; sacred lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jaisamand/Dhebar",
         "answer": "large freshwater/artificial lake",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Jaisamand/Dhebar — large freshwater/artificial lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jaisamand/Dhebar — large freshwater/artificial lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajsamand Lake",
         "answer": "Rajsamand district memory",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Rajsamand Lake — Rajsamand district memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajsamand Lake — Rajsamand district memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Nakki Lake",
         "answer": "Mount Abu/Sirohi",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Nakki Lake — Mount Abu/Sirohi. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Nakki Lake — Mount Abu/Sirohi. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pachpadra Lake",
         "answer": "Barmer; saline lake memory",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Pachpadra Lake — Barmer; saline lake memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pachpadra Lake — Barmer; saline lake memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Didwana Lake",
         "answer": "Nagaur; saline lake memory",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Didwana Lake — Nagaur; saline lake memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Didwana Lake — Nagaur; saline lake memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Fateh Sagar",
         "answer": "Udaipur lake",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Fateh Sagar — Udaipur lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Fateh Sagar — Udaipur lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pichola Lake",
         "answer": "Udaipur lake",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Pichola Lake — Udaipur lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pichola Lake — Udaipur lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ana Sagar",
         "answer": "Ajmer lake",
         "tag": "lake",
-        "explanation": "Remember the fixed exam pair: Ana Sagar — Ajmer lake. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ana Sagar — Ajmer lake. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Indira Gandhi Canal",
         "answer": "western Rajasthan irrigation",
         "tag": "irrigation",
-        "explanation": "Remember the fixed exam pair: Indira Gandhi Canal — western Rajasthan irrigation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Indira Gandhi Canal — western Rajasthan irrigation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bhakra project",
         "answer": "Punjab-Haryana-Rajasthan link memory",
         "tag": "irrigation",
-        "explanation": "Remember the fixed exam pair: Bhakra project — Punjab-Haryana-Rajasthan link memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bhakra project — Punjab-Haryana-Rajasthan link memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Chambal project",
         "answer": "Kota/Bundi irrigation and power",
         "tag": "irrigation",
-        "explanation": "Remember the fixed exam pair: Chambal project — Kota/Bundi irrigation and power. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chambal project — Kota/Bundi irrigation and power. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mahi Bajaj Sagar",
         "answer": "Banswara region",
         "tag": "irrigation",
-        "explanation": "Remember the fixed exam pair: Mahi Bajaj Sagar — Banswara region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mahi Bajaj Sagar — Banswara region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bisalpur project",
         "answer": "Tonk context; drinking water/irrigation",
         "tag": "irrigation",
-        "explanation": "Remember the fixed exam pair: Bisalpur project — Tonk context; drinking water/irrigation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bisalpur project — Tonk context; drinking water/irrigation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kota Barrage",
         "answer": "Chambal project",
         "tag": "irrigation",
-        "explanation": "Remember the fixed exam pair: Kota Barrage — Chambal project. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kota Barrage — Chambal project. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -3959,7 +3959,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Degana: tungsten. Remember the fixed exam pair: Degana — tungsten. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Jhamar Kotra: rock phosphate. Remember the fixed exam pair: Jhamar Kotra — rock phosphate. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mando-ki-Pal: fluorspar. Remember the fixed exam pair: Mando-ki-Pal — fluorspar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Goth-Manglod: gypsum. Remember the fixed exam pair: Goth-Manglod — gypsum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Zawar: zinc-lead. Remember the fixed exam pair: Zawar — zinc-lead. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Khetri: copper. Remember the fixed exam pair: Khetri — copper. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Makrana: marble. Remember the fixed exam pair: Makrana — marble. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Sambhar/Didwana/Pachpadra: salt lake industry memory. Remember the fixed exam pair: Sambhar/Didwana/Pachpadra — salt lake industry memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Kota-Chittorgarh belt: cement/limestone memory. Remember the fixed exam pair: Kota-Chittorgarh belt — cement/limestone memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Barmer-Jaisalmer belt: petroleum/lignite/energy memory. Remember the fixed exam pair: Barmer-Jaisalmer belt — petroleum/lignite/energy memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Solar energy: western Rajasthan high potential. Remember the fixed exam pair: Solar energy — western Rajasthan high potential. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Wind energy: desert and western belt potential. Remember the fixed exam pair: Wind energy — desert and western belt potential. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Atomic power memory: Rawatbhata/Rajasthan Atomic Power Station context. Remember the fixed exam pair: Atomic power memory — Rawatbhata/Rajasthan Atomic Power Station context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Textile industry: Bhilwara textile memory. Remember the fixed exam pair: Textile industry — Bhilwara textile memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Degana: tungsten. Fixed association: Degana — tungsten. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Jhamar Kotra: rock phosphate. Fixed association: Jhamar Kotra — rock phosphate. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mando-ki-Pal: fluorspar. Fixed association: Mando-ki-Pal — fluorspar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Goth-Manglod: gypsum. Fixed association: Goth-Manglod — gypsum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Zawar: zinc-lead. Fixed association: Zawar — zinc-lead. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Khetri: copper. Fixed association: Khetri — copper. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Makrana: marble. Fixed association: Makrana — marble. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Sambhar/Didwana/Pachpadra: salt lake industry memory. Fixed association: Sambhar/Didwana/Pachpadra — salt lake industry memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Kota-Chittorgarh belt: cement/limestone memory. Fixed association: Kota-Chittorgarh belt — cement/limestone memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Barmer-Jaisalmer belt: petroleum/lignite/energy memory. Fixed association: Barmer-Jaisalmer belt — petroleum/lignite/energy memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Solar energy: western Rajasthan high potential. Fixed association: Solar energy — western Rajasthan high potential. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Wind energy: desert and western belt potential. Fixed association: Wind energy — desert and western belt potential. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Atomic power memory: Rawatbhata/Rajasthan Atomic Power Station context. Fixed association: Atomic power memory — Rawatbhata/Rajasthan Atomic Power Station context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Textile industry: Bhilwara textile memory. Fixed association: Textile industry — Bhilwara textile memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -4061,7 +4061,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -4079,85 +4079,85 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Degana",
         "answer": "tungsten",
         "tag": "mineral",
-        "explanation": "Remember the fixed exam pair: Degana — tungsten. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Degana — tungsten. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jhamar Kotra",
         "answer": "rock phosphate",
         "tag": "mineral",
-        "explanation": "Remember the fixed exam pair: Jhamar Kotra — rock phosphate. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jhamar Kotra — rock phosphate. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mando-ki-Pal",
         "answer": "fluorspar",
         "tag": "mineral",
-        "explanation": "Remember the fixed exam pair: Mando-ki-Pal — fluorspar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mando-ki-Pal — fluorspar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Goth-Manglod",
         "answer": "gypsum",
         "tag": "mineral",
-        "explanation": "Remember the fixed exam pair: Goth-Manglod — gypsum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Goth-Manglod — gypsum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Zawar",
         "answer": "zinc-lead",
         "tag": "mineral",
-        "explanation": "Remember the fixed exam pair: Zawar — zinc-lead. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Zawar — zinc-lead. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Khetri",
         "answer": "copper",
         "tag": "mineral",
-        "explanation": "Remember the fixed exam pair: Khetri — copper. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Khetri — copper. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Makrana",
         "answer": "marble",
         "tag": "mineral",
-        "explanation": "Remember the fixed exam pair: Makrana — marble. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Makrana — marble. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sambhar/Didwana/Pachpadra",
         "answer": "salt lake industry memory",
         "tag": "industry",
-        "explanation": "Remember the fixed exam pair: Sambhar/Didwana/Pachpadra — salt lake industry memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sambhar/Didwana/Pachpadra — salt lake industry memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kota-Chittorgarh belt",
         "answer": "cement/limestone memory",
         "tag": "industry",
-        "explanation": "Remember the fixed exam pair: Kota-Chittorgarh belt — cement/limestone memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kota-Chittorgarh belt — cement/limestone memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Barmer-Jaisalmer belt",
         "answer": "petroleum/lignite/energy memory",
         "tag": "energy",
-        "explanation": "Remember the fixed exam pair: Barmer-Jaisalmer belt — petroleum/lignite/energy memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Barmer-Jaisalmer belt — petroleum/lignite/energy memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Solar energy",
         "answer": "western Rajasthan high potential",
         "tag": "energy",
-        "explanation": "Remember the fixed exam pair: Solar energy — western Rajasthan high potential. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Solar energy — western Rajasthan high potential. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Wind energy",
         "answer": "desert and western belt potential",
         "tag": "energy",
-        "explanation": "Remember the fixed exam pair: Wind energy — desert and western belt potential. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Wind energy — desert and western belt potential. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Atomic power memory",
         "answer": "Rawatbhata/Rajasthan Atomic Power Station context",
         "tag": "energy",
-        "explanation": "Remember the fixed exam pair: Atomic power memory — Rawatbhata/Rajasthan Atomic Power Station context. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Atomic power memory — Rawatbhata/Rajasthan Atomic Power Station context. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Textile industry",
         "answer": "Bhilwara textile memory",
         "tag": "industry",
-        "explanation": "Remember the fixed exam pair: Textile industry — Bhilwara textile memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Textile industry — Bhilwara textile memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -4198,7 +4198,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bajra: important dryland crop of western Rajasthan. Remember the fixed exam pair: Bajra — important dryland crop of western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Wheat: irrigated crop memory. Remember the fixed exam pair: Wheat — irrigated crop memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mustard: important oilseed crop. Remember the fixed exam pair: Mustard — important oilseed crop. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Cotton: irrigated/south-western memory. Remember the fixed exam pair: Cotton — irrigated/south-western memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Sangri/Khejri ecology: desert ecology memory. Remember the fixed exam pair: Sangri/Khejri ecology — desert ecology memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Ranthambore National Park: Sawai Madhopur tiger reserve memory. Remember the fixed exam pair: Ranthambore National Park — Sawai Madhopur tiger reserve memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Sariska: Alwar tiger reserve memory. Remember the fixed exam pair: Sariska — Alwar tiger reserve memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Keoladeo Ghana: Bharatpur bird sanctuary/national park memory. Remember the fixed exam pair: Keoladeo Ghana — Bharatpur bird sanctuary/national park memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Desert National Park: Jaisalmer-Barmer desert ecosystem. Remember the fixed exam pair: Desert National Park — Jaisalmer-Barmer desert ecosystem. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Kumbhalgarh Sanctuary: Aravalli wildlife memory. Remember the fixed exam pair: Kumbhalgarh Sanctuary — Aravalli wildlife memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Literacy extreme: revise latest census table before exam. Remember the fixed exam pair: Literacy extreme — revise latest census table before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Sex ratio extreme: revise latest census table before exam. Remember the fixed exam pair: Sex ratio extreme — revise latest census table before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Density extreme: revise latest census table before exam. Remember the fixed exam pair: Density extreme — revise latest census table before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Highway/transport: district-connectivity and route memory. Remember the fixed exam pair: Highway/transport — district-connectivity and route memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Geography, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bajra: important dryland crop of western Rajasthan. Fixed association: Bajra — important dryland crop of western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Wheat: irrigated crop memory. Fixed association: Wheat — irrigated crop memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Mustard: important oilseed crop. Fixed association: Mustard — important oilseed crop. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Cotton: irrigated/south-western memory. Fixed association: Cotton — irrigated/south-western memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Sangri/Khejri ecology: desert ecology memory. Fixed association: Sangri/Khejri ecology — desert ecology memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Ranthambore National Park: Sawai Madhopur tiger reserve memory. Fixed association: Ranthambore National Park — Sawai Madhopur tiger reserve memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Sariska: Alwar tiger reserve memory. Fixed association: Sariska — Alwar tiger reserve memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Keoladeo Ghana: Bharatpur bird sanctuary/national park memory. Fixed association: Keoladeo Ghana — Bharatpur bird sanctuary/national park memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Desert National Park: Jaisalmer-Barmer desert ecosystem. Fixed association: Desert National Park — Jaisalmer-Barmer desert ecosystem. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Kumbhalgarh Sanctuary: Aravalli wildlife memory. Fixed association: Kumbhalgarh Sanctuary — Aravalli wildlife memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Literacy extreme: revise latest census table before exam. Fixed association: Literacy extreme — revise latest census table before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Sex ratio extreme: revise latest census table before exam. Fixed association: Sex ratio extreme — revise latest census table before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Density extreme: revise latest census table before exam. Fixed association: Density extreme — revise latest census table before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Highway/transport: district-connectivity and route memory. Fixed association: Highway/transport — district-connectivity and route memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -4300,7 +4300,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -4318,85 +4318,85 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Bajra",
         "answer": "important dryland crop of western Rajasthan",
         "tag": "agriculture",
-        "explanation": "Remember the fixed exam pair: Bajra — important dryland crop of western Rajasthan. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bajra — important dryland crop of western Rajasthan. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Wheat",
         "answer": "irrigated crop memory",
         "tag": "agriculture",
-        "explanation": "Remember the fixed exam pair: Wheat — irrigated crop memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Wheat — irrigated crop memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mustard",
         "answer": "important oilseed crop",
         "tag": "agriculture",
-        "explanation": "Remember the fixed exam pair: Mustard — important oilseed crop. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mustard — important oilseed crop. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Cotton",
         "answer": "irrigated/south-western memory",
         "tag": "agriculture",
-        "explanation": "Remember the fixed exam pair: Cotton — irrigated/south-western memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Cotton — irrigated/south-western memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sangri/Khejri ecology",
         "answer": "desert ecology memory",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Sangri/Khejri ecology — desert ecology memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sangri/Khejri ecology — desert ecology memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ranthambore National Park",
         "answer": "Sawai Madhopur tiger reserve memory",
         "tag": "wildlife",
-        "explanation": "Remember the fixed exam pair: Ranthambore National Park — Sawai Madhopur tiger reserve memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ranthambore National Park — Sawai Madhopur tiger reserve memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sariska",
         "answer": "Alwar tiger reserve memory",
         "tag": "wildlife",
-        "explanation": "Remember the fixed exam pair: Sariska — Alwar tiger reserve memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sariska — Alwar tiger reserve memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Keoladeo Ghana",
         "answer": "Bharatpur bird sanctuary/national park memory",
         "tag": "wildlife",
-        "explanation": "Remember the fixed exam pair: Keoladeo Ghana — Bharatpur bird sanctuary/national park memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Keoladeo Ghana — Bharatpur bird sanctuary/national park memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Desert National Park",
         "answer": "Jaisalmer-Barmer desert ecosystem",
         "tag": "wildlife",
-        "explanation": "Remember the fixed exam pair: Desert National Park — Jaisalmer-Barmer desert ecosystem. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Desert National Park — Jaisalmer-Barmer desert ecosystem. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kumbhalgarh Sanctuary",
         "answer": "Aravalli wildlife memory",
         "tag": "wildlife",
-        "explanation": "Remember the fixed exam pair: Kumbhalgarh Sanctuary — Aravalli wildlife memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kumbhalgarh Sanctuary — Aravalli wildlife memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Literacy extreme",
         "answer": "revise latest census table before exam",
         "tag": "census",
-        "explanation": "Remember the fixed exam pair: Literacy extreme — revise latest census table before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Literacy extreme — revise latest census table before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sex ratio extreme",
         "answer": "revise latest census table before exam",
         "tag": "census",
-        "explanation": "Remember the fixed exam pair: Sex ratio extreme — revise latest census table before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sex ratio extreme — revise latest census table before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Density extreme",
         "answer": "revise latest census table before exam",
         "tag": "census",
-        "explanation": "Remember the fixed exam pair: Density extreme — revise latest census table before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Density extreme — revise latest census table before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Highway/transport",
         "answer": "district-connectivity and route memory",
         "tag": "transport",
-        "explanation": "Remember the fixed exam pair: Highway/transport — district-connectivity and route memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Highway/transport — district-connectivity and route memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -4435,7 +4435,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan Current Affairs, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Current affairs window: last 12 to 18 months before exam. Remember the fixed exam pair: Current affairs window — last 12 to 18 months before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Scheme table: scheme, department, beneficiary, launch/update date. Remember the fixed exam pair: Scheme table — scheme, department, beneficiary, launch/update date. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Budget facts: major Rajasthan budget announcements and sectors. Remember the fixed exam pair: Budget facts — major Rajasthan budget announcements and sectors. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Appointments: Governor, CM, ministers, commissions, boards, university heads. Remember the fixed exam pair: Appointments — Governor, CM, ministers, commissions, boards, university heads. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Awards: award, winner, field, year. Remember the fixed exam pair: Awards — award, winner, field, year. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Sports: player, sport, event, medal, district. Remember the fixed exam pair: Sports — player, sport, event, medal, district. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Institutes in news: institute, district, purpose. Remember the fixed exam pair: Institutes in news — institute, district, purpose. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Rankings: Rajasthan rank, index, issuing body. Remember the fixed exam pair: Rankings — Rajasthan rank, index, issuing body. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Places in news: district, reason, event. Remember the fixed exam pair: Places in news — district, reason, event. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Economy news: tourism, mining, energy, agriculture, startups. Remember the fixed exam pair: Economy news — tourism, mining, energy, agriculture, startups. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Festival/event news: event, district, month, theme. Remember the fixed exam pair: Festival/event news — event, district, month, theme. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. National news linked with Rajasthan: project, ministry, Rajasthan district impact. Remember the fixed exam pair: National news linked with Rajasthan — project, ministry, Rajasthan district impact. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan Current Affairs, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Current affairs window: last 12 to 18 months before exam. Fixed association: Current affairs window — last 12 to 18 months before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Scheme table: scheme, department, beneficiary, launch/update date. Fixed association: Scheme table — scheme, department, beneficiary, launch/update date. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Budget facts: major Rajasthan budget announcements and sectors. Fixed association: Budget facts — major Rajasthan budget announcements and sectors. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Appointments: Governor, CM, ministers, commissions, boards, university heads. Fixed association: Appointments — Governor, CM, ministers, commissions, boards, university heads. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Awards: award, winner, field, year. Fixed association: Awards — award, winner, field, year. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Sports: player, sport, event, medal, district. Fixed association: Sports — player, sport, event, medal, district. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Institutes in news: institute, district, purpose. Fixed association: Institutes in news — institute, district, purpose. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Rankings: Rajasthan rank, index, issuing body. Fixed association: Rankings — Rajasthan rank, index, issuing body. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Places in news: district, reason, event. Fixed association: Places in news — district, reason, event. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Economy news: tourism, mining, energy, agriculture, startups. Fixed association: Economy news — tourism, mining, energy, agriculture, startups. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Festival/event news: event, district, month, theme. Fixed association: Festival/event news — event, district, month, theme. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. National news linked with Rajasthan: project, ministry, Rajasthan district impact. Fixed association: National news linked with Rajasthan — project, ministry, Rajasthan district impact. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -4527,7 +4527,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -4545,73 +4545,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Current affairs window",
         "answer": "last 12 to 18 months before exam",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Current affairs window — last 12 to 18 months before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Current affairs window — last 12 to 18 months before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Scheme table",
         "answer": "scheme, department, beneficiary, launch/update date",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Scheme table — scheme, department, beneficiary, launch/update date. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Scheme table — scheme, department, beneficiary, launch/update date. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Budget facts",
         "answer": "major Rajasthan budget announcements and sectors",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Budget facts — major Rajasthan budget announcements and sectors. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Budget facts — major Rajasthan budget announcements and sectors. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Appointments",
         "answer": "Governor, CM, ministers, commissions, boards, university heads",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Appointments — Governor, CM, ministers, commissions, boards, university heads. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Appointments — Governor, CM, ministers, commissions, boards, university heads. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Awards",
         "answer": "award, winner, field, year",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Awards — award, winner, field, year. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Awards — award, winner, field, year. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sports",
         "answer": "player, sport, event, medal, district",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Sports — player, sport, event, medal, district. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sports — player, sport, event, medal, district. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Institutes in news",
         "answer": "institute, district, purpose",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Institutes in news — institute, district, purpose. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Institutes in news — institute, district, purpose. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rankings",
         "answer": "Rajasthan rank, index, issuing body",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Rankings — Rajasthan rank, index, issuing body. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rankings — Rajasthan rank, index, issuing body. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Places in news",
         "answer": "district, reason, event",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Places in news — district, reason, event. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Places in news — district, reason, event. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Economy news",
         "answer": "tourism, mining, energy, agriculture, startups",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Economy news — tourism, mining, energy, agriculture, startups. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Economy news — tourism, mining, energy, agriculture, startups. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Festival/event news",
         "answer": "event, district, month, theme",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: Festival/event news — event, district, month, theme. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Festival/event news — event, district, month, theme. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "National news linked with Rajasthan",
         "answer": "project, ministry, Rajasthan district impact",
         "tag": "ca",
-        "explanation": "Remember the fixed exam pair: National news linked with Rajasthan — project, ministry, Rajasthan district impact. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: National news linked with Rajasthan — project, ministry, Rajasthan district impact. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -4652,7 +4652,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Rajasthan GK Institutions, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bharatiya Lok Kala Mandal: Udaipur; folk culture preservation. Remember the fixed exam pair: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Jawahar Kala Kendra: Jaipur; art and culture centre. Remember the fixed exam pair: Jawahar Kala Kendra — Jaipur; art and culture centre. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Rajasthan Lalit Kala Akademi: visual arts promotion. Remember the fixed exam pair: Rajasthan Lalit Kala Akademi — visual arts promotion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Rajasthan Sahitya Akademi: literary activities memory. Remember the fixed exam pair: Rajasthan Sahitya Akademi — literary activities memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rajasthan Sangeet Natak Akademi: performing arts memory. Remember the fixed exam pair: Rajasthan Sangeet Natak Akademi — performing arts memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Rajasthani Bhasha Sahitya Sanskriti Akademi: Bikaner; language and culture. Remember the fixed exam pair: Rajasthani Bhasha Sahitya Sanskriti Akademi — Bikaner; language and culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Rajasthan Oriental Research Institute: Jodhpur; manuscripts/research memory. Remember the fixed exam pair: Rajasthan Oriental Research Institute — Jodhpur; manuscripts/research memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Albert Hall Museum: Jaipur museum. Remember the fixed exam pair: Albert Hall Museum — Jaipur museum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Ahar Museum: Udaipur archaeology. Remember the fixed exam pair: Ahar Museum — Udaipur archaeology. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rajasthan Seva Sangh: political awakening organization. Remember the fixed exam pair: Rajasthan Seva Sangh — political awakening organization. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Desh Hitaishini Sabha: social-political organization memory. Remember the fixed exam pair: Desh Hitaishini Sabha — social-political organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Rajasthan Public Service Commission: Ajmer; recruitment body memory. Remember the fixed exam pair: Rajasthan Public Service Commission — Ajmer; recruitment body memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Rajasthan Staff Selection Board: Jaipur; recruitment body memory. Remember the fixed exam pair: Rajasthan Staff Selection Board — Jaipur; recruitment body memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Rajasthan High Court: Jodhpur principal seat memory. Remember the fixed exam pair: Rajasthan High Court — Jodhpur principal seat memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Rajasthan Vidhan Sabha: Jaipur legislature memory. Remember the fixed exam pair: Rajasthan Vidhan Sabha — Jaipur legislature memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Rajasthan GK Institutions, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Bharatiya Lok Kala Mandal: Udaipur; folk culture preservation. Fixed association: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Jawahar Kala Kendra: Jaipur; art and culture centre. Fixed association: Jawahar Kala Kendra — Jaipur; art and culture centre. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Rajasthan Lalit Kala Akademi: visual arts promotion. Fixed association: Rajasthan Lalit Kala Akademi — visual arts promotion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Rajasthan Sahitya Akademi: literary activities memory. Fixed association: Rajasthan Sahitya Akademi — literary activities memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rajasthan Sangeet Natak Akademi: performing arts memory. Fixed association: Rajasthan Sangeet Natak Akademi — performing arts memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Rajasthani Bhasha Sahitya Sanskriti Akademi: Bikaner; language and culture. Fixed association: Rajasthani Bhasha Sahitya Sanskriti Akademi — Bikaner; language and culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Rajasthan Oriental Research Institute: Jodhpur; manuscripts/research memory. Fixed association: Rajasthan Oriental Research Institute — Jodhpur; manuscripts/research memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Albert Hall Museum: Jaipur museum. Fixed association: Albert Hall Museum — Jaipur museum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Ahar Museum: Udaipur archaeology. Fixed association: Ahar Museum — Udaipur archaeology. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rajasthan Seva Sangh: political awakening organization. Fixed association: Rajasthan Seva Sangh — political awakening organization. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Desh Hitaishini Sabha: social-political organization memory. Fixed association: Desh Hitaishini Sabha — social-political organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Rajasthan Public Service Commission: Ajmer; recruitment body memory. Fixed association: Rajasthan Public Service Commission — Ajmer; recruitment body memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Rajasthan Staff Selection Board: Jaipur; recruitment body memory. Fixed association: Rajasthan Staff Selection Board — Jaipur; recruitment body memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Rajasthan High Court: Jodhpur principal seat memory. Fixed association: Rajasthan High Court — Jodhpur principal seat memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Rajasthan Vidhan Sabha: Jaipur legislature memory. Fixed association: Rajasthan Vidhan Sabha — Jaipur legislature memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -4759,7 +4759,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -4777,91 +4777,91 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Bharatiya Lok Kala Mandal",
         "answer": "Udaipur; folk culture preservation",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bharatiya Lok Kala Mandal — Udaipur; folk culture preservation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Jawahar Kala Kendra",
         "answer": "Jaipur; art and culture centre",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Jawahar Kala Kendra — Jaipur; art and culture centre. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Jawahar Kala Kendra — Jaipur; art and culture centre. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Lalit Kala Akademi",
         "answer": "visual arts promotion",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan Lalit Kala Akademi — visual arts promotion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Lalit Kala Akademi — visual arts promotion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Sahitya Akademi",
         "answer": "literary activities memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan Sahitya Akademi — literary activities memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Sahitya Akademi — literary activities memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Sangeet Natak Akademi",
         "answer": "performing arts memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan Sangeet Natak Akademi — performing arts memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Sangeet Natak Akademi — performing arts memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthani Bhasha Sahitya Sanskriti Akademi",
         "answer": "Bikaner; language and culture",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthani Bhasha Sahitya Sanskriti Akademi — Bikaner; language and culture. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthani Bhasha Sahitya Sanskriti Akademi — Bikaner; language and culture. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Oriental Research Institute",
         "answer": "Jodhpur; manuscripts/research memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan Oriental Research Institute — Jodhpur; manuscripts/research memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Oriental Research Institute — Jodhpur; manuscripts/research memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Albert Hall Museum",
         "answer": "Jaipur museum",
         "tag": "museum",
-        "explanation": "Remember the fixed exam pair: Albert Hall Museum — Jaipur museum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Albert Hall Museum — Jaipur museum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ahar Museum",
         "answer": "Udaipur archaeology",
         "tag": "museum",
-        "explanation": "Remember the fixed exam pair: Ahar Museum — Udaipur archaeology. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ahar Museum — Udaipur archaeology. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Seva Sangh",
         "answer": "political awakening organization",
         "tag": "organization",
-        "explanation": "Remember the fixed exam pair: Rajasthan Seva Sangh — political awakening organization. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Seva Sangh — political awakening organization. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Desh Hitaishini Sabha",
         "answer": "social-political organization memory",
         "tag": "organization",
-        "explanation": "Remember the fixed exam pair: Desh Hitaishini Sabha — social-political organization memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Desh Hitaishini Sabha — social-political organization memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Public Service Commission",
         "answer": "Ajmer; recruitment body memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan Public Service Commission — Ajmer; recruitment body memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Public Service Commission — Ajmer; recruitment body memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Staff Selection Board",
         "answer": "Jaipur; recruitment body memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan Staff Selection Board — Jaipur; recruitment body memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Staff Selection Board — Jaipur; recruitment body memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan High Court",
         "answer": "Jodhpur principal seat memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan High Court — Jodhpur principal seat memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan High Court — Jodhpur principal seat memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rajasthan Vidhan Sabha",
         "answer": "Jaipur legislature memory",
         "tag": "institution",
-        "explanation": "Remember the fixed exam pair: Rajasthan Vidhan Sabha — Jaipur legislature memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rajasthan Vidhan Sabha — Jaipur legislature memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -4902,7 +4902,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Technology Awareness for Paper 1, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Digital India: launched in 2015; digital infrastructure, services and empowerment. Remember the fixed exam pair: Digital India — launched in 2015; digital infrastructure, services and empowerment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. DigiLocker: cloud-based digital document wallet under Digital India. Remember the fixed exam pair: DigiLocker — cloud-based digital document wallet under Digital India. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. UMANG: single mobile platform for government services. Remember the fixed exam pair: UMANG — single mobile platform for government services. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. MyGov: citizen engagement and crowdsourcing platform. Remember the fixed exam pair: MyGov — citizen engagement and crowdsourcing platform. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. API Setu: API marketplace/integration platform memory. Remember the fixed exam pair: API Setu — API marketplace/integration platform memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. eSign: electronic signing service using Aadhaar-based authentication memory. Remember the fixed exam pair: eSign — electronic signing service using Aadhaar-based authentication memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. BharatNet: broadband connectivity for gram panchayats memory. Remember the fixed exam pair: BharatNet — broadband connectivity for gram panchayats memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. UPI: real-time digital payment system memory. Remember the fixed exam pair: UPI — real-time digital payment system memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. IndiaAI Mission: AI mission approved in 2024 with compute, datasets, future skills and safe AI themes. Remember the fixed exam pair: IndiaAI Mission — AI mission approved in 2024 with compute, datasets, future skills and safe AI themes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. AI: machines performing tasks requiring human intelligence. Remember the fixed exam pair: AI — machines performing tasks requiring human intelligence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Machine Learning: systems learn patterns from data. Remember the fixed exam pair: Machine Learning — systems learn patterns from data. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Generative AI: AI that creates text, image, audio or code. Remember the fixed exam pair: Generative AI — AI that creates text, image, audio or code. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. CERT-In: Indian Computer Emergency Response Team; cybersecurity advisories. Remember the fixed exam pair: CERT-In — Indian Computer Emergency Response Team; cybersecurity advisories. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Phishing: fraudulent attempt to steal credentials or money. Remember the fixed exam pair: Phishing — fraudulent attempt to steal credentials or money. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Malware: malicious software such as virus, worm, trojan, ransomware. Remember the fixed exam pair: Malware — malicious software such as virus, worm, trojan, ransomware. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Firewall: security system that filters network traffic. Remember the fixed exam pair: Firewall — security system that filters network traffic. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Two-factor authentication: login security using two proofs. Remember the fixed exam pair: Two-factor authentication — login security using two proofs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n18. Zero Trust: security idea: never trust automatically, verify continuously. Remember the fixed exam pair: Zero Trust — security idea: never trust automatically, verify continuously. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Technology Awareness for Paper 1, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Digital India: launched in 2015; digital infrastructure, services and empowerment. Fixed association: Digital India — launched in 2015; digital infrastructure, services and empowerment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. DigiLocker: cloud-based digital document wallet under Digital India. Fixed association: DigiLocker — cloud-based digital document wallet under Digital India. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. UMANG: single mobile platform for government services. Fixed association: UMANG — single mobile platform for government services. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. MyGov: citizen engagement and crowdsourcing platform. Fixed association: MyGov — citizen engagement and crowdsourcing platform. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. API Setu: API marketplace/integration platform memory. Fixed association: API Setu — API marketplace/integration platform memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. eSign: electronic signing service using Aadhaar-based authentication memory. Fixed association: eSign — electronic signing service using Aadhaar-based authentication memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. BharatNet: broadband connectivity for gram panchayats memory. Fixed association: BharatNet — broadband connectivity for gram panchayats memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. UPI: real-time digital payment system memory. Fixed association: UPI — real-time digital payment system memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. IndiaAI Mission: AI mission approved in 2024 with compute, datasets, future skills and safe AI themes. Fixed association: IndiaAI Mission — AI mission approved in 2024 with compute, datasets, future skills and safe AI themes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. AI: machines performing tasks requiring human intelligence. Fixed association: AI — machines performing tasks requiring human intelligence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Machine Learning: systems learn patterns from data. Fixed association: Machine Learning — systems learn patterns from data. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Generative AI: AI that creates text, image, audio or code. Fixed association: Generative AI — AI that creates text, image, audio or code. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. CERT-In: Indian Computer Emergency Response Team; cybersecurity advisories. Fixed association: CERT-In — Indian Computer Emergency Response Team; cybersecurity advisories. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Phishing: fraudulent attempt to steal credentials or money. Fixed association: Phishing — fraudulent attempt to steal credentials or money. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Malware: malicious software such as virus, worm, trojan, ransomware. Fixed association: Malware — malicious software such as virus, worm, trojan, ransomware. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n16. Firewall: security system that filters network traffic. Fixed association: Firewall — security system that filters network traffic. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n17. Two-factor authentication: login security using two proofs. Fixed association: Two-factor authentication — login security using two proofs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n18. Zero Trust: security idea: never trust automatically, verify continuously. Fixed association: Zero Trust — security idea: never trust automatically, verify continuously. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -5024,7 +5024,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -5042,109 +5042,109 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Digital India",
         "answer": "launched in 2015; digital infrastructure, services and empowerment",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: Digital India — launched in 2015; digital infrastructure, services and empowerment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Digital India — launched in 2015; digital infrastructure, services and empowerment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "DigiLocker",
         "answer": "cloud-based digital document wallet under Digital India",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: DigiLocker — cloud-based digital document wallet under Digital India. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: DigiLocker — cloud-based digital document wallet under Digital India. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "UMANG",
         "answer": "single mobile platform for government services",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: UMANG — single mobile platform for government services. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: UMANG — single mobile platform for government services. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "MyGov",
         "answer": "citizen engagement and crowdsourcing platform",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: MyGov — citizen engagement and crowdsourcing platform. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: MyGov — citizen engagement and crowdsourcing platform. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "API Setu",
         "answer": "API marketplace/integration platform memory",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: API Setu — API marketplace/integration platform memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: API Setu — API marketplace/integration platform memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "eSign",
         "answer": "electronic signing service using Aadhaar-based authentication memory",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: eSign — electronic signing service using Aadhaar-based authentication memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: eSign — electronic signing service using Aadhaar-based authentication memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "BharatNet",
         "answer": "broadband connectivity for gram panchayats memory",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: BharatNet — broadband connectivity for gram panchayats memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: BharatNet — broadband connectivity for gram panchayats memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "UPI",
         "answer": "real-time digital payment system memory",
         "tag": "digital",
-        "explanation": "Remember the fixed exam pair: UPI — real-time digital payment system memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: UPI — real-time digital payment system memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "IndiaAI Mission",
         "answer": "AI mission approved in 2024 with compute, datasets, future skills and safe AI themes",
         "tag": "ai",
-        "explanation": "Remember the fixed exam pair: IndiaAI Mission — AI mission approved in 2024 with compute, datasets, future skills and safe AI themes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: IndiaAI Mission — AI mission approved in 2024 with compute, datasets, future skills and safe AI themes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "AI",
         "answer": "machines performing tasks requiring human intelligence",
         "tag": "ai",
-        "explanation": "Remember the fixed exam pair: AI — machines performing tasks requiring human intelligence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: AI — machines performing tasks requiring human intelligence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Machine Learning",
         "answer": "systems learn patterns from data",
         "tag": "ai",
-        "explanation": "Remember the fixed exam pair: Machine Learning — systems learn patterns from data. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Machine Learning — systems learn patterns from data. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Generative AI",
         "answer": "AI that creates text, image, audio or code",
         "tag": "ai",
-        "explanation": "Remember the fixed exam pair: Generative AI — AI that creates text, image, audio or code. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Generative AI — AI that creates text, image, audio or code. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "CERT-In",
         "answer": "Indian Computer Emergency Response Team; cybersecurity advisories",
         "tag": "cyber",
-        "explanation": "Remember the fixed exam pair: CERT-In — Indian Computer Emergency Response Team; cybersecurity advisories. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: CERT-In — Indian Computer Emergency Response Team; cybersecurity advisories. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Phishing",
         "answer": "fraudulent attempt to steal credentials or money",
         "tag": "cyber",
-        "explanation": "Remember the fixed exam pair: Phishing — fraudulent attempt to steal credentials or money. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Phishing — fraudulent attempt to steal credentials or money. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Malware",
         "answer": "malicious software such as virus, worm, trojan, ransomware",
         "tag": "cyber",
-        "explanation": "Remember the fixed exam pair: Malware — malicious software such as virus, worm, trojan, ransomware. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Malware — malicious software such as virus, worm, trojan, ransomware. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Firewall",
         "answer": "security system that filters network traffic",
         "tag": "cyber",
-        "explanation": "Remember the fixed exam pair: Firewall — security system that filters network traffic. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Firewall — security system that filters network traffic. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Two-factor authentication",
         "answer": "login security using two proofs",
         "tag": "cyber",
-        "explanation": "Remember the fixed exam pair: Two-factor authentication — login security using two proofs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Two-factor authentication — login security using two proofs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Zero Trust",
         "answer": "security idea: never trust automatically, verify continuously",
         "tag": "cyber",
-        "explanation": "Remember the fixed exam pair: Zero Trust — security idea: never trust automatically, verify continuously. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Zero Trust — security idea: never trust automatically, verify continuously. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -5185,7 +5185,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Digestive system: breaks food into absorbable nutrients. Remember the fixed exam pair: Digestive system — breaks food into absorbable nutrients. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Saliva enzyme: ptyalin/amylase begins starch digestion. Remember the fixed exam pair: Saliva enzyme — ptyalin/amylase begins starch digestion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Pancreatic juice: contains digestive enzymes like amylase, lipase, trypsin. Remember the fixed exam pair: Pancreatic juice — contains digestive enzymes like amylase, lipase, trypsin. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Respiration: release of energy from food. Remember the fixed exam pair: Respiration — release of energy from food. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Blood: transports oxygen, nutrients, hormones and waste. Remember the fixed exam pair: Blood — transports oxygen, nutrients, hormones and waste. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. RBC: contains haemoglobin and carries oxygen. Remember the fixed exam pair: RBC — contains haemoglobin and carries oxygen. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. WBC: defence against infection. Remember the fixed exam pair: WBC — defence against infection. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Platelets: blood clotting. Remember the fixed exam pair: Platelets — blood clotting. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Heart: pumps blood through circulatory system. Remember the fixed exam pair: Heart — pumps blood through circulatory system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Lungs: gas exchange organs. Remember the fixed exam pair: Lungs — gas exchange organs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Kidney: excretion and water-salt balance. Remember the fixed exam pair: Kidney — excretion and water-salt balance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Liver: bile secretion and metabolism memory. Remember the fixed exam pair: Liver — bile secretion and metabolism memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Neuron: basic unit of nervous system. Remember the fixed exam pair: Neuron — basic unit of nervous system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Medulla oblongata: controls involuntary functions like breathing/heartbeat memory. Remember the fixed exam pair: Medulla oblongata — controls involuntary functions like breathing/heartbeat memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Digestive system: breaks food into absorbable nutrients. Fixed association: Digestive system — breaks food into absorbable nutrients. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Saliva enzyme: ptyalin/amylase begins starch digestion. Fixed association: Saliva enzyme — ptyalin/amylase begins starch digestion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Pancreatic juice: contains digestive enzymes like amylase, lipase, trypsin. Fixed association: Pancreatic juice — contains digestive enzymes like amylase, lipase, trypsin. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Respiration: release of energy from food. Fixed association: Respiration — release of energy from food. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Blood: transports oxygen, nutrients, hormones and waste. Fixed association: Blood — transports oxygen, nutrients, hormones and waste. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. RBC: contains haemoglobin and carries oxygen. Fixed association: RBC — contains haemoglobin and carries oxygen. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. WBC: defence against infection. Fixed association: WBC — defence against infection. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Platelets: blood clotting. Fixed association: Platelets — blood clotting. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Heart: pumps blood through circulatory system. Fixed association: Heart — pumps blood through circulatory system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Lungs: gas exchange organs. Fixed association: Lungs — gas exchange organs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Kidney: excretion and water-salt balance. Fixed association: Kidney — excretion and water-salt balance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Liver: bile secretion and metabolism memory. Fixed association: Liver — bile secretion and metabolism memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Neuron: basic unit of nervous system. Fixed association: Neuron — basic unit of nervous system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Medulla oblongata: controls involuntary functions like breathing/heartbeat memory. Fixed association: Medulla oblongata — controls involuntary functions like breathing/heartbeat memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -5287,7 +5287,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -5305,85 +5305,85 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Digestive system",
         "answer": "breaks food into absorbable nutrients",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Digestive system — breaks food into absorbable nutrients. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Digestive system — breaks food into absorbable nutrients. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Saliva enzyme",
         "answer": "ptyalin/amylase begins starch digestion",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Saliva enzyme — ptyalin/amylase begins starch digestion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Saliva enzyme — ptyalin/amylase begins starch digestion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pancreatic juice",
         "answer": "contains digestive enzymes like amylase, lipase, trypsin",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Pancreatic juice — contains digestive enzymes like amylase, lipase, trypsin. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pancreatic juice — contains digestive enzymes like amylase, lipase, trypsin. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Respiration",
         "answer": "release of energy from food",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Respiration — release of energy from food. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Respiration — release of energy from food. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Blood",
         "answer": "transports oxygen, nutrients, hormones and waste",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Blood — transports oxygen, nutrients, hormones and waste. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Blood — transports oxygen, nutrients, hormones and waste. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "RBC",
         "answer": "contains haemoglobin and carries oxygen",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: RBC — contains haemoglobin and carries oxygen. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: RBC — contains haemoglobin and carries oxygen. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "WBC",
         "answer": "defence against infection",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: WBC — defence against infection. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: WBC — defence against infection. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Platelets",
         "answer": "blood clotting",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Platelets — blood clotting. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Platelets — blood clotting. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Heart",
         "answer": "pumps blood through circulatory system",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Heart — pumps blood through circulatory system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Heart — pumps blood through circulatory system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Lungs",
         "answer": "gas exchange organs",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Lungs — gas exchange organs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Lungs — gas exchange organs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kidney",
         "answer": "excretion and water-salt balance",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Kidney — excretion and water-salt balance. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kidney — excretion and water-salt balance. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Liver",
         "answer": "bile secretion and metabolism memory",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Liver — bile secretion and metabolism memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Liver — bile secretion and metabolism memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Neuron",
         "answer": "basic unit of nervous system",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Neuron — basic unit of nervous system. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Neuron — basic unit of nervous system. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Medulla oblongata",
         "answer": "controls involuntary functions like breathing/heartbeat memory",
         "tag": "biology",
-        "explanation": "Remember the fixed exam pair: Medulla oblongata — controls involuntary functions like breathing/heartbeat memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Medulla oblongata — controls involuntary functions like breathing/heartbeat memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -5424,7 +5424,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Vitamin A deficiency: night blindness. Remember the fixed exam pair: Vitamin A deficiency — night blindness. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Vitamin B1 deficiency: beriberi. Remember the fixed exam pair: Vitamin B1 deficiency — beriberi. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Vitamin C deficiency: scurvy. Remember the fixed exam pair: Vitamin C deficiency — scurvy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Vitamin D deficiency: rickets/weak bones. Remember the fixed exam pair: Vitamin D deficiency — rickets/weak bones. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Vitamin K: blood clotting memory. Remember the fixed exam pair: Vitamin K — blood clotting memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Insulin: controls blood sugar. Remember the fixed exam pair: Insulin — controls blood sugar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Adrenaline: emergency/fight-or-flight hormone. Remember the fixed exam pair: Adrenaline — emergency/fight-or-flight hormone. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Thyroxine: thyroid hormone regulating metabolism. Remember the fixed exam pair: Thyroxine — thyroid hormone regulating metabolism. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Kala-azar: Leishmania parasite. Remember the fixed exam pair: Kala-azar — Leishmania parasite. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Malaria: Plasmodium parasite. Remember the fixed exam pair: Malaria — Plasmodium parasite. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Tuberculosis: bacterial disease memory. Remember the fixed exam pair: Tuberculosis — bacterial disease memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Polio: viral disease memory. Remember the fixed exam pair: Polio — viral disease memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Vaccine: stimulates immunity against disease. Remember the fixed exam pair: Vaccine — stimulates immunity against disease. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Antibody: protein produced against antigen. Remember the fixed exam pair: Antibody — protein produced against antigen. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Antibiotic: works against bacteria, not viruses. Remember the fixed exam pair: Antibiotic — works against bacteria, not viruses. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Vitamin A deficiency: night blindness. Fixed association: Vitamin A deficiency — night blindness. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Vitamin B1 deficiency: beriberi. Fixed association: Vitamin B1 deficiency — beriberi. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Vitamin C deficiency: scurvy. Fixed association: Vitamin C deficiency — scurvy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Vitamin D deficiency: rickets/weak bones. Fixed association: Vitamin D deficiency — rickets/weak bones. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Vitamin K: blood clotting memory. Fixed association: Vitamin K — blood clotting memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Insulin: controls blood sugar. Fixed association: Insulin — controls blood sugar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Adrenaline: emergency/fight-or-flight hormone. Fixed association: Adrenaline — emergency/fight-or-flight hormone. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Thyroxine: thyroid hormone regulating metabolism. Fixed association: Thyroxine — thyroid hormone regulating metabolism. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Kala-azar: Leishmania parasite. Fixed association: Kala-azar — Leishmania parasite. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Malaria: Plasmodium parasite. Fixed association: Malaria — Plasmodium parasite. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Tuberculosis: bacterial disease memory. Fixed association: Tuberculosis — bacterial disease memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Polio: viral disease memory. Fixed association: Polio — viral disease memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Vaccine: stimulates immunity against disease. Fixed association: Vaccine — stimulates immunity against disease. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Antibody: protein produced against antigen. Fixed association: Antibody — protein produced against antigen. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n15. Antibiotic: works against bacteria, not viruses. Fixed association: Antibiotic — works against bacteria, not viruses. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -5531,7 +5531,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -5549,91 +5549,91 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Vitamin A deficiency",
         "answer": "night blindness",
         "tag": "vitamin",
-        "explanation": "Remember the fixed exam pair: Vitamin A deficiency — night blindness. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Vitamin A deficiency — night blindness. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Vitamin B1 deficiency",
         "answer": "beriberi",
         "tag": "vitamin",
-        "explanation": "Remember the fixed exam pair: Vitamin B1 deficiency — beriberi. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Vitamin B1 deficiency — beriberi. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Vitamin C deficiency",
         "answer": "scurvy",
         "tag": "vitamin",
-        "explanation": "Remember the fixed exam pair: Vitamin C deficiency — scurvy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Vitamin C deficiency — scurvy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Vitamin D deficiency",
         "answer": "rickets/weak bones",
         "tag": "vitamin",
-        "explanation": "Remember the fixed exam pair: Vitamin D deficiency — rickets/weak bones. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Vitamin D deficiency — rickets/weak bones. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Vitamin K",
         "answer": "blood clotting memory",
         "tag": "vitamin",
-        "explanation": "Remember the fixed exam pair: Vitamin K — blood clotting memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Vitamin K — blood clotting memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Insulin",
         "answer": "controls blood sugar",
         "tag": "hormone",
-        "explanation": "Remember the fixed exam pair: Insulin — controls blood sugar. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Insulin — controls blood sugar. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Adrenaline",
         "answer": "emergency/fight-or-flight hormone",
         "tag": "hormone",
-        "explanation": "Remember the fixed exam pair: Adrenaline — emergency/fight-or-flight hormone. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Adrenaline — emergency/fight-or-flight hormone. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Thyroxine",
         "answer": "thyroid hormone regulating metabolism",
         "tag": "hormone",
-        "explanation": "Remember the fixed exam pair: Thyroxine — thyroid hormone regulating metabolism. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Thyroxine — thyroid hormone regulating metabolism. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Kala-azar",
         "answer": "Leishmania parasite",
         "tag": "disease",
-        "explanation": "Remember the fixed exam pair: Kala-azar — Leishmania parasite. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Kala-azar — Leishmania parasite. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Malaria",
         "answer": "Plasmodium parasite",
         "tag": "disease",
-        "explanation": "Remember the fixed exam pair: Malaria — Plasmodium parasite. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Malaria — Plasmodium parasite. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Tuberculosis",
         "answer": "bacterial disease memory",
         "tag": "disease",
-        "explanation": "Remember the fixed exam pair: Tuberculosis — bacterial disease memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Tuberculosis — bacterial disease memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Polio",
         "answer": "viral disease memory",
         "tag": "disease",
-        "explanation": "Remember the fixed exam pair: Polio — viral disease memory. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Polio — viral disease memory. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Vaccine",
         "answer": "stimulates immunity against disease",
         "tag": "immunity",
-        "explanation": "Remember the fixed exam pair: Vaccine — stimulates immunity against disease. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Vaccine — stimulates immunity against disease. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Antibody",
         "answer": "protein produced against antigen",
         "tag": "immunity",
-        "explanation": "Remember the fixed exam pair: Antibody — protein produced against antigen. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Antibody — protein produced against antigen. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Antibiotic",
         "answer": "works against bacteria, not viruses",
         "tag": "medicine",
-        "explanation": "Remember the fixed exam pair: Antibiotic — works against bacteria, not viruses. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Antibiotic — works against bacteria, not viruses. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -5674,7 +5674,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Speed: distance divided by time. Remember the fixed exam pair: Speed — distance divided by time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Acceleration: rate of change of velocity. Remember the fixed exam pair: Acceleration — rate of change of velocity. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Force: mass × acceleration. Remember the fixed exam pair: Force — mass × acceleration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Gravity: attractive force between masses. Remember the fixed exam pair: Gravity — attractive force between masses. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Earth escape velocity: about 11.2 km/s. Remember the fixed exam pair: Earth escape velocity — about 11.2 km/s. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Sound: requires medium; cannot travel in vacuum. Remember the fixed exam pair: Sound — requires medium; cannot travel in vacuum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Light: electromagnetic wave; can travel in vacuum. Remember the fixed exam pair: Light — electromagnetic wave; can travel in vacuum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Reflection: bouncing back of light. Remember the fixed exam pair: Reflection — bouncing back of light. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Refraction: bending of light when medium changes. Remember the fixed exam pair: Refraction — bending of light when medium changes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Electric current: flow of electric charge. Remember the fixed exam pair: Electric current — flow of electric charge. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Ohm’s law: V = IR. Remember the fixed exam pair: Ohm’s law — V = IR. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Power: rate of doing work or energy transfer. Remember the fixed exam pair: Power — rate of doing work or energy transfer. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Heat: energy transfer due to temperature difference. Remember the fixed exam pair: Heat — energy transfer due to temperature difference. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Magnetism: force associated with magnets/moving charges. Remember the fixed exam pair: Magnetism — force associated with magnets/moving charges. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Speed: distance divided by time. Fixed association: Speed — distance divided by time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Acceleration: rate of change of velocity. Fixed association: Acceleration — rate of change of velocity. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Force: mass × acceleration. Fixed association: Force — mass × acceleration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Gravity: attractive force between masses. Fixed association: Gravity — attractive force between masses. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Earth escape velocity: about 11.2 km/s. Fixed association: Earth escape velocity — about 11.2 km/s. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Sound: requires medium; cannot travel in vacuum. Fixed association: Sound — requires medium; cannot travel in vacuum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Light: electromagnetic wave; can travel in vacuum. Fixed association: Light — electromagnetic wave; can travel in vacuum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Reflection: bouncing back of light. Fixed association: Reflection — bouncing back of light. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Refraction: bending of light when medium changes. Fixed association: Refraction — bending of light when medium changes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Electric current: flow of electric charge. Fixed association: Electric current — flow of electric charge. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Ohm’s law: V = IR. Fixed association: Ohm’s law — V = IR. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Power: rate of doing work or energy transfer. Fixed association: Power — rate of doing work or energy transfer. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Heat: energy transfer due to temperature difference. Fixed association: Heat — energy transfer due to temperature difference. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Magnetism: force associated with magnets/moving charges. Fixed association: Magnetism — force associated with magnets/moving charges. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -5776,7 +5776,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -5794,85 +5794,85 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Speed",
         "answer": "distance divided by time",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Speed — distance divided by time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Speed — distance divided by time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Acceleration",
         "answer": "rate of change of velocity",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Acceleration — rate of change of velocity. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Acceleration — rate of change of velocity. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Force",
         "answer": "mass × acceleration",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Force — mass × acceleration. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Force — mass × acceleration. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Gravity",
         "answer": "attractive force between masses",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Gravity — attractive force between masses. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Gravity — attractive force between masses. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Earth escape velocity",
         "answer": "about 11.2 km/s",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Earth escape velocity — about 11.2 km/s. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Earth escape velocity — about 11.2 km/s. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sound",
         "answer": "requires medium; cannot travel in vacuum",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Sound — requires medium; cannot travel in vacuum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sound — requires medium; cannot travel in vacuum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Light",
         "answer": "electromagnetic wave; can travel in vacuum",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Light — electromagnetic wave; can travel in vacuum. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Light — electromagnetic wave; can travel in vacuum. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Reflection",
         "answer": "bouncing back of light",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Reflection — bouncing back of light. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Reflection — bouncing back of light. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Refraction",
         "answer": "bending of light when medium changes",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Refraction — bending of light when medium changes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Refraction — bending of light when medium changes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Electric current",
         "answer": "flow of electric charge",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Electric current — flow of electric charge. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Electric current — flow of electric charge. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ohm’s law",
         "answer": "V = IR",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Ohm’s law — V = IR. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ohm’s law — V = IR. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Power",
         "answer": "rate of doing work or energy transfer",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Power — rate of doing work or energy transfer. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Power — rate of doing work or energy transfer. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Heat",
         "answer": "energy transfer due to temperature difference",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Heat — energy transfer due to temperature difference. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Heat — energy transfer due to temperature difference. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Magnetism",
         "answer": "force associated with magnets/moving charges",
         "tag": "physics",
-        "explanation": "Remember the fixed exam pair: Magnetism — force associated with magnets/moving charges. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Magnetism — force associated with magnets/moving charges. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -5913,7 +5913,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Acid: sour substance, turns blue litmus red. Remember the fixed exam pair: Acid — sour substance, turns blue litmus red. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Base: bitter/slippery substance, turns red litmus blue. Remember the fixed exam pair: Base — bitter/slippery substance, turns red litmus blue. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Salt: product of acid-base neutralisation. Remember the fixed exam pair: Salt — product of acid-base neutralisation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. pH: measure of acidity/basicity. Remember the fixed exam pair: pH — measure of acidity/basicity. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Metal: good conductor, malleable, ductile generally. Remember the fixed exam pair: Metal — good conductor, malleable, ductile generally. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Non-metal: poor conductor generally, exception graphite. Remember the fixed exam pair: Non-metal — poor conductor generally, exception graphite. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. CO2: greenhouse gas and product of respiration/combustion. Remember the fixed exam pair: CO2 — greenhouse gas and product of respiration/combustion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Ozone layer: absorbs harmful ultraviolet radiation. Remember the fixed exam pair: Ozone layer — absorbs harmful ultraviolet radiation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Greenhouse effect: warming due to greenhouse gases. Remember the fixed exam pair: Greenhouse effect — warming due to greenhouse gases. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Biodiversity: variety of living organisms. Remember the fixed exam pair: Biodiversity — variety of living organisms. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Pollution: undesirable change in environment. Remember the fixed exam pair: Pollution — undesirable change in environment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Biodegradable: can be decomposed by microorganisms. Remember the fixed exam pair: Biodegradable — can be decomposed by microorganisms. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Renewable energy: solar, wind, hydro, biomass examples. Remember the fixed exam pair: Renewable energy — solar, wind, hydro, biomass examples. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Non-renewable energy: coal, petroleum, natural gas examples. Remember the fixed exam pair: Non-renewable energy — coal, petroleum, natural gas examples. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In General Science, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Acid: sour substance, turns blue litmus red. Fixed association: Acid — sour substance, turns blue litmus red. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Base: bitter/slippery substance, turns red litmus blue. Fixed association: Base — bitter/slippery substance, turns red litmus blue. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Salt: product of acid-base neutralisation. Fixed association: Salt — product of acid-base neutralisation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. pH: measure of acidity/basicity. Fixed association: pH — measure of acidity/basicity. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Metal: good conductor, malleable, ductile generally. Fixed association: Metal — good conductor, malleable, ductile generally. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Non-metal: poor conductor generally, exception graphite. Fixed association: Non-metal — poor conductor generally, exception graphite. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. CO2: greenhouse gas and product of respiration/combustion. Fixed association: CO2 — greenhouse gas and product of respiration/combustion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Ozone layer: absorbs harmful ultraviolet radiation. Fixed association: Ozone layer — absorbs harmful ultraviolet radiation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Greenhouse effect: warming due to greenhouse gases. Fixed association: Greenhouse effect — warming due to greenhouse gases. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Biodiversity: variety of living organisms. Fixed association: Biodiversity — variety of living organisms. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Pollution: undesirable change in environment. Fixed association: Pollution — undesirable change in environment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Biodegradable: can be decomposed by microorganisms. Fixed association: Biodegradable — can be decomposed by microorganisms. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n13. Renewable energy: solar, wind, hydro, biomass examples. Fixed association: Renewable energy — solar, wind, hydro, biomass examples. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n14. Non-renewable energy: coal, petroleum, natural gas examples. Fixed association: Non-renewable energy — coal, petroleum, natural gas examples. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -6015,7 +6015,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -6033,85 +6033,85 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Acid",
         "answer": "sour substance, turns blue litmus red",
         "tag": "chemistry",
-        "explanation": "Remember the fixed exam pair: Acid — sour substance, turns blue litmus red. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Acid — sour substance, turns blue litmus red. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Base",
         "answer": "bitter/slippery substance, turns red litmus blue",
         "tag": "chemistry",
-        "explanation": "Remember the fixed exam pair: Base — bitter/slippery substance, turns red litmus blue. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Base — bitter/slippery substance, turns red litmus blue. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Salt",
         "answer": "product of acid-base neutralisation",
         "tag": "chemistry",
-        "explanation": "Remember the fixed exam pair: Salt — product of acid-base neutralisation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Salt — product of acid-base neutralisation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "pH",
         "answer": "measure of acidity/basicity",
         "tag": "chemistry",
-        "explanation": "Remember the fixed exam pair: pH — measure of acidity/basicity. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: pH — measure of acidity/basicity. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Metal",
         "answer": "good conductor, malleable, ductile generally",
         "tag": "chemistry",
-        "explanation": "Remember the fixed exam pair: Metal — good conductor, malleable, ductile generally. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Metal — good conductor, malleable, ductile generally. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Non-metal",
         "answer": "poor conductor generally, exception graphite",
         "tag": "chemistry",
-        "explanation": "Remember the fixed exam pair: Non-metal — poor conductor generally, exception graphite. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Non-metal — poor conductor generally, exception graphite. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "CO2",
         "answer": "greenhouse gas and product of respiration/combustion",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: CO2 — greenhouse gas and product of respiration/combustion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: CO2 — greenhouse gas and product of respiration/combustion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ozone layer",
         "answer": "absorbs harmful ultraviolet radiation",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Ozone layer — absorbs harmful ultraviolet radiation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ozone layer — absorbs harmful ultraviolet radiation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Greenhouse effect",
         "answer": "warming due to greenhouse gases",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Greenhouse effect — warming due to greenhouse gases. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Greenhouse effect — warming due to greenhouse gases. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Biodiversity",
         "answer": "variety of living organisms",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Biodiversity — variety of living organisms. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Biodiversity — variety of living organisms. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pollution",
         "answer": "undesirable change in environment",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Pollution — undesirable change in environment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pollution — undesirable change in environment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Biodegradable",
         "answer": "can be decomposed by microorganisms",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Biodegradable — can be decomposed by microorganisms. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Biodegradable — can be decomposed by microorganisms. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Renewable energy",
         "answer": "solar, wind, hydro, biomass examples",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Renewable energy — solar, wind, hydro, biomass examples. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Renewable energy — solar, wind, hydro, biomass examples. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Non-renewable energy",
         "answer": "coal, petroleum, natural gas examples",
         "tag": "environment",
-        "explanation": "Remember the fixed exam pair: Non-renewable energy — coal, petroleum, natural gas examples. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Non-renewable energy — coal, petroleum, natural gas examples. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -6150,7 +6150,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Number series: identify arithmetic, geometric, square, cube, prime or alternating pattern. Remember the fixed exam pair: Number series — identify arithmetic, geometric, square, cube, prime or alternating pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Alphabet series: convert letters to positions A=1 to Z=26. Remember the fixed exam pair: Alphabet series — convert letters to positions A=1 to Z=26. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Alphanumeric series: track numbers, letters and symbols separately. Remember the fixed exam pair: Alphanumeric series — track numbers, letters and symbols separately. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Wrong number series: find the term breaking the pattern. Remember the fixed exam pair: Wrong number series — find the term breaking the pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Missing term: apply pattern before and after the blank. Remember the fixed exam pair: Missing term — apply pattern before and after the blank. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Analogy: same relationship between two pairs. Remember the fixed exam pair: Analogy — same relationship between two pairs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Classification: find the odd one out. Remember the fixed exam pair: Classification — find the odd one out. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Letter position: A=1, Z=26, opposite letters total 27. Remember the fixed exam pair: Letter position — A=1, Z=26, opposite letters total 27. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Square pattern: 1,4,9,16,25.... Remember the fixed exam pair: Square pattern — 1,4,9,16,25.... In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Cube pattern: 1,8,27,64,125.... Remember the fixed exam pair: Cube pattern — 1,8,27,64,125.... In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Prime pattern: 2,3,5,7,11,13.... Remember the fixed exam pair: Prime pattern — 2,3,5,7,11,13.... In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Alternate gap: two series interwoven in one line. Remember the fixed exam pair: Alternate gap — two series interwoven in one line. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Number series: identify arithmetic, geometric, square, cube, prime or alternating pattern. Fixed association: Number series — identify arithmetic, geometric, square, cube, prime or alternating pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Alphabet series: convert letters to positions A=1 to Z=26. Fixed association: Alphabet series — convert letters to positions A=1 to Z=26. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Alphanumeric series: track numbers, letters and symbols separately. Fixed association: Alphanumeric series — track numbers, letters and symbols separately. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Wrong number series: find the term breaking the pattern. Fixed association: Wrong number series — find the term breaking the pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Missing term: apply pattern before and after the blank. Fixed association: Missing term — apply pattern before and after the blank. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Analogy: same relationship between two pairs. Fixed association: Analogy — same relationship between two pairs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Classification: find the odd one out. Fixed association: Classification — find the odd one out. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Letter position: A=1, Z=26, opposite letters total 27. Fixed association: Letter position — A=1, Z=26, opposite letters total 27. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Square pattern: 1,4,9,16,25.... Fixed association: Square pattern — 1,4,9,16,25.... In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Cube pattern: 1,8,27,64,125.... Fixed association: Cube pattern — 1,8,27,64,125.... In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Prime pattern: 2,3,5,7,11,13.... Fixed association: Prime pattern — 2,3,5,7,11,13.... In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Alternate gap: two series interwoven in one line. Fixed association: Alternate gap — two series interwoven in one line. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -6242,7 +6242,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -6260,73 +6260,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Number series",
         "answer": "identify arithmetic, geometric, square, cube, prime or alternating pattern",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Number series — identify arithmetic, geometric, square, cube, prime or alternating pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Number series — identify arithmetic, geometric, square, cube, prime or alternating pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Alphabet series",
         "answer": "convert letters to positions A=1 to Z=26",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Alphabet series — convert letters to positions A=1 to Z=26. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Alphabet series — convert letters to positions A=1 to Z=26. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Alphanumeric series",
         "answer": "track numbers, letters and symbols separately",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Alphanumeric series — track numbers, letters and symbols separately. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Alphanumeric series — track numbers, letters and symbols separately. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Wrong number series",
         "answer": "find the term breaking the pattern",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Wrong number series — find the term breaking the pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Wrong number series — find the term breaking the pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Missing term",
         "answer": "apply pattern before and after the blank",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Missing term — apply pattern before and after the blank. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Missing term — apply pattern before and after the blank. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Analogy",
         "answer": "same relationship between two pairs",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Analogy — same relationship between two pairs. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Analogy — same relationship between two pairs. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Classification",
         "answer": "find the odd one out",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Classification — find the odd one out. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Classification — find the odd one out. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Letter position",
         "answer": "A=1, Z=26, opposite letters total 27",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Letter position — A=1, Z=26, opposite letters total 27. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Letter position — A=1, Z=26, opposite letters total 27. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Square pattern",
         "answer": "1,4,9,16,25...",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Square pattern — 1,4,9,16,25.... In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Square pattern — 1,4,9,16,25.... In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Cube pattern",
         "answer": "1,8,27,64,125...",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Cube pattern — 1,8,27,64,125.... In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Cube pattern — 1,8,27,64,125.... In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Prime pattern",
         "answer": "2,3,5,7,11,13...",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Prime pattern — 2,3,5,7,11,13.... In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Prime pattern — 2,3,5,7,11,13.... In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Alternate gap",
         "answer": "two series interwoven in one line",
         "tag": "reasoning",
-        "explanation": "Remember the fixed exam pair: Alternate gap — two series interwoven in one line. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Alternate gap — two series interwoven in one line. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -6364,7 +6364,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Forward shift: each letter moves ahead by fixed places. Remember the fixed exam pair: Forward shift — each letter moves ahead by fixed places. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Backward shift: each letter moves back by fixed places. Remember the fixed exam pair: Backward shift — each letter moves back by fixed places. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Opposite letters: A-Z, B-Y, C-X pattern. Remember the fixed exam pair: Opposite letters — A-Z, B-Y, C-X pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Position coding: letters converted into 1 to 26 numbers. Remember the fixed exam pair: Position coding — letters converted into 1 to 26 numbers. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Reverse word coding: word order or letter order reversed. Remember the fixed exam pair: Reverse word coding — word order or letter order reversed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Substitution coding: given symbols replace operations or letters. Remember the fixed exam pair: Substitution coding — given symbols replace operations or letters. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Conditional coding: apply rules only when condition matches. Remember the fixed exam pair: Conditional coding — apply rules only when condition matches. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Symbol operations: symbols stand for arithmetic operations. Remember the fixed exam pair: Symbol operations — symbols stand for arithmetic operations. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Matrix coding: use row-column/table based code. Remember the fixed exam pair: Matrix coding — use row-column/table based code. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Language coding: infer word meaning from coded sentences. Remember the fixed exam pair: Language coding — infer word meaning from coded sentences. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Decoding strategy: write alphabet positions before solving. Remember the fixed exam pair: Decoding strategy — write alphabet positions before solving. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Forward shift: each letter moves ahead by fixed places. Fixed association: Forward shift — each letter moves ahead by fixed places. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Backward shift: each letter moves back by fixed places. Fixed association: Backward shift — each letter moves back by fixed places. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Opposite letters: A-Z, B-Y, C-X pattern. Fixed association: Opposite letters — A-Z, B-Y, C-X pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Position coding: letters converted into 1 to 26 numbers. Fixed association: Position coding — letters converted into 1 to 26 numbers. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Reverse word coding: word order or letter order reversed. Fixed association: Reverse word coding — word order or letter order reversed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Substitution coding: given symbols replace operations or letters. Fixed association: Substitution coding — given symbols replace operations or letters. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Conditional coding: apply rules only when condition matches. Fixed association: Conditional coding — apply rules only when condition matches. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Symbol operations: symbols stand for arithmetic operations. Fixed association: Symbol operations — symbols stand for arithmetic operations. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Matrix coding: use row-column/table based code. Fixed association: Matrix coding — use row-column/table based code. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Language coding: infer word meaning from coded sentences. Fixed association: Language coding — infer word meaning from coded sentences. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Decoding strategy: write alphabet positions before solving. Fixed association: Decoding strategy — write alphabet positions before solving. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -6451,7 +6451,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -6469,67 +6469,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Forward shift",
         "answer": "each letter moves ahead by fixed places",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Forward shift — each letter moves ahead by fixed places. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Forward shift — each letter moves ahead by fixed places. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Backward shift",
         "answer": "each letter moves back by fixed places",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Backward shift — each letter moves back by fixed places. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Backward shift — each letter moves back by fixed places. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Opposite letters",
         "answer": "A-Z, B-Y, C-X pattern",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Opposite letters — A-Z, B-Y, C-X pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Opposite letters — A-Z, B-Y, C-X pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Position coding",
         "answer": "letters converted into 1 to 26 numbers",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Position coding — letters converted into 1 to 26 numbers. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Position coding — letters converted into 1 to 26 numbers. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Reverse word coding",
         "answer": "word order or letter order reversed",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Reverse word coding — word order or letter order reversed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Reverse word coding — word order or letter order reversed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Substitution coding",
         "answer": "given symbols replace operations or letters",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Substitution coding — given symbols replace operations or letters. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Substitution coding — given symbols replace operations or letters. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Conditional coding",
         "answer": "apply rules only when condition matches",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Conditional coding — apply rules only when condition matches. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Conditional coding — apply rules only when condition matches. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Symbol operations",
         "answer": "symbols stand for arithmetic operations",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Symbol operations — symbols stand for arithmetic operations. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Symbol operations — symbols stand for arithmetic operations. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Matrix coding",
         "answer": "use row-column/table based code",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Matrix coding — use row-column/table based code. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Matrix coding — use row-column/table based code. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Language coding",
         "answer": "infer word meaning from coded sentences",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Language coding — infer word meaning from coded sentences. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Language coding — infer word meaning from coded sentences. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Decoding strategy",
         "answer": "write alphabet positions before solving",
         "tag": "coding",
-        "explanation": "Remember the fixed exam pair: Decoding strategy — write alphabet positions before solving. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Decoding strategy — write alphabet positions before solving. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -6568,7 +6568,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Direction diagram: always draw N-E-S-W cross. Remember the fixed exam pair: Direction diagram — always draw N-E-S-W cross. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Left/right turns: interpret from person’s facing direction. Remember the fixed exam pair: Left/right turns — interpret from person’s facing direction. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Shadow morning: sun in east, shadow falls west. Remember the fixed exam pair: Shadow morning — sun in east, shadow falls west. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Shadow evening: sun in west, shadow falls east. Remember the fixed exam pair: Shadow evening — sun in west, shadow falls east. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Shortest distance: use Pythagoras when path forms right triangle. Remember the fixed exam pair: Shortest distance — use Pythagoras when path forms right triangle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Blood relation tree: draw family tree instead of verbal guessing. Remember the fixed exam pair: Blood relation tree — draw family tree instead of verbal guessing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Father’s brother: uncle. Remember the fixed exam pair: Father’s brother — uncle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Mother’s sister: aunt. Remember the fixed exam pair: Mother’s sister — aunt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Son of brother: nephew. Remember the fixed exam pair: Son of brother — nephew. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Daughter of sister: niece. Remember the fixed exam pair: Daughter of sister — niece. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Coded relation: decode symbols before building tree. Remember the fixed exam pair: Coded relation — decode symbols before building tree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Relation data sufficiency: check whether gender and generation are sufficient. Remember the fixed exam pair: Relation data sufficiency — check whether gender and generation are sufficient. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Direction diagram: always draw N-E-S-W cross. Fixed association: Direction diagram — always draw N-E-S-W cross. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Left/right turns: interpret from person’s facing direction. Fixed association: Left/right turns — interpret from person’s facing direction. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Shadow morning: sun in east, shadow falls west. Fixed association: Shadow morning — sun in east, shadow falls west. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Shadow evening: sun in west, shadow falls east. Fixed association: Shadow evening — sun in west, shadow falls east. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Shortest distance: use Pythagoras when path forms right triangle. Fixed association: Shortest distance — use Pythagoras when path forms right triangle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Blood relation tree: draw family tree instead of verbal guessing. Fixed association: Blood relation tree — draw family tree instead of verbal guessing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Father’s brother: uncle. Fixed association: Father’s brother — uncle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Mother’s sister: aunt. Fixed association: Mother’s sister — aunt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Son of brother: nephew. Fixed association: Son of brother — nephew. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Daughter of sister: niece. Fixed association: Daughter of sister — niece. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Coded relation: decode symbols before building tree. Fixed association: Coded relation — decode symbols before building tree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Relation data sufficiency: check whether gender and generation are sufficient. Fixed association: Relation data sufficiency — check whether gender and generation are sufficient. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -6660,7 +6660,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -6678,73 +6678,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Direction diagram",
         "answer": "always draw N-E-S-W cross",
         "tag": "direction",
-        "explanation": "Remember the fixed exam pair: Direction diagram — always draw N-E-S-W cross. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Direction diagram — always draw N-E-S-W cross. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Left/right turns",
         "answer": "interpret from person’s facing direction",
         "tag": "direction",
-        "explanation": "Remember the fixed exam pair: Left/right turns — interpret from person’s facing direction. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Left/right turns — interpret from person’s facing direction. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Shadow morning",
         "answer": "sun in east, shadow falls west",
         "tag": "direction",
-        "explanation": "Remember the fixed exam pair: Shadow morning — sun in east, shadow falls west. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Shadow morning — sun in east, shadow falls west. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Shadow evening",
         "answer": "sun in west, shadow falls east",
         "tag": "direction",
-        "explanation": "Remember the fixed exam pair: Shadow evening — sun in west, shadow falls east. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Shadow evening — sun in west, shadow falls east. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Shortest distance",
         "answer": "use Pythagoras when path forms right triangle",
         "tag": "direction",
-        "explanation": "Remember the fixed exam pair: Shortest distance — use Pythagoras when path forms right triangle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Shortest distance — use Pythagoras when path forms right triangle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Blood relation tree",
         "answer": "draw family tree instead of verbal guessing",
         "tag": "relation",
-        "explanation": "Remember the fixed exam pair: Blood relation tree — draw family tree instead of verbal guessing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Blood relation tree — draw family tree instead of verbal guessing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Father’s brother",
         "answer": "uncle",
         "tag": "relation",
-        "explanation": "Remember the fixed exam pair: Father’s brother — uncle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Father’s brother — uncle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mother’s sister",
         "answer": "aunt",
         "tag": "relation",
-        "explanation": "Remember the fixed exam pair: Mother’s sister — aunt. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mother’s sister — aunt. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Son of brother",
         "answer": "nephew",
         "tag": "relation",
-        "explanation": "Remember the fixed exam pair: Son of brother — nephew. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Son of brother — nephew. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Daughter of sister",
         "answer": "niece",
         "tag": "relation",
-        "explanation": "Remember the fixed exam pair: Daughter of sister — niece. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Daughter of sister — niece. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Coded relation",
         "answer": "decode symbols before building tree",
         "tag": "relation",
-        "explanation": "Remember the fixed exam pair: Coded relation — decode symbols before building tree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Coded relation — decode symbols before building tree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Relation data sufficiency",
         "answer": "check whether gender and generation are sufficient",
         "tag": "relation",
-        "explanation": "Remember the fixed exam pair: Relation data sufficiency — check whether gender and generation are sufficient. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Relation data sufficiency — check whether gender and generation are sufficient. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -6782,7 +6782,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. All A are B: A circle completely inside B. Remember the fixed exam pair: All A are B — A circle completely inside B. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Some A are B: overlap exists. Remember the fixed exam pair: Some A are B — overlap exists. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. No A is B: no overlap. Remember the fixed exam pair: No A is B — no overlap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Possibility conclusion: valid only when not contradicted. Remember the fixed exam pair: Possibility conclusion — valid only when not contradicted. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Only conclusion follows: must be true in every diagram. Remember the fixed exam pair: Only conclusion follows — must be true in every diagram. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Venn class relation: draw circles for class inclusion/overlap. Remember the fixed exam pair: Venn class relation — draw circles for class inclusion/overlap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Set counting: use total = A + B - both + neither when needed. Remember the fixed exam pair: Set counting — use total = A + B - both + neither when needed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Data sufficiency I/II: do not solve fully; check whether data is enough. Remember the fixed exam pair: Data sufficiency I/II — do not solve fully; check whether data is enough. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Statement alone: test I alone and II alone separately. Remember the fixed exam pair: Statement alone — test I alone and II alone separately. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Together sufficient: both statements needed. Remember the fixed exam pair: Together sufficient — both statements needed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Real-world trap: use only statements, not outside knowledge. Remember the fixed exam pair: Real-world trap — use only statements, not outside knowledge. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. All A are B: A circle completely inside B. Fixed association: All A are B — A circle completely inside B. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Some A are B: overlap exists. Fixed association: Some A are B — overlap exists. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. No A is B: no overlap. Fixed association: No A is B — no overlap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Possibility conclusion: valid only when not contradicted. Fixed association: Possibility conclusion — valid only when not contradicted. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Only conclusion follows: must be true in every diagram. Fixed association: Only conclusion follows — must be true in every diagram. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Venn class relation: draw circles for class inclusion/overlap. Fixed association: Venn class relation — draw circles for class inclusion/overlap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Set counting: use total = A + B - both + neither when needed. Fixed association: Set counting — use total = A + B - both + neither when needed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Data sufficiency I/II: do not solve fully; check whether data is enough. Fixed association: Data sufficiency I/II — do not solve fully; check whether data is enough. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Statement alone: test I alone and II alone separately. Fixed association: Statement alone — test I alone and II alone separately. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Together sufficient: both statements needed. Fixed association: Together sufficient — both statements needed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Real-world trap: use only statements, not outside knowledge. Fixed association: Real-world trap — use only statements, not outside knowledge. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -6869,7 +6869,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -6887,67 +6887,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "All A are B",
         "answer": "A circle completely inside B",
         "tag": "syllogism",
-        "explanation": "Remember the fixed exam pair: All A are B — A circle completely inside B. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: All A are B — A circle completely inside B. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Some A are B",
         "answer": "overlap exists",
         "tag": "syllogism",
-        "explanation": "Remember the fixed exam pair: Some A are B — overlap exists. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Some A are B — overlap exists. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "No A is B",
         "answer": "no overlap",
         "tag": "syllogism",
-        "explanation": "Remember the fixed exam pair: No A is B — no overlap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: No A is B — no overlap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Possibility conclusion",
         "answer": "valid only when not contradicted",
         "tag": "syllogism",
-        "explanation": "Remember the fixed exam pair: Possibility conclusion — valid only when not contradicted. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Possibility conclusion — valid only when not contradicted. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Only conclusion follows",
         "answer": "must be true in every diagram",
         "tag": "syllogism",
-        "explanation": "Remember the fixed exam pair: Only conclusion follows — must be true in every diagram. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Only conclusion follows — must be true in every diagram. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Venn class relation",
         "answer": "draw circles for class inclusion/overlap",
         "tag": "venn",
-        "explanation": "Remember the fixed exam pair: Venn class relation — draw circles for class inclusion/overlap. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Venn class relation — draw circles for class inclusion/overlap. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Set counting",
         "answer": "use total = A + B - both + neither when needed",
         "tag": "venn",
-        "explanation": "Remember the fixed exam pair: Set counting — use total = A + B - both + neither when needed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Set counting — use total = A + B - both + neither when needed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Data sufficiency I/II",
         "answer": "do not solve fully; check whether data is enough",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Data sufficiency I/II — do not solve fully; check whether data is enough. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Data sufficiency I/II — do not solve fully; check whether data is enough. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Statement alone",
         "answer": "test I alone and II alone separately",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Statement alone — test I alone and II alone separately. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Statement alone — test I alone and II alone separately. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Together sufficient",
         "answer": "both statements needed",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Together sufficient — both statements needed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Together sufficient — both statements needed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Real-world trap",
         "answer": "use only statements, not outside knowledge",
         "tag": "logic",
-        "explanation": "Remember the fixed exam pair: Real-world trap — use only statements, not outside knowledge. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Real-world trap — use only statements, not outside knowledge. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -6983,7 +6983,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Rank from top and bottom: total = top rank + bottom rank - 1. Remember the fixed exam pair: Rank from top and bottom — total = top rank + bottom rank - 1. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Between persons: subtract positions and adjust endpoints. Remember the fixed exam pair: Between persons — subtract positions and adjust endpoints. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Linear arrangement: fix left-right from subject’s perspective if given. Remember the fixed exam pair: Linear arrangement — fix left-right from subject’s perspective if given. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Circular arrangement: fix one person to remove rotation. Remember the fixed exam pair: Circular arrangement — fix one person to remove rotation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Facing centre: left/right changes according to facing direction. Remember the fixed exam pair: Facing centre — left/right changes according to facing direction. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Age order: convert older/younger into inequality chain. Remember the fixed exam pair: Age order — convert older/younger into inequality chain. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Height order: convert taller/shorter into inequality chain. Remember the fixed exam pair: Height order — convert taller/shorter into inequality chain. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Conditional arrangement: place fixed clues first. Remember the fixed exam pair: Conditional arrangement — place fixed clues first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Arrangement trap: do not assume extra condition. Remember the fixed exam pair: Arrangement trap — do not assume extra condition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Rank from top and bottom: total = top rank + bottom rank - 1. Fixed association: Rank from top and bottom — total = top rank + bottom rank - 1. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Between persons: subtract positions and adjust endpoints. Fixed association: Between persons — subtract positions and adjust endpoints. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Linear arrangement: fix left-right from subject’s perspective if given. Fixed association: Linear arrangement — fix left-right from subject’s perspective if given. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Circular arrangement: fix one person to remove rotation. Fixed association: Circular arrangement — fix one person to remove rotation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Facing centre: left/right changes according to facing direction. Fixed association: Facing centre — left/right changes according to facing direction. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Age order: convert older/younger into inequality chain. Fixed association: Age order — convert older/younger into inequality chain. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Height order: convert taller/shorter into inequality chain. Fixed association: Height order — convert taller/shorter into inequality chain. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Conditional arrangement: place fixed clues first. Fixed association: Conditional arrangement — place fixed clues first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Arrangement trap: do not assume extra condition. Fixed association: Arrangement trap — do not assume extra condition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -7060,7 +7060,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -7078,55 +7078,55 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Rank from top and bottom",
         "answer": "total = top rank + bottom rank - 1",
         "tag": "ranking",
-        "explanation": "Remember the fixed exam pair: Rank from top and bottom — total = top rank + bottom rank - 1. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rank from top and bottom — total = top rank + bottom rank - 1. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Between persons",
         "answer": "subtract positions and adjust endpoints",
         "tag": "ranking",
-        "explanation": "Remember the fixed exam pair: Between persons — subtract positions and adjust endpoints. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Between persons — subtract positions and adjust endpoints. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Linear arrangement",
         "answer": "fix left-right from subject’s perspective if given",
         "tag": "seating",
-        "explanation": "Remember the fixed exam pair: Linear arrangement — fix left-right from subject’s perspective if given. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Linear arrangement — fix left-right from subject’s perspective if given. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Circular arrangement",
         "answer": "fix one person to remove rotation",
         "tag": "seating",
-        "explanation": "Remember the fixed exam pair: Circular arrangement — fix one person to remove rotation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Circular arrangement — fix one person to remove rotation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Facing centre",
         "answer": "left/right changes according to facing direction",
         "tag": "seating",
-        "explanation": "Remember the fixed exam pair: Facing centre — left/right changes according to facing direction. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Facing centre — left/right changes according to facing direction. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Age order",
         "answer": "convert older/younger into inequality chain",
         "tag": "ranking",
-        "explanation": "Remember the fixed exam pair: Age order — convert older/younger into inequality chain. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Age order — convert older/younger into inequality chain. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Height order",
         "answer": "convert taller/shorter into inequality chain",
         "tag": "ranking",
-        "explanation": "Remember the fixed exam pair: Height order — convert taller/shorter into inequality chain. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Height order — convert taller/shorter into inequality chain. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Conditional arrangement",
         "answer": "place fixed clues first",
         "tag": "seating",
-        "explanation": "Remember the fixed exam pair: Conditional arrangement — place fixed clues first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Conditional arrangement — place fixed clues first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Arrangement trap",
         "answer": "do not assume extra condition",
         "tag": "seating",
-        "explanation": "Remember the fixed exam pair: Arrangement trap — do not assume extra condition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Arrangement trap — do not assume extra condition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -7163,7 +7163,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Clock angle formula: angle = |30H - 11M/2|. Remember the fixed exam pair: Clock angle formula — angle = |30H - 11M/2|. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Straight angle: hands opposite at 180 degrees. Remember the fixed exam pair: Straight angle — hands opposite at 180 degrees. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Coincidence: hands overlap about 11 times in 12 hours. Remember the fixed exam pair: Coincidence — hands overlap about 11 times in 12 hours. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Right angle: hands at 90 degrees. Remember the fixed exam pair: Right angle — hands at 90 degrees. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Calendar odd days: use odd days to find weekday. Remember the fixed exam pair: Calendar odd days — use odd days to find weekday. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Leap year: year divisible by 4, century divisible by 400. Remember the fixed exam pair: Leap year — year divisible by 4, century divisible by 400. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Common year: 365 days = 1 odd day. Remember the fixed exam pair: Common year — 365 days = 1 odd day. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Leap year odd days: 366 days = 2 odd days. Remember the fixed exam pair: Leap year odd days — 366 days = 2 odd days. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Month code practice: learn month odd day contribution. Remember the fixed exam pair: Month code practice — learn month odd day contribution. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Century trap: century years need 400 divisibility. Remember the fixed exam pair: Century trap — century years need 400 divisibility. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Clock angle formula: angle = |30H - 11M/2|. Fixed association: Clock angle formula — angle = |30H - 11M/2|. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Straight angle: hands opposite at 180 degrees. Fixed association: Straight angle — hands opposite at 180 degrees. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Coincidence: hands overlap about 11 times in 12 hours. Fixed association: Coincidence — hands overlap about 11 times in 12 hours. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Right angle: hands at 90 degrees. Fixed association: Right angle — hands at 90 degrees. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Calendar odd days: use odd days to find weekday. Fixed association: Calendar odd days — use odd days to find weekday. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Leap year: year divisible by 4, century divisible by 400. Fixed association: Leap year — year divisible by 4, century divisible by 400. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Common year: 365 days = 1 odd day. Fixed association: Common year — 365 days = 1 odd day. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Leap year odd days: 366 days = 2 odd days. Fixed association: Leap year odd days — 366 days = 2 odd days. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Month code practice: learn month odd day contribution. Fixed association: Month code practice — learn month odd day contribution. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Century trap: century years need 400 divisibility. Fixed association: Century trap — century years need 400 divisibility. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -7245,7 +7245,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -7263,61 +7263,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Clock angle formula",
         "answer": "angle = |30H - 11M/2|",
         "tag": "clock",
-        "explanation": "Remember the fixed exam pair: Clock angle formula — angle = |30H - 11M/2|. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Clock angle formula — angle = |30H - 11M/2|. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Straight angle",
         "answer": "hands opposite at 180 degrees",
         "tag": "clock",
-        "explanation": "Remember the fixed exam pair: Straight angle — hands opposite at 180 degrees. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Straight angle — hands opposite at 180 degrees. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Coincidence",
         "answer": "hands overlap about 11 times in 12 hours",
         "tag": "clock",
-        "explanation": "Remember the fixed exam pair: Coincidence — hands overlap about 11 times in 12 hours. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Coincidence — hands overlap about 11 times in 12 hours. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Right angle",
         "answer": "hands at 90 degrees",
         "tag": "clock",
-        "explanation": "Remember the fixed exam pair: Right angle — hands at 90 degrees. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Right angle — hands at 90 degrees. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Calendar odd days",
         "answer": "use odd days to find weekday",
         "tag": "calendar",
-        "explanation": "Remember the fixed exam pair: Calendar odd days — use odd days to find weekday. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Calendar odd days — use odd days to find weekday. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Leap year",
         "answer": "year divisible by 4, century divisible by 400",
         "tag": "calendar",
-        "explanation": "Remember the fixed exam pair: Leap year — year divisible by 4, century divisible by 400. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Leap year — year divisible by 4, century divisible by 400. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Common year",
         "answer": "365 days = 1 odd day",
         "tag": "calendar",
-        "explanation": "Remember the fixed exam pair: Common year — 365 days = 1 odd day. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Common year — 365 days = 1 odd day. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Leap year odd days",
         "answer": "366 days = 2 odd days",
         "tag": "calendar",
-        "explanation": "Remember the fixed exam pair: Leap year odd days — 366 days = 2 odd days. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Leap year odd days — 366 days = 2 odd days. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Month code practice",
         "answer": "learn month odd day contribution",
         "tag": "calendar",
-        "explanation": "Remember the fixed exam pair: Month code practice — learn month odd day contribution. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Month code practice — learn month odd day contribution. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Century trap",
         "answer": "century years need 400 divisibility",
         "tag": "calendar",
-        "explanation": "Remember the fixed exam pair: Century trap — century years need 400 divisibility. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Century trap — century years need 400 divisibility. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -7356,7 +7356,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Painted cube three faces: corner cubes. Remember the fixed exam pair: Painted cube three faces — corner cubes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Painted cube two faces: edge cubes excluding corners. Remember the fixed exam pair: Painted cube two faces — edge cubes excluding corners. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Painted cube one face: face-centre cubes excluding edges. Remember the fixed exam pair: Painted cube one face — face-centre cubes excluding edges. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. No face painted: inner cubes. Remember the fixed exam pair: No face painted — inner cubes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Opposite faces dice: opposite faces never touch each other. Remember the fixed exam pair: Opposite faces dice — opposite faces never touch each other. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Adjacent faces dice: faces sharing an edge are adjacent. Remember the fixed exam pair: Adjacent faces dice — faces sharing an edge are adjacent. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Open cube: fold mentally or mark opposite faces. Remember the fixed exam pair: Open cube — fold mentally or mark opposite faces. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Mirror image: left-right reversal. Remember the fixed exam pair: Mirror image — left-right reversal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Water image: top-bottom reversal. Remember the fixed exam pair: Water image — top-bottom reversal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Triangle counting: count smallest, combined and largest triangles systematically. Remember the fixed exam pair: Triangle counting — count smallest, combined and largest triangles systematically. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Square counting: count by size level. Remember the fixed exam pair: Square counting — count by size level. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Odd figure: identify rule common to other figures. Remember the fixed exam pair: Odd figure — identify rule common to other figures. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Logical Reasoning, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Painted cube three faces: corner cubes. Fixed association: Painted cube three faces — corner cubes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Painted cube two faces: edge cubes excluding corners. Fixed association: Painted cube two faces — edge cubes excluding corners. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Painted cube one face: face-centre cubes excluding edges. Fixed association: Painted cube one face — face-centre cubes excluding edges. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. No face painted: inner cubes. Fixed association: No face painted — inner cubes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Opposite faces dice: opposite faces never touch each other. Fixed association: Opposite faces dice — opposite faces never touch each other. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Adjacent faces dice: faces sharing an edge are adjacent. Fixed association: Adjacent faces dice — faces sharing an edge are adjacent. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Open cube: fold mentally or mark opposite faces. Fixed association: Open cube — fold mentally or mark opposite faces. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Mirror image: left-right reversal. Fixed association: Mirror image — left-right reversal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Water image: top-bottom reversal. Fixed association: Water image — top-bottom reversal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Triangle counting: count smallest, combined and largest triangles systematically. Fixed association: Triangle counting — count smallest, combined and largest triangles systematically. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Square counting: count by size level. Fixed association: Square counting — count by size level. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Odd figure: identify rule common to other figures. Fixed association: Odd figure — identify rule common to other figures. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -7448,7 +7448,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -7466,73 +7466,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Painted cube three faces",
         "answer": "corner cubes",
         "tag": "cube",
-        "explanation": "Remember the fixed exam pair: Painted cube three faces — corner cubes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Painted cube three faces — corner cubes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Painted cube two faces",
         "answer": "edge cubes excluding corners",
         "tag": "cube",
-        "explanation": "Remember the fixed exam pair: Painted cube two faces — edge cubes excluding corners. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Painted cube two faces — edge cubes excluding corners. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Painted cube one face",
         "answer": "face-centre cubes excluding edges",
         "tag": "cube",
-        "explanation": "Remember the fixed exam pair: Painted cube one face — face-centre cubes excluding edges. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Painted cube one face — face-centre cubes excluding edges. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "No face painted",
         "answer": "inner cubes",
         "tag": "cube",
-        "explanation": "Remember the fixed exam pair: No face painted — inner cubes. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: No face painted — inner cubes. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Opposite faces dice",
         "answer": "opposite faces never touch each other",
         "tag": "dice",
-        "explanation": "Remember the fixed exam pair: Opposite faces dice — opposite faces never touch each other. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Opposite faces dice — opposite faces never touch each other. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Adjacent faces dice",
         "answer": "faces sharing an edge are adjacent",
         "tag": "dice",
-        "explanation": "Remember the fixed exam pair: Adjacent faces dice — faces sharing an edge are adjacent. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Adjacent faces dice — faces sharing an edge are adjacent. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Open cube",
         "answer": "fold mentally or mark opposite faces",
         "tag": "cube",
-        "explanation": "Remember the fixed exam pair: Open cube — fold mentally or mark opposite faces. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Open cube — fold mentally or mark opposite faces. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mirror image",
         "answer": "left-right reversal",
         "tag": "nonverbal",
-        "explanation": "Remember the fixed exam pair: Mirror image — left-right reversal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mirror image — left-right reversal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Water image",
         "answer": "top-bottom reversal",
         "tag": "nonverbal",
-        "explanation": "Remember the fixed exam pair: Water image — top-bottom reversal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Water image — top-bottom reversal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Triangle counting",
         "answer": "count smallest, combined and largest triangles systematically",
         "tag": "nonverbal",
-        "explanation": "Remember the fixed exam pair: Triangle counting — count smallest, combined and largest triangles systematically. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Triangle counting — count smallest, combined and largest triangles systematically. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Square counting",
         "answer": "count by size level",
         "tag": "nonverbal",
-        "explanation": "Remember the fixed exam pair: Square counting — count by size level. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Square counting — count by size level. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Odd figure",
         "answer": "identify rule common to other figures",
         "tag": "nonverbal",
-        "explanation": "Remember the fixed exam pair: Odd figure — identify rule common to other figures. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Odd figure — identify rule common to other figures. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -7569,7 +7569,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Decision Making, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Best decision: legal, fair, practical and least harmful option. Remember the fixed exam pair: Best decision — legal, fair, practical and least harmful option. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Administrative judgement: follow rules, protect public interest, avoid bias. Remember the fixed exam pair: Administrative judgement — follow rules, protect public interest, avoid bias. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ethical choice: honesty, transparency and responsibility. Remember the fixed exam pair: Ethical choice — honesty, transparency and responsibility. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Emergency priority: safety and immediate harm prevention first. Remember the fixed exam pair: Emergency priority — safety and immediate harm prevention first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Problem solving: identify issue, collect facts, choose feasible action. Remember the fixed exam pair: Problem solving — identify issue, collect facts, choose feasible action. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Student/classroom issue: listen, verify, guide, do not punish blindly. Remember the fixed exam pair: Student/classroom issue — listen, verify, guide, do not punish blindly. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Conflict resolution: hear both sides and use evidence. Remember the fixed exam pair: Conflict resolution — hear both sides and use evidence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Data-based decision: use given data, not emotion. Remember the fixed exam pair: Data-based decision — use given data, not emotion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Avoid extreme option: usually too harsh or too passive. Remember the fixed exam pair: Avoid extreme option — usually too harsh or too passive. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Public service value: fairness, accountability, empathy. Remember the fixed exam pair: Public service value — fairness, accountability, empathy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Decision Making, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Best decision: legal, fair, practical and least harmful option. Fixed association: Best decision — legal, fair, practical and least harmful option. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Administrative judgement: follow rules, protect public interest, avoid bias. Fixed association: Administrative judgement — follow rules, protect public interest, avoid bias. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Ethical choice: honesty, transparency and responsibility. Fixed association: Ethical choice — honesty, transparency and responsibility. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Emergency priority: safety and immediate harm prevention first. Fixed association: Emergency priority — safety and immediate harm prevention first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Problem solving: identify issue, collect facts, choose feasible action. Fixed association: Problem solving — identify issue, collect facts, choose feasible action. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Student/classroom issue: listen, verify, guide, do not punish blindly. Fixed association: Student/classroom issue — listen, verify, guide, do not punish blindly. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Conflict resolution: hear both sides and use evidence. Fixed association: Conflict resolution — hear both sides and use evidence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Data-based decision: use given data, not emotion. Fixed association: Data-based decision — use given data, not emotion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Avoid extreme option: usually too harsh or too passive. Fixed association: Avoid extreme option — usually too harsh or too passive. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Public service value: fairness, accountability, empathy. Fixed association: Public service value — fairness, accountability, empathy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -7651,7 +7651,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -7669,61 +7669,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Best decision",
         "answer": "legal, fair, practical and least harmful option",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Best decision — legal, fair, practical and least harmful option. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Best decision — legal, fair, practical and least harmful option. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Administrative judgement",
         "answer": "follow rules, protect public interest, avoid bias",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Administrative judgement — follow rules, protect public interest, avoid bias. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Administrative judgement — follow rules, protect public interest, avoid bias. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ethical choice",
         "answer": "honesty, transparency and responsibility",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Ethical choice — honesty, transparency and responsibility. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ethical choice — honesty, transparency and responsibility. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Emergency priority",
         "answer": "safety and immediate harm prevention first",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Emergency priority — safety and immediate harm prevention first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Emergency priority — safety and immediate harm prevention first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Problem solving",
         "answer": "identify issue, collect facts, choose feasible action",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Problem solving — identify issue, collect facts, choose feasible action. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Problem solving — identify issue, collect facts, choose feasible action. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Student/classroom issue",
         "answer": "listen, verify, guide, do not punish blindly",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Student/classroom issue — listen, verify, guide, do not punish blindly. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Student/classroom issue — listen, verify, guide, do not punish blindly. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Conflict resolution",
         "answer": "hear both sides and use evidence",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Conflict resolution — hear both sides and use evidence. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Conflict resolution — hear both sides and use evidence. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Data-based decision",
         "answer": "use given data, not emotion",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Data-based decision — use given data, not emotion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Data-based decision — use given data, not emotion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Avoid extreme option",
         "answer": "usually too harsh or too passive",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Avoid extreme option — usually too harsh or too passive. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Avoid extreme option — usually too harsh or too passive. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Public service value",
         "answer": "fairness, accountability, empathy",
         "tag": "decision",
-        "explanation": "Remember the fixed exam pair: Public service value — fairness, accountability, empathy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Public service value — fairness, accountability, empathy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -7762,7 +7762,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Even number: divisible by 2. Remember the fixed exam pair: Even number — divisible by 2. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Divisibility by 3: sum of digits divisible by 3. Remember the fixed exam pair: Divisibility by 3 — sum of digits divisible by 3. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Divisibility by 9: sum of digits divisible by 9. Remember the fixed exam pair: Divisibility by 9 — sum of digits divisible by 9. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Divisibility by 11: difference of alternate digit sums divisible by 11. Remember the fixed exam pair: Divisibility by 11 — difference of alternate digit sums divisible by 11. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Prime number: number with exactly two factors. Remember the fixed exam pair: Prime number — number with exactly two factors. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Composite number: number with more than two factors. Remember the fixed exam pair: Composite number — number with more than two factors. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. HCF: greatest common factor. Remember the fixed exam pair: HCF — greatest common factor. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. LCM: least common multiple. Remember the fixed exam pair: LCM — least common multiple. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. LCM remainder rule: required number = multiple of LCM + common remainder. Remember the fixed exam pair: LCM remainder rule — required number = multiple of LCM + common remainder. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Co-prime: HCF is 1. Remember the fixed exam pair: Co-prime — HCF is 1. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Remainder: leftover after division. Remember the fixed exam pair: Remainder — leftover after division. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. BODMAS: order of operations. Remember the fixed exam pair: BODMAS — order of operations. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Even number: divisible by 2. Fixed association: Even number — divisible by 2. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Divisibility by 3: sum of digits divisible by 3. Fixed association: Divisibility by 3 — sum of digits divisible by 3. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Divisibility by 9: sum of digits divisible by 9. Fixed association: Divisibility by 9 — sum of digits divisible by 9. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Divisibility by 11: difference of alternate digit sums divisible by 11. Fixed association: Divisibility by 11 — difference of alternate digit sums divisible by 11. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Prime number: number with exactly two factors. Fixed association: Prime number — number with exactly two factors. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Composite number: number with more than two factors. Fixed association: Composite number — number with more than two factors. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. HCF: greatest common factor. Fixed association: HCF — greatest common factor. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. LCM: least common multiple. Fixed association: LCM — least common multiple. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. LCM remainder rule: required number = multiple of LCM + common remainder. Fixed association: LCM remainder rule — required number = multiple of LCM + common remainder. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Co-prime: HCF is 1. Fixed association: Co-prime — HCF is 1. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Remainder: leftover after division. Fixed association: Remainder — leftover after division. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. BODMAS: order of operations. Fixed association: BODMAS — order of operations. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -7854,7 +7854,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -7872,73 +7872,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Even number",
         "answer": "divisible by 2",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Even number — divisible by 2. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Even number — divisible by 2. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Divisibility by 3",
         "answer": "sum of digits divisible by 3",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Divisibility by 3 — sum of digits divisible by 3. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Divisibility by 3 — sum of digits divisible by 3. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Divisibility by 9",
         "answer": "sum of digits divisible by 9",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Divisibility by 9 — sum of digits divisible by 9. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Divisibility by 9 — sum of digits divisible by 9. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Divisibility by 11",
         "answer": "difference of alternate digit sums divisible by 11",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Divisibility by 11 — difference of alternate digit sums divisible by 11. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Divisibility by 11 — difference of alternate digit sums divisible by 11. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Prime number",
         "answer": "number with exactly two factors",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Prime number — number with exactly two factors. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Prime number — number with exactly two factors. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Composite number",
         "answer": "number with more than two factors",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Composite number — number with more than two factors. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Composite number — number with more than two factors. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "HCF",
         "answer": "greatest common factor",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: HCF — greatest common factor. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: HCF — greatest common factor. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "LCM",
         "answer": "least common multiple",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: LCM — least common multiple. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: LCM — least common multiple. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "LCM remainder rule",
         "answer": "required number = multiple of LCM + common remainder",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: LCM remainder rule — required number = multiple of LCM + common remainder. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: LCM remainder rule — required number = multiple of LCM + common remainder. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Co-prime",
         "answer": "HCF is 1",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Co-prime — HCF is 1. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Co-prime — HCF is 1. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Remainder",
         "answer": "leftover after division",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: Remainder — leftover after division. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Remainder — leftover after division. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "BODMAS",
         "answer": "order of operations",
         "tag": "math",
-        "explanation": "Remember the fixed exam pair: BODMAS — order of operations. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: BODMAS — order of operations. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -7976,7 +7976,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Percentage: per hundred comparison. Remember the fixed exam pair: Percentage — per hundred comparison. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Percentage change: change/original × 100. Remember the fixed exam pair: Percentage change — change/original × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Successive change: a + b + ab/100. Remember the fixed exam pair: Successive change — a + b + ab/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Ratio: comparison by division. Remember the fixed exam pair: Ratio — comparison by division. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Proportion: equality of ratios. Remember the fixed exam pair: Proportion — equality of ratios. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Average: sum of observations / number of observations. Remember the fixed exam pair: Average — sum of observations / number of observations. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Combined average: use total values, not average of averages blindly. Remember the fixed exam pair: Combined average — use total values, not average of averages blindly. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Increase by x percent: multiply by (100+x)/100. Remember the fixed exam pair: Increase by x percent — multiply by (100+x)/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Decrease by x percent: multiply by (100-x)/100. Remember the fixed exam pair: Decrease by x percent — multiply by (100-x)/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Fraction-percent memory: 1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%. Remember the fixed exam pair: Fraction-percent memory — 1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Mean trap: extreme values affect average. Remember the fixed exam pair: Mean trap — extreme values affect average. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Percentage: per hundred comparison. Fixed association: Percentage — per hundred comparison. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Percentage change: change/original × 100. Fixed association: Percentage change — change/original × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Successive change: a + b + ab/100. Fixed association: Successive change — a + b + ab/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Ratio: comparison by division. Fixed association: Ratio — comparison by division. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Proportion: equality of ratios. Fixed association: Proportion — equality of ratios. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Average: sum of observations / number of observations. Fixed association: Average — sum of observations / number of observations. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Combined average: use total values, not average of averages blindly. Fixed association: Combined average — use total values, not average of averages blindly. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Increase by x percent: multiply by (100+x)/100. Fixed association: Increase by x percent — multiply by (100+x)/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Decrease by x percent: multiply by (100-x)/100. Fixed association: Decrease by x percent — multiply by (100-x)/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Fraction-percent memory: 1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%. Fixed association: Fraction-percent memory — 1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Mean trap: extreme values affect average. Fixed association: Mean trap — extreme values affect average. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -8063,7 +8063,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -8081,67 +8081,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Percentage",
         "answer": "per hundred comparison",
         "tag": "percentage",
-        "explanation": "Remember the fixed exam pair: Percentage — per hundred comparison. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Percentage — per hundred comparison. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Percentage change",
         "answer": "change/original × 100",
         "tag": "percentage",
-        "explanation": "Remember the fixed exam pair: Percentage change — change/original × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Percentage change — change/original × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Successive change",
         "answer": "a + b + ab/100",
         "tag": "percentage",
-        "explanation": "Remember the fixed exam pair: Successive change — a + b + ab/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Successive change — a + b + ab/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ratio",
         "answer": "comparison by division",
         "tag": "ratio",
-        "explanation": "Remember the fixed exam pair: Ratio — comparison by division. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ratio — comparison by division. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Proportion",
         "answer": "equality of ratios",
         "tag": "ratio",
-        "explanation": "Remember the fixed exam pair: Proportion — equality of ratios. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Proportion — equality of ratios. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Average",
         "answer": "sum of observations / number of observations",
         "tag": "average",
-        "explanation": "Remember the fixed exam pair: Average — sum of observations / number of observations. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Average — sum of observations / number of observations. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Combined average",
         "answer": "use total values, not average of averages blindly",
         "tag": "average",
-        "explanation": "Remember the fixed exam pair: Combined average — use total values, not average of averages blindly. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Combined average — use total values, not average of averages blindly. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Increase by x percent",
         "answer": "multiply by (100+x)/100",
         "tag": "percentage",
-        "explanation": "Remember the fixed exam pair: Increase by x percent — multiply by (100+x)/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Increase by x percent — multiply by (100+x)/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Decrease by x percent",
         "answer": "multiply by (100-x)/100",
         "tag": "percentage",
-        "explanation": "Remember the fixed exam pair: Decrease by x percent — multiply by (100-x)/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Decrease by x percent — multiply by (100-x)/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Fraction-percent memory",
         "answer": "1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%",
         "tag": "percentage",
-        "explanation": "Remember the fixed exam pair: Fraction-percent memory — 1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Fraction-percent memory — 1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mean trap",
         "answer": "extreme values affect average",
         "tag": "average",
-        "explanation": "Remember the fixed exam pair: Mean trap — extreme values affect average. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mean trap — extreme values affect average. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -8180,7 +8180,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Profit: SP - CP when SP is higher. Remember the fixed exam pair: Profit — SP - CP when SP is higher. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Loss: CP - SP when CP is higher. Remember the fixed exam pair: Loss — CP - SP when CP is higher. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Profit percent: profit/CP × 100. Remember the fixed exam pair: Profit percent — profit/CP × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Loss percent: loss/CP × 100. Remember the fixed exam pair: Loss percent — loss/CP × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Discount: MP - SP. Remember the fixed exam pair: Discount — MP - SP. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Discount percent: discount/MP × 100. Remember the fixed exam pair: Discount percent — discount/MP × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Simple Interest: SI = PRT/100. Remember the fixed exam pair: Simple Interest — SI = PRT/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Amount in SI: Principal + SI. Remember the fixed exam pair: Amount in SI — Principal + SI. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Compound Interest amount: P(1+r/100)^n for annual compounding. Remember the fixed exam pair: Compound Interest amount — P(1+r/100)^n for annual compounding. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. CI: compound amount - principal. Remember the fixed exam pair: CI — compound amount - principal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Marked price: price before discount. Remember the fixed exam pair: Marked price — price before discount. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Selling price: actual sale price. Remember the fixed exam pair: Selling price — actual sale price. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Profit: SP - CP when SP is higher. Fixed association: Profit — SP - CP when SP is higher. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Loss: CP - SP when CP is higher. Fixed association: Loss — CP - SP when CP is higher. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Profit percent: profit/CP × 100. Fixed association: Profit percent — profit/CP × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Loss percent: loss/CP × 100. Fixed association: Loss percent — loss/CP × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Discount: MP - SP. Fixed association: Discount — MP - SP. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Discount percent: discount/MP × 100. Fixed association: Discount percent — discount/MP × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Simple Interest: SI = PRT/100. Fixed association: Simple Interest — SI = PRT/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Amount in SI: Principal + SI. Fixed association: Amount in SI — Principal + SI. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Compound Interest amount: P(1+r/100)^n for annual compounding. Fixed association: Compound Interest amount — P(1+r/100)^n for annual compounding. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. CI: compound amount - principal. Fixed association: CI — compound amount - principal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Marked price: price before discount. Fixed association: Marked price — price before discount. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Selling price: actual sale price. Fixed association: Selling price — actual sale price. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -8272,7 +8272,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -8290,73 +8290,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Profit",
         "answer": "SP - CP when SP is higher",
         "tag": "profit",
-        "explanation": "Remember the fixed exam pair: Profit — SP - CP when SP is higher. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Profit — SP - CP when SP is higher. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Loss",
         "answer": "CP - SP when CP is higher",
         "tag": "profit",
-        "explanation": "Remember the fixed exam pair: Loss — CP - SP when CP is higher. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Loss — CP - SP when CP is higher. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Profit percent",
         "answer": "profit/CP × 100",
         "tag": "profit",
-        "explanation": "Remember the fixed exam pair: Profit percent — profit/CP × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Profit percent — profit/CP × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Loss percent",
         "answer": "loss/CP × 100",
         "tag": "profit",
-        "explanation": "Remember the fixed exam pair: Loss percent — loss/CP × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Loss percent — loss/CP × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Discount",
         "answer": "MP - SP",
         "tag": "discount",
-        "explanation": "Remember the fixed exam pair: Discount — MP - SP. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Discount — MP - SP. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Discount percent",
         "answer": "discount/MP × 100",
         "tag": "discount",
-        "explanation": "Remember the fixed exam pair: Discount percent — discount/MP × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Discount percent — discount/MP × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Simple Interest",
         "answer": "SI = PRT/100",
         "tag": "interest",
-        "explanation": "Remember the fixed exam pair: Simple Interest — SI = PRT/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Simple Interest — SI = PRT/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Amount in SI",
         "answer": "Principal + SI",
         "tag": "interest",
-        "explanation": "Remember the fixed exam pair: Amount in SI — Principal + SI. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Amount in SI — Principal + SI. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Compound Interest amount",
         "answer": "P(1+r/100)^n for annual compounding",
         "tag": "interest",
-        "explanation": "Remember the fixed exam pair: Compound Interest amount — P(1+r/100)^n for annual compounding. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Compound Interest amount — P(1+r/100)^n for annual compounding. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "CI",
         "answer": "compound amount - principal",
         "tag": "interest",
-        "explanation": "Remember the fixed exam pair: CI — compound amount - principal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: CI — compound amount - principal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Marked price",
         "answer": "price before discount",
         "tag": "discount",
-        "explanation": "Remember the fixed exam pair: Marked price — price before discount. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Marked price — price before discount. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Selling price",
         "answer": "actual sale price",
         "tag": "profit",
-        "explanation": "Remember the fixed exam pair: Selling price — actual sale price. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Selling price — actual sale price. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -8394,7 +8394,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Work efficiency: work done per unit time. Remember the fixed exam pair: Work efficiency — work done per unit time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Combined work: add efficiencies. Remember the fixed exam pair: Combined work — add efficiencies. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. If A takes x days: A’s one-day work = 1/x. Remember the fixed exam pair: If A takes x days — A’s one-day work = 1/x. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Speed: distance/time. Remember the fixed exam pair: Speed — distance/time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Distance: speed × time. Remember the fixed exam pair: Distance — speed × time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Time: distance/speed. Remember the fixed exam pair: Time — distance/speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Average speed equal distances: 2xy/(x+y). Remember the fixed exam pair: Average speed equal distances — 2xy/(x+y). In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Relative speed opposite direction: sum of speeds. Remember the fixed exam pair: Relative speed opposite direction — sum of speeds. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Relative speed same direction: difference of speeds. Remember the fixed exam pair: Relative speed same direction — difference of speeds. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Age problems: make equations from present/past/future ages. Remember the fixed exam pair: Age problems — make equations from present/past/future ages. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Father-son age trap: difference in ages remains constant. Remember the fixed exam pair: Father-son age trap — difference in ages remains constant. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Work efficiency: work done per unit time. Fixed association: Work efficiency — work done per unit time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Combined work: add efficiencies. Fixed association: Combined work — add efficiencies. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. If A takes x days: A’s one-day work = 1/x. Fixed association: If A takes x days — A’s one-day work = 1/x. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Speed: distance/time. Fixed association: Speed — distance/time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Distance: speed × time. Fixed association: Distance — speed × time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Time: distance/speed. Fixed association: Time — distance/speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Average speed equal distances: 2xy/(x+y). Fixed association: Average speed equal distances — 2xy/(x+y). In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Relative speed opposite direction: sum of speeds. Fixed association: Relative speed opposite direction — sum of speeds. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Relative speed same direction: difference of speeds. Fixed association: Relative speed same direction — difference of speeds. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Age problems: make equations from present/past/future ages. Fixed association: Age problems — make equations from present/past/future ages. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Father-son age trap: difference in ages remains constant. Fixed association: Father-son age trap — difference in ages remains constant. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -8481,7 +8481,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -8499,67 +8499,67 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Work efficiency",
         "answer": "work done per unit time",
         "tag": "work",
-        "explanation": "Remember the fixed exam pair: Work efficiency — work done per unit time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Work efficiency — work done per unit time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Combined work",
         "answer": "add efficiencies",
         "tag": "work",
-        "explanation": "Remember the fixed exam pair: Combined work — add efficiencies. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Combined work — add efficiencies. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "If A takes x days",
         "answer": "A’s one-day work = 1/x",
         "tag": "work",
-        "explanation": "Remember the fixed exam pair: If A takes x days — A’s one-day work = 1/x. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: If A takes x days — A’s one-day work = 1/x. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Speed",
         "answer": "distance/time",
         "tag": "speed",
-        "explanation": "Remember the fixed exam pair: Speed — distance/time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Speed — distance/time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Distance",
         "answer": "speed × time",
         "tag": "speed",
-        "explanation": "Remember the fixed exam pair: Distance — speed × time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Distance — speed × time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Time",
         "answer": "distance/speed",
         "tag": "speed",
-        "explanation": "Remember the fixed exam pair: Time — distance/speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Time — distance/speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Average speed equal distances",
         "answer": "2xy/(x+y)",
         "tag": "speed",
-        "explanation": "Remember the fixed exam pair: Average speed equal distances — 2xy/(x+y). In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Average speed equal distances — 2xy/(x+y). In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Relative speed opposite direction",
         "answer": "sum of speeds",
         "tag": "speed",
-        "explanation": "Remember the fixed exam pair: Relative speed opposite direction — sum of speeds. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Relative speed opposite direction — sum of speeds. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Relative speed same direction",
         "answer": "difference of speeds",
         "tag": "speed",
-        "explanation": "Remember the fixed exam pair: Relative speed same direction — difference of speeds. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Relative speed same direction — difference of speeds. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Age problems",
         "answer": "make equations from present/past/future ages",
         "tag": "age",
-        "explanation": "Remember the fixed exam pair: Age problems — make equations from present/past/future ages. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Age problems — make equations from present/past/future ages. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Father-son age trap",
         "answer": "difference in ages remains constant",
         "tag": "age",
-        "explanation": "Remember the fixed exam pair: Father-son age trap — difference in ages remains constant. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Father-son age trap — difference in ages remains constant. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -8598,7 +8598,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Linear equation: equation of first degree. Remember the fixed exam pair: Linear equation — equation of first degree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Quadratic equation: equation of second degree. Remember the fixed exam pair: Quadratic equation — equation of second degree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Equal roots condition: b² - 4ac = 0. Remember the fixed exam pair: Equal roots condition — b² - 4ac = 0. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. AP nth term: a + (n-1)d. Remember the fixed exam pair: AP nth term — a + (n-1)d. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Square area: side². Remember the fixed exam pair: Square area — side². In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Rectangle area: length × breadth. Remember the fixed exam pair: Rectangle area — length × breadth. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Triangle area: 1/2 × base × height. Remember the fixed exam pair: Triangle area — 1/2 × base × height. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Circle area: πr². Remember the fixed exam pair: Circle area — πr². In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Circumference: 2πr. Remember the fixed exam pair: Circumference — 2πr. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Cube volume: side³. Remember the fixed exam pair: Cube volume — side³. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Cuboid volume: length × breadth × height. Remember the fixed exam pair: Cuboid volume — length × breadth × height. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Perimeter: total boundary length. Remember the fixed exam pair: Perimeter — total boundary length. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Linear equation: equation of first degree. Fixed association: Linear equation — equation of first degree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Quadratic equation: equation of second degree. Fixed association: Quadratic equation — equation of second degree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Equal roots condition: b² - 4ac = 0. Fixed association: Equal roots condition — b² - 4ac = 0. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. AP nth term: a + (n-1)d. Fixed association: AP nth term — a + (n-1)d. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Square area: side². Fixed association: Square area — side². In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Rectangle area: length × breadth. Fixed association: Rectangle area — length × breadth. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Triangle area: 1/2 × base × height. Fixed association: Triangle area — 1/2 × base × height. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Circle area: πr². Fixed association: Circle area — πr². In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Circumference: 2πr. Fixed association: Circumference — 2πr. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Cube volume: side³. Fixed association: Cube volume — side³. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Cuboid volume: length × breadth × height. Fixed association: Cuboid volume — length × breadth × height. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Perimeter: total boundary length. Fixed association: Perimeter — total boundary length. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -8690,7 +8690,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -8708,73 +8708,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Linear equation",
         "answer": "equation of first degree",
         "tag": "algebra",
-        "explanation": "Remember the fixed exam pair: Linear equation — equation of first degree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Linear equation — equation of first degree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Quadratic equation",
         "answer": "equation of second degree",
         "tag": "algebra",
-        "explanation": "Remember the fixed exam pair: Quadratic equation — equation of second degree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Quadratic equation — equation of second degree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Equal roots condition",
         "answer": "b² - 4ac = 0",
         "tag": "algebra",
-        "explanation": "Remember the fixed exam pair: Equal roots condition — b² - 4ac = 0. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Equal roots condition — b² - 4ac = 0. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "AP nth term",
         "answer": "a + (n-1)d",
         "tag": "algebra",
-        "explanation": "Remember the fixed exam pair: AP nth term — a + (n-1)d. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: AP nth term — a + (n-1)d. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Square area",
         "answer": "side²",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Square area — side². In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Square area — side². In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rectangle area",
         "answer": "length × breadth",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Rectangle area — length × breadth. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rectangle area — length × breadth. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Triangle area",
         "answer": "1/2 × base × height",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Triangle area — 1/2 × base × height. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Triangle area — 1/2 × base × height. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Circle area",
         "answer": "πr²",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Circle area — πr². In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Circle area — πr². In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Circumference",
         "answer": "2πr",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Circumference — 2πr. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Circumference — 2πr. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Cube volume",
         "answer": "side³",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Cube volume — side³. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Cube volume — side³. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Cuboid volume",
         "answer": "length × breadth × height",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Cuboid volume — length × breadth × height. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Cuboid volume — length × breadth × height. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Perimeter",
         "answer": "total boundary length",
         "tag": "mensuration",
-        "explanation": "Remember the fixed exam pair: Perimeter — total boundary length. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Perimeter — total boundary length. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -8811,7 +8811,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. BODMAS: Bracket, Order, Division, Multiplication, Addition, Subtraction. Remember the fixed exam pair: BODMAS — Bracket, Order, Division, Multiplication, Addition, Subtraction. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Square root: number which when multiplied by itself gives original number. Remember the fixed exam pair: Square root — number which when multiplied by itself gives original number. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Cube root: number which when cubed gives original number. Remember the fixed exam pair: Cube root — number which when cubed gives original number. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Surd: irrational root expression. Remember the fixed exam pair: Surd — irrational root expression. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rationalisation: removing radical from denominator. Remember the fixed exam pair: Rationalisation — removing radical from denominator. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Approximation: round values to calculate quickly. Remember the fixed exam pair: Approximation — round values to calculate quickly. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Square numbers: 1² to 30² useful for speed. Remember the fixed exam pair: Square numbers — 1² to 30² useful for speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Cube numbers: 1³ to 15³ useful for speed. Remember the fixed exam pair: Cube numbers — 1³ to 15³ useful for speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Nested radical: solve from inside or recognise pattern. Remember the fixed exam pair: Nested radical — solve from inside or recognise pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Fraction simplification: cancel common factors first. Remember the fixed exam pair: Fraction simplification — cancel common factors first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Basic Numeracy, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. BODMAS: Bracket, Order, Division, Multiplication, Addition, Subtraction. Fixed association: BODMAS — Bracket, Order, Division, Multiplication, Addition, Subtraction. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Square root: number which when multiplied by itself gives original number. Fixed association: Square root — number which when multiplied by itself gives original number. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Cube root: number which when cubed gives original number. Fixed association: Cube root — number which when cubed gives original number. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Surd: irrational root expression. Fixed association: Surd — irrational root expression. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Rationalisation: removing radical from denominator. Fixed association: Rationalisation — removing radical from denominator. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Approximation: round values to calculate quickly. Fixed association: Approximation — round values to calculate quickly. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Square numbers: 1² to 30² useful for speed. Fixed association: Square numbers — 1² to 30² useful for speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Cube numbers: 1³ to 15³ useful for speed. Fixed association: Cube numbers — 1³ to 15³ useful for speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Nested radical: solve from inside or recognise pattern. Fixed association: Nested radical — solve from inside or recognise pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Fraction simplification: cancel common factors first. Fixed association: Fraction simplification — cancel common factors first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -8893,7 +8893,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -8911,61 +8911,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "BODMAS",
         "answer": "Bracket, Order, Division, Multiplication, Addition, Subtraction",
         "tag": "simplification",
-        "explanation": "Remember the fixed exam pair: BODMAS — Bracket, Order, Division, Multiplication, Addition, Subtraction. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: BODMAS — Bracket, Order, Division, Multiplication, Addition, Subtraction. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Square root",
         "answer": "number which when multiplied by itself gives original number",
         "tag": "surds",
-        "explanation": "Remember the fixed exam pair: Square root — number which when multiplied by itself gives original number. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Square root — number which when multiplied by itself gives original number. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Cube root",
         "answer": "number which when cubed gives original number",
         "tag": "surds",
-        "explanation": "Remember the fixed exam pair: Cube root — number which when cubed gives original number. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Cube root — number which when cubed gives original number. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Surd",
         "answer": "irrational root expression",
         "tag": "surds",
-        "explanation": "Remember the fixed exam pair: Surd — irrational root expression. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Surd — irrational root expression. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rationalisation",
         "answer": "removing radical from denominator",
         "tag": "surds",
-        "explanation": "Remember the fixed exam pair: Rationalisation — removing radical from denominator. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rationalisation — removing radical from denominator. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Approximation",
         "answer": "round values to calculate quickly",
         "tag": "simplification",
-        "explanation": "Remember the fixed exam pair: Approximation — round values to calculate quickly. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Approximation — round values to calculate quickly. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Square numbers",
         "answer": "1² to 30² useful for speed",
         "tag": "simplification",
-        "explanation": "Remember the fixed exam pair: Square numbers — 1² to 30² useful for speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Square numbers — 1² to 30² useful for speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Cube numbers",
         "answer": "1³ to 15³ useful for speed",
         "tag": "simplification",
-        "explanation": "Remember the fixed exam pair: Cube numbers — 1³ to 15³ useful for speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Cube numbers — 1³ to 15³ useful for speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Nested radical",
         "answer": "solve from inside or recognise pattern",
         "tag": "surds",
-        "explanation": "Remember the fixed exam pair: Nested radical — solve from inside or recognise pattern. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Nested radical — solve from inside or recognise pattern. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Fraction simplification",
         "answer": "cancel common factors first",
         "tag": "simplification",
-        "explanation": "Remember the fixed exam pair: Fraction simplification — cancel common factors first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Fraction simplification — cancel common factors first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -9004,7 +9004,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Data Interpretation, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Table DI: read rows, columns, totals and units first. Remember the fixed exam pair: Table DI — read rows, columns, totals and units first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Bar chart: compare heights and values. Remember the fixed exam pair: Bar chart — compare heights and values. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Line chart: study trend over time. Remember the fixed exam pair: Line chart — study trend over time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Pie chart: convert percentage to central angle or value. Remember the fixed exam pair: Pie chart — convert percentage to central angle or value. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Central angle: percentage × 360/100. Remember the fixed exam pair: Central angle — percentage × 360/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Percentage share: part/total × 100. Remember the fixed exam pair: Percentage share — part/total × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Percentage increase: increase/original × 100. Remember the fixed exam pair: Percentage increase — increase/original × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Ratio in DI: simplify two quantities. Remember the fixed exam pair: Ratio in DI — simplify two quantities. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Average in DI: total/number. Remember the fixed exam pair: Average in DI — total/number. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Difference: larger value - smaller value. Remember the fixed exam pair: Difference — larger value - smaller value. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Unit trap: check lakh, thousand, percent before calculation. Remember the fixed exam pair: Unit trap — check lakh, thousand, percent before calculation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Mixed chart: combine table with chart carefully. Remember the fixed exam pair: Mixed chart — combine table with chart carefully. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Data Interpretation, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Table DI: read rows, columns, totals and units first. Fixed association: Table DI — read rows, columns, totals and units first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Bar chart: compare heights and values. Fixed association: Bar chart — compare heights and values. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Line chart: study trend over time. Fixed association: Line chart — study trend over time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Pie chart: convert percentage to central angle or value. Fixed association: Pie chart — convert percentage to central angle or value. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Central angle: percentage × 360/100. Fixed association: Central angle — percentage × 360/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Percentage share: part/total × 100. Fixed association: Percentage share — part/total × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Percentage increase: increase/original × 100. Fixed association: Percentage increase — increase/original × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Ratio in DI: simplify two quantities. Fixed association: Ratio in DI — simplify two quantities. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Average in DI: total/number. Fixed association: Average in DI — total/number. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Difference: larger value - smaller value. Fixed association: Difference — larger value - smaller value. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n11. Unit trap: check lakh, thousand, percent before calculation. Fixed association: Unit trap — check lakh, thousand, percent before calculation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n12. Mixed chart: combine table with chart carefully. Fixed association: Mixed chart — combine table with chart carefully. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -9096,7 +9096,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -9114,73 +9114,73 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Table DI",
         "answer": "read rows, columns, totals and units first",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Table DI — read rows, columns, totals and units first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Table DI — read rows, columns, totals and units first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bar chart",
         "answer": "compare heights and values",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Bar chart — compare heights and values. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bar chart — compare heights and values. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Line chart",
         "answer": "study trend over time",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Line chart — study trend over time. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Line chart — study trend over time. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pie chart",
         "answer": "convert percentage to central angle or value",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Pie chart — convert percentage to central angle or value. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pie chart — convert percentage to central angle or value. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Central angle",
         "answer": "percentage × 360/100",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Central angle — percentage × 360/100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Central angle — percentage × 360/100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Percentage share",
         "answer": "part/total × 100",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Percentage share — part/total × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Percentage share — part/total × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Percentage increase",
         "answer": "increase/original × 100",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Percentage increase — increase/original × 100. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Percentage increase — increase/original × 100. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ratio in DI",
         "answer": "simplify two quantities",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Ratio in DI — simplify two quantities. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ratio in DI — simplify two quantities. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Average in DI",
         "answer": "total/number",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Average in DI — total/number. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Average in DI — total/number. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Difference",
         "answer": "larger value - smaller value",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Difference — larger value - smaller value. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Difference — larger value - smaller value. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Unit trap",
         "answer": "check lakh, thousand, percent before calculation",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Unit trap — check lakh, thousand, percent before calculation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Unit trap — check lakh, thousand, percent before calculation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mixed chart",
         "answer": "combine table with chart carefully",
         "tag": "di",
-        "explanation": "Remember the fixed exam pair: Mixed chart — combine table with chart carefully. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mixed chart — combine table with chart carefully. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -9217,7 +9217,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Data Interpretation, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Data sufficiency: decide whether statements give enough information. Remember the fixed exam pair: Data sufficiency — decide whether statements give enough information. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Statement I alone: test independently. Remember the fixed exam pair: Statement I alone — test independently. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Statement II alone: test independently. Remember the fixed exam pair: Statement II alone — test independently. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Both together: use when neither alone is enough. Remember the fixed exam pair: Both together — use when neither alone is enough. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Either statement: both statements alone can answer. Remember the fixed exam pair: Either statement — both statements alone can answer. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Neither sufficient: even combined data is not enough. Remember the fixed exam pair: Neither sufficient — even combined data is not enough. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Analytical ability: logical use of given facts. Remember the fixed exam pair: Analytical ability — logical use of given facts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Do not assume: outside facts are not allowed. Remember the fixed exam pair: Do not assume — outside facts are not allowed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Check exact question: answer may ask value, relation or yes/no. Remember the fixed exam pair: Check exact question — answer may ask value, relation or yes/no. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Sufficient vs necessary: do not confuse required information with extra information. Remember the fixed exam pair: Sufficient vs necessary — do not confuse required information with extra information. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Data Interpretation, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Data sufficiency: decide whether statements give enough information. Fixed association: Data sufficiency — decide whether statements give enough information. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Statement I alone: test independently. Fixed association: Statement I alone — test independently. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Statement II alone: test independently. Fixed association: Statement II alone — test independently. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Both together: use when neither alone is enough. Fixed association: Both together — use when neither alone is enough. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Either statement: both statements alone can answer. Fixed association: Either statement — both statements alone can answer. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Neither sufficient: even combined data is not enough. Fixed association: Neither sufficient — even combined data is not enough. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Analytical ability: logical use of given facts. Fixed association: Analytical ability — logical use of given facts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Do not assume: outside facts are not allowed. Fixed association: Do not assume — outside facts are not allowed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Check exact question: answer may ask value, relation or yes/no. Fixed association: Check exact question — answer may ask value, relation or yes/no. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Sufficient vs necessary: do not confuse required information with extra information. Fixed association: Sufficient vs necessary — do not confuse required information with extra information. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -9299,7 +9299,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -9317,61 +9317,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Data sufficiency",
         "answer": "decide whether statements give enough information",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Data sufficiency — decide whether statements give enough information. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Data sufficiency — decide whether statements give enough information. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Statement I alone",
         "answer": "test independently",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Statement I alone — test independently. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Statement I alone — test independently. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Statement II alone",
         "answer": "test independently",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Statement II alone — test independently. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Statement II alone — test independently. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Both together",
         "answer": "use when neither alone is enough",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Both together — use when neither alone is enough. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Both together — use when neither alone is enough. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Either statement",
         "answer": "both statements alone can answer",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Either statement — both statements alone can answer. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Either statement — both statements alone can answer. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Neither sufficient",
         "answer": "even combined data is not enough",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Neither sufficient — even combined data is not enough. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Neither sufficient — even combined data is not enough. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Analytical ability",
         "answer": "logical use of given facts",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Analytical ability — logical use of given facts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Analytical ability — logical use of given facts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Do not assume",
         "answer": "outside facts are not allowed",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Do not assume — outside facts are not allowed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Do not assume — outside facts are not allowed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Check exact question",
         "answer": "answer may ask value, relation or yes/no",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Check exact question — answer may ask value, relation or yes/no. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Check exact question — answer may ask value, relation or yes/no. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sufficient vs necessary",
         "answer": "do not confuse required information with extra information",
         "tag": "sufficiency",
-        "explanation": "Remember the fixed exam pair: Sufficient vs necessary — do not confuse required information with extra information. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sufficient vs necessary — do not confuse required information with extra information. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -9408,7 +9408,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Art and Culture revision: dance, painting, craft, fair, deity, institution tables. Remember the fixed exam pair: Art and Culture revision — dance, painting, craft, fair, deity, institution tables. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. History revision: site, ruler, battle, movement, saint, literature tables. Remember the fixed exam pair: History revision — site, ruler, battle, movement, saint, literature tables. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Geography revision: river, lake, mine, soil, climate, wildlife and census tables. Remember the fixed exam pair: Geography revision — river, lake, mine, soil, climate, wildlife and census tables. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Correct pair habit: read both sides of pair before choosing. Remember the fixed exam pair: Correct pair habit — read both sides of pair before choosing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Incorrect pair habit: search for one wrong association, not three right ones. Remember the fixed exam pair: Incorrect pair habit — search for one wrong association, not three right ones. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Chronology habit: make battle/movement timelines. Remember the fixed exam pair: Chronology habit — make battle/movement timelines. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. District trap: similar nearby districts are common wrong options. Remember the fixed exam pair: District trap — similar nearby districts are common wrong options. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Community trap: folk dance/deity/community mix-ups. Remember the fixed exam pair: Community trap — folk dance/deity/community mix-ups. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Exam memory: table > paragraph for revision. Remember the fixed exam pair: Exam memory — table > paragraph for revision. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Final GK target: 85%+ accuracy in direct facts. Remember the fixed exam pair: Final GK target — 85%+ accuracy in direct facts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Art and Culture revision: dance, painting, craft, fair, deity, institution tables. Fixed association: Art and Culture revision — dance, painting, craft, fair, deity, institution tables. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. History revision: site, ruler, battle, movement, saint, literature tables. Fixed association: History revision — site, ruler, battle, movement, saint, literature tables. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Geography revision: river, lake, mine, soil, climate, wildlife and census tables. Fixed association: Geography revision — river, lake, mine, soil, climate, wildlife and census tables. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Correct pair habit: read both sides of pair before choosing. Fixed association: Correct pair habit — read both sides of pair before choosing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Incorrect pair habit: search for one wrong association, not three right ones. Fixed association: Incorrect pair habit — search for one wrong association, not three right ones. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Chronology habit: make battle/movement timelines. Fixed association: Chronology habit — make battle/movement timelines. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. District trap: similar nearby districts are common wrong options. Fixed association: District trap — similar nearby districts are common wrong options. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Community trap: folk dance/deity/community mix-ups. Fixed association: Community trap — folk dance/deity/community mix-ups. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Exam memory: table > paragraph for revision. Fixed association: Exam memory — table > paragraph for revision. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Final GK target: 85%+ accuracy in direct facts. Fixed association: Final GK target — 85%+ accuracy in direct facts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -9490,7 +9490,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -9508,61 +9508,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Art and Culture revision",
         "answer": "dance, painting, craft, fair, deity, institution tables",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Art and Culture revision — dance, painting, craft, fair, deity, institution tables. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Art and Culture revision — dance, painting, craft, fair, deity, institution tables. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "History revision",
         "answer": "site, ruler, battle, movement, saint, literature tables",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: History revision — site, ruler, battle, movement, saint, literature tables. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: History revision — site, ruler, battle, movement, saint, literature tables. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Geography revision",
         "answer": "river, lake, mine, soil, climate, wildlife and census tables",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Geography revision — river, lake, mine, soil, climate, wildlife and census tables. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Geography revision — river, lake, mine, soil, climate, wildlife and census tables. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Correct pair habit",
         "answer": "read both sides of pair before choosing",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Correct pair habit — read both sides of pair before choosing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Correct pair habit — read both sides of pair before choosing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Incorrect pair habit",
         "answer": "search for one wrong association, not three right ones",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Incorrect pair habit — search for one wrong association, not three right ones. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Incorrect pair habit — search for one wrong association, not three right ones. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Chronology habit",
         "answer": "make battle/movement timelines",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Chronology habit — make battle/movement timelines. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Chronology habit — make battle/movement timelines. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "District trap",
         "answer": "similar nearby districts are common wrong options",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: District trap — similar nearby districts are common wrong options. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: District trap — similar nearby districts are common wrong options. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Community trap",
         "answer": "folk dance/deity/community mix-ups",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Community trap — folk dance/deity/community mix-ups. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Community trap — folk dance/deity/community mix-ups. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Exam memory",
         "answer": "table > paragraph for revision",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Exam memory — table > paragraph for revision. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Exam memory — table > paragraph for revision. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Final GK target",
         "answer": "85%+ accuracy in direct facts",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Final GK target — 85%+ accuracy in direct facts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Final GK target — 85%+ accuracy in direct facts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -9599,7 +9599,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Science revision: vitamins, hormones, diseases, physics formulas, chemistry one-liners. Remember the fixed exam pair: Science revision — vitamins, hormones, diseases, physics formulas, chemistry one-liners. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. CA revision: monthly Rajasthan schemes, awards, appointments, institutes, rankings. Remember the fixed exam pair: CA revision — monthly Rajasthan schemes, awards, appointments, institutes, rankings. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Digital revision: Digital India, DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. Remember the fixed exam pair: Digital revision — Digital India, DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Disease-agent table: disease and pathogen/deficiency. Remember the fixed exam pair: Disease-agent table — disease and pathogen/deficiency. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Formula sheet: speed, force, Ohm law, pH basics, percentage. Remember the fixed exam pair: Formula sheet — speed, force, Ohm law, pH basics, percentage. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Scheme table: scheme-department-beneficiary-date. Remember the fixed exam pair: Scheme table — scheme-department-beneficiary-date. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Award table: award-winner-field-year. Remember the fixed exam pair: Award table — award-winner-field-year. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Sports table: player-sport-event-medal. Remember the fixed exam pair: Sports table — player-sport-event-medal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Budget table: announcement-sector-target group. Remember the fixed exam pair: Budget table — announcement-sector-target group. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Last update rule: revise latest CA again one week before exam. Remember the fixed exam pair: Last update rule — revise latest CA again one week before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Science revision: vitamins, hormones, diseases, physics formulas, chemistry one-liners. Fixed association: Science revision — vitamins, hormones, diseases, physics formulas, chemistry one-liners. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. CA revision: monthly Rajasthan schemes, awards, appointments, institutes, rankings. Fixed association: CA revision — monthly Rajasthan schemes, awards, appointments, institutes, rankings. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Digital revision: Digital India, DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. Fixed association: Digital revision — Digital India, DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Disease-agent table: disease and pathogen/deficiency. Fixed association: Disease-agent table — disease and pathogen/deficiency. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Formula sheet: speed, force, Ohm law, pH basics, percentage. Fixed association: Formula sheet — speed, force, Ohm law, pH basics, percentage. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Scheme table: scheme-department-beneficiary-date. Fixed association: Scheme table — scheme-department-beneficiary-date. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Award table: award-winner-field-year. Fixed association: Award table — award-winner-field-year. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Sports table: player-sport-event-medal. Fixed association: Sports table — player-sport-event-medal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Budget table: announcement-sector-target group. Fixed association: Budget table — announcement-sector-target group. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Last update rule: revise latest CA again one week before exam. Fixed association: Last update rule — revise latest CA again one week before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -9681,7 +9681,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -9699,61 +9699,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Science revision",
         "answer": "vitamins, hormones, diseases, physics formulas, chemistry one-liners",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Science revision — vitamins, hormones, diseases, physics formulas, chemistry one-liners. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Science revision — vitamins, hormones, diseases, physics formulas, chemistry one-liners. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "CA revision",
         "answer": "monthly Rajasthan schemes, awards, appointments, institutes, rankings",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: CA revision — monthly Rajasthan schemes, awards, appointments, institutes, rankings. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: CA revision — monthly Rajasthan schemes, awards, appointments, institutes, rankings. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Digital revision",
         "answer": "Digital India, DigiLocker, UMANG, MyGov, IndiaAI, CERT-In",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Digital revision — Digital India, DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Digital revision — Digital India, DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Disease-agent table",
         "answer": "disease and pathogen/deficiency",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Disease-agent table — disease and pathogen/deficiency. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Disease-agent table — disease and pathogen/deficiency. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Formula sheet",
         "answer": "speed, force, Ohm law, pH basics, percentage",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Formula sheet — speed, force, Ohm law, pH basics, percentage. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Formula sheet — speed, force, Ohm law, pH basics, percentage. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Scheme table",
         "answer": "scheme-department-beneficiary-date",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Scheme table — scheme-department-beneficiary-date. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Scheme table — scheme-department-beneficiary-date. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Award table",
         "answer": "award-winner-field-year",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Award table — award-winner-field-year. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Award table — award-winner-field-year. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Sports table",
         "answer": "player-sport-event-medal",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Sports table — player-sport-event-medal. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Sports table — player-sport-event-medal. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Budget table",
         "answer": "announcement-sector-target group",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Budget table — announcement-sector-target group. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Budget table — announcement-sector-target group. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Last update rule",
         "answer": "revise latest CA again one week before exam",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Last update rule — revise latest CA again one week before exam. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Last update rule — revise latest CA again one week before exam. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -9790,7 +9790,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Series revision: number, alphabet, wrong number, missing term. Remember the fixed exam pair: Series revision — number, alphabet, wrong number, missing term. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Coding revision: letter shift, opposite, position, symbol. Remember the fixed exam pair: Coding revision — letter shift, opposite, position, symbol. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Direction revision: draw diagram for every question. Remember the fixed exam pair: Direction revision — draw diagram for every question. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Blood relation revision: draw family tree. Remember the fixed exam pair: Blood relation revision — draw family tree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Syllogism revision: use only statements. Remember the fixed exam pair: Syllogism revision — use only statements. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Venn revision: draw circles and count carefully. Remember the fixed exam pair: Venn revision — draw circles and count carefully. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Clock revision: angle formula and overlap rules. Remember the fixed exam pair: Clock revision — angle formula and overlap rules. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Calendar revision: odd days and leap year rules. Remember the fixed exam pair: Calendar revision — odd days and leap year rules. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Cube revision: painted cube formulas. Remember the fixed exam pair: Cube revision — painted cube formulas. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Figure revision: count systematically by size. Remember the fixed exam pair: Figure revision — count systematically by size. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Series revision: number, alphabet, wrong number, missing term. Fixed association: Series revision — number, alphabet, wrong number, missing term. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Coding revision: letter shift, opposite, position, symbol. Fixed association: Coding revision — letter shift, opposite, position, symbol. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Direction revision: draw diagram for every question. Fixed association: Direction revision — draw diagram for every question. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Blood relation revision: draw family tree. Fixed association: Blood relation revision — draw family tree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Syllogism revision: use only statements. Fixed association: Syllogism revision — use only statements. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Venn revision: draw circles and count carefully. Fixed association: Venn revision — draw circles and count carefully. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Clock revision: angle formula and overlap rules. Fixed association: Clock revision — angle formula and overlap rules. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Calendar revision: odd days and leap year rules. Fixed association: Calendar revision — odd days and leap year rules. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Cube revision: painted cube formulas. Fixed association: Cube revision — painted cube formulas. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Figure revision: count systematically by size. Fixed association: Figure revision — count systematically by size. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -9872,7 +9872,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -9890,61 +9890,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Series revision",
         "answer": "number, alphabet, wrong number, missing term",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Series revision — number, alphabet, wrong number, missing term. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Series revision — number, alphabet, wrong number, missing term. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Coding revision",
         "answer": "letter shift, opposite, position, symbol",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Coding revision — letter shift, opposite, position, symbol. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Coding revision — letter shift, opposite, position, symbol. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Direction revision",
         "answer": "draw diagram for every question",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Direction revision — draw diagram for every question. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Direction revision — draw diagram for every question. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Blood relation revision",
         "answer": "draw family tree",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Blood relation revision — draw family tree. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Blood relation revision — draw family tree. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Syllogism revision",
         "answer": "use only statements",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Syllogism revision — use only statements. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Syllogism revision — use only statements. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Venn revision",
         "answer": "draw circles and count carefully",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Venn revision — draw circles and count carefully. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Venn revision — draw circles and count carefully. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Clock revision",
         "answer": "angle formula and overlap rules",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Clock revision — angle formula and overlap rules. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Clock revision — angle formula and overlap rules. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Calendar revision",
         "answer": "odd days and leap year rules",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Calendar revision — odd days and leap year rules. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Calendar revision — odd days and leap year rules. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Cube revision",
         "answer": "painted cube formulas",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Cube revision — painted cube formulas. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Cube revision — painted cube formulas. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Figure revision",
         "answer": "count systematically by size",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Figure revision — count systematically by size. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Figure revision — count systematically by size. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -9981,7 +9981,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Number system revision: divisibility, prime, factors, remainder. Remember the fixed exam pair: Number system revision — divisibility, prime, factors, remainder. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. LCM/HCF revision: remainder and factor questions. Remember the fixed exam pair: LCM/HCF revision — remainder and factor questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Percentage revision: change/original and successive change. Remember the fixed exam pair: Percentage revision — change/original and successive change. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Average revision: total/number and combined average. Remember the fixed exam pair: Average revision — total/number and combined average. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Ratio revision: simplification and proportion. Remember the fixed exam pair: Ratio revision — simplification and proportion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Profit revision: profit/loss/discount formulas. Remember the fixed exam pair: Profit revision — profit/loss/discount formulas. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Interest revision: SI and CI basics. Remember the fixed exam pair: Interest revision — SI and CI basics. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Work revision: efficiency addition. Remember the fixed exam pair: Work revision — efficiency addition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Speed revision: distance-time-speed and relative speed. Remember the fixed exam pair: Speed revision — distance-time-speed and relative speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Mensuration revision: area, perimeter, volume formulas. Remember the fixed exam pair: Mensuration revision — area, perimeter, volume formulas. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Number system revision: divisibility, prime, factors, remainder. Fixed association: Number system revision — divisibility, prime, factors, remainder. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. LCM/HCF revision: remainder and factor questions. Fixed association: LCM/HCF revision — remainder and factor questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Percentage revision: change/original and successive change. Fixed association: Percentage revision — change/original and successive change. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Average revision: total/number and combined average. Fixed association: Average revision — total/number and combined average. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Ratio revision: simplification and proportion. Fixed association: Ratio revision — simplification and proportion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Profit revision: profit/loss/discount formulas. Fixed association: Profit revision — profit/loss/discount formulas. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Interest revision: SI and CI basics. Fixed association: Interest revision — SI and CI basics. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Work revision: efficiency addition. Fixed association: Work revision — efficiency addition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Speed revision: distance-time-speed and relative speed. Fixed association: Speed revision — distance-time-speed and relative speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Mensuration revision: area, perimeter, volume formulas. Fixed association: Mensuration revision — area, perimeter, volume formulas. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -10063,7 +10063,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -10081,61 +10081,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Number system revision",
         "answer": "divisibility, prime, factors, remainder",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Number system revision — divisibility, prime, factors, remainder. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Number system revision — divisibility, prime, factors, remainder. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "LCM/HCF revision",
         "answer": "remainder and factor questions",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: LCM/HCF revision — remainder and factor questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: LCM/HCF revision — remainder and factor questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Percentage revision",
         "answer": "change/original and successive change",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Percentage revision — change/original and successive change. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Percentage revision — change/original and successive change. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Average revision",
         "answer": "total/number and combined average",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Average revision — total/number and combined average. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Average revision — total/number and combined average. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Ratio revision",
         "answer": "simplification and proportion",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Ratio revision — simplification and proportion. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Ratio revision — simplification and proportion. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Profit revision",
         "answer": "profit/loss/discount formulas",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Profit revision — profit/loss/discount formulas. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Profit revision — profit/loss/discount formulas. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Interest revision",
         "answer": "SI and CI basics",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Interest revision — SI and CI basics. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Interest revision — SI and CI basics. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Work revision",
         "answer": "efficiency addition",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Work revision — efficiency addition. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Work revision — efficiency addition. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Speed revision",
         "answer": "distance-time-speed and relative speed",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Speed revision — distance-time-speed and relative speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Speed revision — distance-time-speed and relative speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mensuration revision",
         "answer": "area, perimeter, volume formulas",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Mensuration revision — area, perimeter, volume formulas. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mensuration revision — area, perimeter, volume formulas. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -10172,7 +10172,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. DI first step: read title, unit, period and labels. Remember the fixed exam pair: DI first step — read title, unit, period and labels. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Table set: total, average, ratio, percentage. Remember the fixed exam pair: Table set — total, average, ratio, percentage. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Bar chart set: comparison and difference. Remember the fixed exam pair: Bar chart set — comparison and difference. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Line chart set: increase/decrease trend. Remember the fixed exam pair: Line chart set — increase/decrease trend. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Pie chart set: share and central angle. Remember the fixed exam pair: Pie chart set — share and central angle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Mixed DI: combine data sources carefully. Remember the fixed exam pair: Mixed DI — combine data sources carefully. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Data sufficiency: check enough data only. Remember the fixed exam pair: Data sufficiency — check enough data only. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Calculation trap: do not ignore lakh/thousand/percent unit. Remember the fixed exam pair: Calculation trap — do not ignore lakh/thousand/percent unit. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Approximation: use when options are far apart. Remember the fixed exam pair: Approximation — use when options are far apart. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Exact calculation: use when options are close. Remember the fixed exam pair: Exact calculation — use when options are close. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Revision, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. DI first step: read title, unit, period and labels. Fixed association: DI first step — read title, unit, period and labels. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Table set: total, average, ratio, percentage. Fixed association: Table set — total, average, ratio, percentage. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Bar chart set: comparison and difference. Fixed association: Bar chart set — comparison and difference. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Line chart set: increase/decrease trend. Fixed association: Line chart set — increase/decrease trend. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Pie chart set: share and central angle. Fixed association: Pie chart set — share and central angle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Mixed DI: combine data sources carefully. Fixed association: Mixed DI — combine data sources carefully. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Data sufficiency: check enough data only. Fixed association: Data sufficiency — check enough data only. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Calculation trap: do not ignore lakh/thousand/percent unit. Fixed association: Calculation trap — do not ignore lakh/thousand/percent unit. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Approximation: use when options are far apart. Fixed association: Approximation — use when options are far apart. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Exact calculation: use when options are close. Fixed association: Exact calculation — use when options are close. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -10254,7 +10254,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -10272,61 +10272,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "DI first step",
         "answer": "read title, unit, period and labels",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: DI first step — read title, unit, period and labels. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: DI first step — read title, unit, period and labels. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Table set",
         "answer": "total, average, ratio, percentage",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Table set — total, average, ratio, percentage. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Table set — total, average, ratio, percentage. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bar chart set",
         "answer": "comparison and difference",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Bar chart set — comparison and difference. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bar chart set — comparison and difference. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Line chart set",
         "answer": "increase/decrease trend",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Line chart set — increase/decrease trend. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Line chart set — increase/decrease trend. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Pie chart set",
         "answer": "share and central angle",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Pie chart set — share and central angle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Pie chart set — share and central angle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mixed DI",
         "answer": "combine data sources carefully",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Mixed DI — combine data sources carefully. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mixed DI — combine data sources carefully. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Data sufficiency",
         "answer": "check enough data only",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Data sufficiency — check enough data only. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Data sufficiency — check enough data only. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Calculation trap",
         "answer": "do not ignore lakh/thousand/percent unit",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Calculation trap — do not ignore lakh/thousand/percent unit. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Calculation trap — do not ignore lakh/thousand/percent unit. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Approximation",
         "answer": "use when options are far apart",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Approximation — use when options are far apart. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Approximation — use when options are far apart. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Exact calculation",
         "answer": "use when options are close",
         "tag": "revision",
-        "explanation": "Remember the fixed exam pair: Exact calculation — use when options are close. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Exact calculation — use when options are close. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -10363,7 +10363,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In PYQ Analysis, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Basic 118A/118B pattern: Paper had 100 questions, 2 hours, 100 marks and negative marking. Remember the fixed exam pair: Basic 118A/118B pattern — Paper had 100 questions, 2 hours, 100 marks and negative marking. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Senior 119A/119B use: extra trend source for Rajasthan GK and reasoning style. Remember the fixed exam pair: Senior 119A/119B use — extra trend source for Rajasthan GK and reasoning style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. First half tendency: Rajasthan GK and science-heavy questions. Remember the fixed exam pair: First half tendency — Rajasthan GK and science-heavy questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Second half tendency: reasoning, maths and DI-heavy questions. Remember the fixed exam pair: Second half tendency — reasoning, maths and DI-heavy questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. GK style: factual, matching, chronology, not-correct pair. Remember the fixed exam pair: GK style — factual, matching, chronology, not-correct pair. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Reasoning style: series, coding, direction, syllogism, clock, cube, figures. Remember the fixed exam pair: Reasoning style — series, coding, direction, syllogism, clock, cube, figures. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Maths style: class X arithmetic and algebra basics. Remember the fixed exam pair: Maths style — class X arithmetic and algebra basics. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. DI style: table and chart interpretation. Remember the fixed exam pair: DI style — table and chart interpretation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Science style: one-liners from biology, physics, chemistry and environment. Remember the fixed exam pair: Science style — one-liners from biology, physics, chemistry and environment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Revision use: convert every PYQ into topic memory fact. Remember the fixed exam pair: Revision use — convert every PYQ into topic memory fact. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In PYQ Analysis, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Basic 118A/118B pattern: Paper had 100 questions, 2 hours, 100 marks and negative marking. Fixed association: Basic 118A/118B pattern — Paper had 100 questions, 2 hours, 100 marks and negative marking. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Senior 119A/119B use: extra trend source for Rajasthan GK and reasoning style. Fixed association: Senior 119A/119B use — extra trend source for Rajasthan GK and reasoning style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. First half tendency: Rajasthan GK and science-heavy questions. Fixed association: First half tendency — Rajasthan GK and science-heavy questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Second half tendency: reasoning, maths and DI-heavy questions. Fixed association: Second half tendency — reasoning, maths and DI-heavy questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. GK style: factual, matching, chronology, not-correct pair. Fixed association: GK style — factual, matching, chronology, not-correct pair. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Reasoning style: series, coding, direction, syllogism, clock, cube, figures. Fixed association: Reasoning style — series, coding, direction, syllogism, clock, cube, figures. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Maths style: class X arithmetic and algebra basics. Fixed association: Maths style — class X arithmetic and algebra basics. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. DI style: table and chart interpretation. Fixed association: DI style — table and chart interpretation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Science style: one-liners from biology, physics, chemistry and environment. Fixed association: Science style — one-liners from biology, physics, chemistry and environment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Revision use: convert every PYQ into topic memory fact. Fixed association: Revision use — convert every PYQ into topic memory fact. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -10445,7 +10445,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -10463,61 +10463,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Basic 118A/118B pattern",
         "answer": "Paper had 100 questions, 2 hours, 100 marks and negative marking",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: Basic 118A/118B pattern — Paper had 100 questions, 2 hours, 100 marks and negative marking. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Basic 118A/118B pattern — Paper had 100 questions, 2 hours, 100 marks and negative marking. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Senior 119A/119B use",
         "answer": "extra trend source for Rajasthan GK and reasoning style",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: Senior 119A/119B use — extra trend source for Rajasthan GK and reasoning style. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Senior 119A/119B use — extra trend source for Rajasthan GK and reasoning style. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "First half tendency",
         "answer": "Rajasthan GK and science-heavy questions",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: First half tendency — Rajasthan GK and science-heavy questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: First half tendency — Rajasthan GK and science-heavy questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Second half tendency",
         "answer": "reasoning, maths and DI-heavy questions",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: Second half tendency — reasoning, maths and DI-heavy questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Second half tendency — reasoning, maths and DI-heavy questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "GK style",
         "answer": "factual, matching, chronology, not-correct pair",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: GK style — factual, matching, chronology, not-correct pair. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: GK style — factual, matching, chronology, not-correct pair. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Reasoning style",
         "answer": "series, coding, direction, syllogism, clock, cube, figures",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: Reasoning style — series, coding, direction, syllogism, clock, cube, figures. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Reasoning style — series, coding, direction, syllogism, clock, cube, figures. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Maths style",
         "answer": "class X arithmetic and algebra basics",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: Maths style — class X arithmetic and algebra basics. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Maths style — class X arithmetic and algebra basics. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "DI style",
         "answer": "table and chart interpretation",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: DI style — table and chart interpretation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: DI style — table and chart interpretation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Science style",
         "answer": "one-liners from biology, physics, chemistry and environment",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: Science style — one-liners from biology, physics, chemistry and environment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Science style — one-liners from biology, physics, chemistry and environment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Revision use",
         "answer": "convert every PYQ into topic memory fact",
         "tag": "pyq",
-        "explanation": "Remember the fixed exam pair: Revision use — convert every PYQ into topic memory fact. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Revision use — convert every PYQ into topic memory fact. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -10554,7 +10554,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Expected Questions, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Culture expected: dance-community, craft-place, fair-deity, painting-school. Remember the fixed exam pair: Culture expected — dance-community, craft-place, fair-deity, painting-school. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. History expected: site-district, battle-year, ruler-work, movement-leader. Remember the fixed exam pair: History expected — site-district, battle-year, ruler-work, movement-leader. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Geography expected: mine-mineral, lake-district, river-project, soil-region. Remember the fixed exam pair: Geography expected — mine-mineral, lake-district, river-project, soil-region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. CA expected: scheme, budget, award, sport, appointment, institute. Remember the fixed exam pair: CA expected — scheme, budget, award, sport, appointment, institute. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Science expected: vitamin, hormone, disease, physics formula, environment. Remember the fixed exam pair: Science expected — vitamin, hormone, disease, physics formula, environment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Reasoning expected: series, coding, direction, syllogism, clock, cube. Remember the fixed exam pair: Reasoning expected — series, coding, direction, syllogism, clock, cube. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Maths expected: percentage, average, LCM/HCF, SI/CI, work, speed. Remember the fixed exam pair: Maths expected — percentage, average, LCM/HCF, SI/CI, work, speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. DI expected: table, pie, bar, line, data sufficiency. Remember the fixed exam pair: DI expected — table, pie, bar, line, data sufficiency. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Digital expected: DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. Remember the fixed exam pair: Digital expected — DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Exam trap expected: incorrect pair and statement-code questions. Remember the fixed exam pair: Exam trap expected — incorrect pair and statement-code questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Expected Questions, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Culture expected: dance-community, craft-place, fair-deity, painting-school. Fixed association: Culture expected — dance-community, craft-place, fair-deity, painting-school. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. History expected: site-district, battle-year, ruler-work, movement-leader. Fixed association: History expected — site-district, battle-year, ruler-work, movement-leader. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Geography expected: mine-mineral, lake-district, river-project, soil-region. Fixed association: Geography expected — mine-mineral, lake-district, river-project, soil-region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. CA expected: scheme, budget, award, sport, appointment, institute. Fixed association: CA expected — scheme, budget, award, sport, appointment, institute. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Science expected: vitamin, hormone, disease, physics formula, environment. Fixed association: Science expected — vitamin, hormone, disease, physics formula, environment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Reasoning expected: series, coding, direction, syllogism, clock, cube. Fixed association: Reasoning expected — series, coding, direction, syllogism, clock, cube. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Maths expected: percentage, average, LCM/HCF, SI/CI, work, speed. Fixed association: Maths expected — percentage, average, LCM/HCF, SI/CI, work, speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. DI expected: table, pie, bar, line, data sufficiency. Fixed association: DI expected — table, pie, bar, line, data sufficiency. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Digital expected: DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. Fixed association: Digital expected — DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Exam trap expected: incorrect pair and statement-code questions. Fixed association: Exam trap expected — incorrect pair and statement-code questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -10636,7 +10636,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -10654,61 +10654,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Culture expected",
         "answer": "dance-community, craft-place, fair-deity, painting-school",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: Culture expected — dance-community, craft-place, fair-deity, painting-school. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Culture expected — dance-community, craft-place, fair-deity, painting-school. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "History expected",
         "answer": "site-district, battle-year, ruler-work, movement-leader",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: History expected — site-district, battle-year, ruler-work, movement-leader. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: History expected — site-district, battle-year, ruler-work, movement-leader. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Geography expected",
         "answer": "mine-mineral, lake-district, river-project, soil-region",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: Geography expected — mine-mineral, lake-district, river-project, soil-region. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Geography expected — mine-mineral, lake-district, river-project, soil-region. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "CA expected",
         "answer": "scheme, budget, award, sport, appointment, institute",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: CA expected — scheme, budget, award, sport, appointment, institute. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: CA expected — scheme, budget, award, sport, appointment, institute. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Science expected",
         "answer": "vitamin, hormone, disease, physics formula, environment",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: Science expected — vitamin, hormone, disease, physics formula, environment. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Science expected — vitamin, hormone, disease, physics formula, environment. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Reasoning expected",
         "answer": "series, coding, direction, syllogism, clock, cube",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: Reasoning expected — series, coding, direction, syllogism, clock, cube. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Reasoning expected — series, coding, direction, syllogism, clock, cube. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Maths expected",
         "answer": "percentage, average, LCM/HCF, SI/CI, work, speed",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: Maths expected — percentage, average, LCM/HCF, SI/CI, work, speed. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Maths expected — percentage, average, LCM/HCF, SI/CI, work, speed. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "DI expected",
         "answer": "table, pie, bar, line, data sufficiency",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: DI expected — table, pie, bar, line, data sufficiency. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: DI expected — table, pie, bar, line, data sufficiency. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Digital expected",
         "answer": "DigiLocker, UMANG, MyGov, IndiaAI, CERT-In",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: Digital expected — DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Digital expected — DigiLocker, UMANG, MyGov, IndiaAI, CERT-In. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Exam trap expected",
         "answer": "incorrect pair and statement-code questions",
         "tag": "expected",
-        "explanation": "Remember the fixed exam pair: Exam trap expected — incorrect pair and statement-code questions. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Exam trap expected — incorrect pair and statement-code questions. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -10745,7 +10745,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Exam Readiness, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Mock analysis: review every wrong and skipped question. Remember the fixed exam pair: Mock analysis — review every wrong and skipped question. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Error type: concept, memory, calculation, time, guessing. Remember the fixed exam pair: Error type — concept, memory, calculation, time, guessing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Weak topic: topic with below 60% accuracy. Remember the fixed exam pair: Weak topic — topic with below 60% accuracy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Retest rule: retest weak topic within 48 hours. Remember the fixed exam pair: Retest rule — retest weak topic within 48 hours. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Bookmark rule: bookmark unknown and confusing facts. Remember the fixed exam pair: Bookmark rule — bookmark unknown and confusing facts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Guessing control: avoid random guess due to 1/3 negative marking. Remember the fixed exam pair: Guessing control — avoid random guess due to 1/3 negative marking. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Accuracy target: 70% then 80% then 90% topic accuracy. Remember the fixed exam pair: Accuracy target — 70% then 80% then 90% topic accuracy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Time target: complete easy questions first. Remember the fixed exam pair: Time target — complete easy questions first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Revision target: daily wrong notebook before new test. Remember the fixed exam pair: Revision target — daily wrong notebook before new test. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Final readiness: mixed mock + wrong topic revision cycle. Remember the fixed exam pair: Final readiness — mixed mock + wrong topic revision cycle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Exam Readiness, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Mock analysis: review every wrong and skipped question. Fixed association: Mock analysis — review every wrong and skipped question. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Error type: concept, memory, calculation, time, guessing. Fixed association: Error type — concept, memory, calculation, time, guessing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Weak topic: topic with below 60% accuracy. Fixed association: Weak topic — topic with below 60% accuracy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Retest rule: retest weak topic within 48 hours. Fixed association: Retest rule — retest weak topic within 48 hours. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Bookmark rule: bookmark unknown and confusing facts. Fixed association: Bookmark rule — bookmark unknown and confusing facts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Guessing control: avoid random guess due to 1/3 negative marking. Fixed association: Guessing control — avoid random guess due to 1/3 negative marking. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. Accuracy target: 70% then 80% then 90% topic accuracy. Fixed association: Accuracy target — 70% then 80% then 90% topic accuracy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Time target: complete easy questions first. Fixed association: Time target — complete easy questions first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Revision target: daily wrong notebook before new test. Fixed association: Revision target — daily wrong notebook before new test. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Final readiness: mixed mock + wrong topic revision cycle. Fixed association: Final readiness — mixed mock + wrong topic revision cycle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -10827,7 +10827,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -10845,61 +10845,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Mock analysis",
         "answer": "review every wrong and skipped question",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Mock analysis — review every wrong and skipped question. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mock analysis — review every wrong and skipped question. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Error type",
         "answer": "concept, memory, calculation, time, guessing",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Error type — concept, memory, calculation, time, guessing. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Error type — concept, memory, calculation, time, guessing. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Weak topic",
         "answer": "topic with below 60% accuracy",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Weak topic — topic with below 60% accuracy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Weak topic — topic with below 60% accuracy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Retest rule",
         "answer": "retest weak topic within 48 hours",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Retest rule — retest weak topic within 48 hours. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Retest rule — retest weak topic within 48 hours. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Bookmark rule",
         "answer": "bookmark unknown and confusing facts",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Bookmark rule — bookmark unknown and confusing facts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Bookmark rule — bookmark unknown and confusing facts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Guessing control",
         "answer": "avoid random guess due to 1/3 negative marking",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Guessing control — avoid random guess due to 1/3 negative marking. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Guessing control — avoid random guess due to 1/3 negative marking. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Accuracy target",
         "answer": "70% then 80% then 90% topic accuracy",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Accuracy target — 70% then 80% then 90% topic accuracy. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Accuracy target — 70% then 80% then 90% topic accuracy. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Time target",
         "answer": "complete easy questions first",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Time target — complete easy questions first. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Time target — complete easy questions first. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Revision target",
         "answer": "daily wrong notebook before new test",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Revision target — daily wrong notebook before new test. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Revision target — daily wrong notebook before new test. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Final readiness",
         "answer": "mixed mock + wrong topic revision cycle",
         "tag": "analysis",
-        "explanation": "Remember the fixed exam pair: Final readiness — mixed mock + wrong topic revision cycle. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Final readiness — mixed mock + wrong topic revision cycle. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -10936,7 +10936,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       },
       {
         "heading": "Core theory from beginner to advanced level",
-        "body": "Start from the meaning of the topic. In Exam Readiness, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Day learning: read full theory and memory table. Remember the fixed exam pair: Day learning — read full theory and memory table. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Night practice: solve 100 MCQs from same day topic. Remember the fixed exam pair: Night practice — solve 100 MCQs from same day topic. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Day 1-20: Rajasthan GK, CA, digital and science foundation. Remember the fixed exam pair: Day 1-20 — Rajasthan GK, CA, digital and science foundation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Day 21-33: reasoning and decision making. Remember the fixed exam pair: Day 21-33 — reasoning and decision making. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Day 34-41: numeracy and DI. Remember the fixed exam pair: Day 34-41 — numeracy and DI. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Day 42-50: revision, PYQ analysis, expected questions and mocks. Remember the fixed exam pair: Day 42-50 — revision, PYQ analysis, expected questions and mocks. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. 5000 MCQ target: 100 MCQs × 50 days. Remember the fixed exam pair: 5000 MCQ target — 100 MCQs × 50 days. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Wrong notebook target: minimum 15 corrections daily. Remember the fixed exam pair: Wrong notebook target — minimum 15 corrections daily. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Mock phase: mixed tests only after topic mastery. Remember the fixed exam pair: Mock phase — mixed tests only after topic mastery. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rank mindset: precision, repetition and controlled attempts. Remember the fixed exam pair: Rank mindset — precision, repetition and controlled attempts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
+        "body": "Start from the meaning of the topic. In Exam Readiness, questions are usually not asked in vague language. They are asked through exact terms. A beginner must first learn the vocabulary; an advanced aspirant must learn the traps. For every concept below, learn four levels: definition, fixed association, exam trap, and expected question frame.\n\n        1. Day learning: read full theory and memory table. Fixed association: Day learning — read full theory and memory table. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n2. Night practice: solve 100 MCQs from same day topic. Fixed association: Night practice — solve 100 MCQs from same day topic. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n3. Day 1-20: Rajasthan GK, CA, digital and science foundation. Fixed association: Day 1-20 — Rajasthan GK, CA, digital and science foundation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n4. Day 21-33: reasoning and decision making. Fixed association: Day 21-33 — reasoning and decision making. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n5. Day 34-41: numeracy and DI. Fixed association: Day 34-41 — numeracy and DI. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n6. Day 42-50: revision, PYQ analysis, expected questions and mocks. Fixed association: Day 42-50 — revision, PYQ analysis, expected questions and mocks. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n7. 5000 MCQ target: 100 MCQs × 50 days. Fixed association: 5000 MCQ target — 100 MCQs × 50 days. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n8. Wrong notebook target: minimum 15 corrections daily. Fixed association: Wrong notebook target — minimum 15 corrections daily. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n9. Mock phase: mixed tests only after topic mastery. Fixed association: Mock phase — mixed tests only after topic mastery. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n10. Rank mindset: precision, repetition and controlled attempts. Fixed association: Rank mindset — precision, repetition and controlled attempts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap.\n\n        The advanced method is reverse recall. After reading a fact, close the notes and ask: what if the examiner asks from the opposite side? What if one option contains the same district with a different art form? What if one true statement is combined with a false second statement? The student who prepares these twists scores higher than the student who only reads the fact once."
       },
       {
         "heading": "Subtopic-by-subtopic teaching notes",
@@ -11018,7 +11018,7 @@ export const paper1LearningTopics: LearningTopic[] = [
       }
     ],
     "mistakes": [
-      "Reading the paragraph once but not converting it into fixed exam pairs.",
+      "Reading the paragraph once but not converting it into fixed associations.",
       "Confusing nearby districts, similar rulers, similar schemes, similar formulas or similar reasoning patterns.",
       "Leaving reverse recall: you know key to answer, but cannot answer answer to key.",
       "Guessing in negative marking instead of skipping and reviewing.",
@@ -11036,61 +11036,61 @@ export const paper1LearningTopics: LearningTopic[] = [
         "key": "Day learning",
         "answer": "read full theory and memory table",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Day learning — read full theory and memory table. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Day learning — read full theory and memory table. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Night practice",
         "answer": "solve 100 MCQs from same day topic",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Night practice — solve 100 MCQs from same day topic. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Night practice — solve 100 MCQs from same day topic. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Day 1-20",
         "answer": "Rajasthan GK, CA, digital and science foundation",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Day 1-20 — Rajasthan GK, CA, digital and science foundation. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Day 1-20 — Rajasthan GK, CA, digital and science foundation. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Day 21-33",
         "answer": "reasoning and decision making",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Day 21-33 — reasoning and decision making. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Day 21-33 — reasoning and decision making. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Day 34-41",
         "answer": "numeracy and DI",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Day 34-41 — numeracy and DI. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Day 34-41 — numeracy and DI. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Day 42-50",
         "answer": "revision, PYQ analysis, expected questions and mocks",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Day 42-50 — revision, PYQ analysis, expected questions and mocks. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Day 42-50 — revision, PYQ analysis, expected questions and mocks. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "5000 MCQ target",
         "answer": "100 MCQs × 50 days",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: 5000 MCQ target — 100 MCQs × 50 days. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: 5000 MCQ target — 100 MCQs × 50 days. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Wrong notebook target",
         "answer": "minimum 15 corrections daily",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Wrong notebook target — minimum 15 corrections daily. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Wrong notebook target — minimum 15 corrections daily. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Mock phase",
         "answer": "mixed tests only after topic mastery",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Mock phase — mixed tests only after topic mastery. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Mock phase — mixed tests only after topic mastery. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       },
       {
         "key": "Rank mindset",
         "answer": "precision, repetition and controlled attempts",
         "tag": "plan",
-        "explanation": "Remember the fixed exam pair: Rank mindset — precision, repetition and controlled attempts. In RSSB-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
+        "explanation": "Fixed association: Rank mindset — precision, repetition and controlled attempts. In board-style questions this can appear as a direct fact, reverse fact, match-the-following item, or incorrect-pair trap."
       }
     ],
     "pyqPatterns": [
@@ -11103,22 +11103,36 @@ export const paper1LearningTopics: LearningTopic[] = [
   }
 ];
 
+
 const LETTERS = ["A", "B", "C", "D"] as const;
 const globalDistractors = [
   "Jaipur", "Udaipur", "Jodhpur", "Bikaner", "Ajmer", "Kota", "Bharatpur", "Pratapgarh",
   "Mewar", "Marwar", "Hadoti", "Shekhawati", "Harappan", "Chalcolithic", "Mesolithic", "Copper culture",
   "Percentage", "Average", "LCM", "HCF", "DigiLocker", "UMANG", "CERT-In", "IndiaAI Mission",
-  "Sambhar", "Khetri", "Kalibanga", "Haldighati", "1/3 negative marking", "Class X level"
+  "Sambhar", "Khetri", "Kalibanga", "Haldighati", "1/3 negative marking", "Class X level",
+  "None of the above", "Only I is correct", "Both I and II are correct", "Neither statement is correct"
 ];
 
 function unique(list: string[]) {
   return Array.from(new Set(list.map((x) => String(x).trim()).filter(Boolean)));
 }
 
+function professionalText(value: string) {
+  return String(value || "")
+    .replace(/PYQ-style/gi, "previous-year-pattern")
+    .replace(/In a previous-year-pattern question,\s*/gi, "")
+    .replace(/RSSB-style/gi, "board-style")
+    .replace(/Remember the fixed exam pair:?/gi, "Fixed association:")
+    .replace(/fixed exam pair/gi, "fixed association")
+    .replace(/correct memory/gi, "correct association")
+    .replace(/Let's understand/gi, "Study")
+    .trim();
+}
+
 function optionSet(correct: string, pool: string[], seed: number) {
-  const candidates = unique([...pool, ...globalDistractors]).filter((x) => x !== correct).slice(seed % 7, seed % 7 + 20);
-  const values = [correct, ...candidates];
-  while (values.length < 4) values.push(`None of these ${values.length}`);
+  const candidates = unique([...pool, ...globalDistractors]).filter((x) => x !== correct);
+  const values = [correct, ...candidates.slice(seed % 11, seed % 11 + 24), ...candidates.slice(0, 24)];
+  while (values.length < 4) values.push(`Alternative ${values.length}`);
   const selected = values.slice(0, 4);
   const target = seed % 4;
   const correctIndex = selected.indexOf(correct);
@@ -11132,47 +11146,65 @@ function optionSet(correct: string, pool: string[], seed: number) {
   return { options, answer };
 }
 
+function optionAnalysis(options: { A: string; B: string; C: string; D: string }, answer: "A" | "B" | "C" | "D", correctPair: string) {
+  const wrongOptions = LETTERS.filter((key) => key !== answer)
+    .map((key) => `${key}: ${options[key]} is not the required association in this question.`)
+    .join(" ");
+  return `Correct answer: ${answer}. Why correct: ${correctPair}. Why other options are incorrect: ${wrongOptions}`;
+}
+
 function pairQuestion(topic: LearningTopic, fact: LearningFact, poolFacts: LearningFact[], index: number, notCorrect = false): LearningQuestion {
   const wrong = poolFacts[(index + 3) % poolFacts.length] || fact;
   const correctPair = `${fact.key} — ${fact.answer}`;
   const wrongPair = `${fact.key} — ${wrong.answer}`;
-  const otherPairs = poolFacts.filter((x) => x.key !== fact.key).slice(index % Math.max(1, poolFacts.length - 1)).map((x) => `${x.key} — ${x.answer}`);
+  const otherPairs = poolFacts
+    .filter((x) => x.key !== fact.key)
+    .slice(index % Math.max(1, poolFacts.length - 1))
+    .map((x) => `${x.key} — ${x.answer}`);
   const correctOption = notCorrect ? wrongPair : correctPair;
   const { options, answer } = optionSet(correctOption, [correctPair, wrongPair, ...otherPairs], index + topic.day);
+  const stem = notCorrect
+    ? `Identify the incorrectly matched pair from ${topic.title}.`
+    : `Identify the correctly matched pair from ${topic.title}.`;
+  const concept = professionalText(fact.explanation);
+  const detail = notCorrect
+    ? `Correct association for the key term is ${correctPair}; therefore ${wrongPair} is the incorrect pair.`
+    : `${correctPair} is the required association.`;
   return {
-    question: `${index + 1}. Which of the following pairs is ${notCorrect ? "NOT correctly" : "correctly"} matched for ${topic.title}?`,
+    question: `${index + 1}. ${stem}`,
     options,
     answer,
-    explanation: notCorrect ? `The incorrect pair is ${wrongPair}. Correct memory is ${correctPair}. ${fact.explanation}` : `The correct pair is ${correctPair}. ${fact.explanation}`,
+    explanation: `${optionAnalysis(options, answer, correctOption)} ${detail} Related concept: ${concept}`,
     subject: topic.bucket,
     chapter: topic.title,
     topic: fact.tag,
-    difficulty: index < 40 ? "easy" : index < 80 ? "medium" : "hard",
+    difficulty: index < 35 ? "easy" : index < 75 ? "medium" : "hard",
     importance: "high",
-    sourceHint: "Official Paper 1 syllabus + uploaded BCI 2022 PYQ trend + consolidated exam notes"
+    sourceHint: "Learning Library • Official Paper 1 syllabus and uploaded 2022 paper-pattern analysis"
   };
 }
 
 function directQuestion(topic: LearningTopic, fact: LearningFact, pool: string[], index: number): LearningQuestion {
   const stems = [
-    `What is the most accurate association of ${fact.key} in ${topic.title}?`,
-    `For Basic Computer Instructor Paper 1, what should be remembered about ${fact.key}?`,
-    `Which option correctly completes the pair: ${fact.key} — ?`,
-    `In a PYQ-style question, ${fact.key} is linked with which answer?`,
-    `Choose the best exam memory point for ${fact.key} in ${topic.title}.`
+    `Which option gives the correct association for ${fact.key}?`,
+    `In ${topic.title}, ${fact.key} is most accurately related to which of the following?`,
+    `Choose the correct completion: ${fact.key} — ?`,
+    `Which fact should be memorised for ${fact.key}?`,
+    `Select the correct answer for ${fact.key} from ${topic.title}.`
   ];
   const { options, answer } = optionSet(fact.answer, pool, index + topic.day);
+  const correctPair = `${fact.key} — ${fact.answer}`;
   return {
     question: `${index + 1}. ${stems[index % stems.length]}`,
     options,
     answer,
-    explanation: fact.explanation,
+    explanation: `${optionAnalysis(options, answer, correctPair)} Related concept: ${professionalText(fact.explanation)}`,
     subject: topic.bucket,
     chapter: topic.title,
     topic: fact.tag,
-    difficulty: index < 40 ? "easy" : index < 80 ? "medium" : "hard",
+    difficulty: index < 35 ? "easy" : index < 75 ? "medium" : "hard",
     importance: "high",
-    sourceHint: "Official Paper 1 syllabus + uploaded BCI 2022 PYQ trend + consolidated exam notes"
+    sourceHint: "Learning Library • Official Paper 1 syllabus and uploaded 2022 paper-pattern analysis"
   };
 }
 
@@ -11184,16 +11216,40 @@ function statementQuestion(topic: LearningTopic, fact: LearningFact, other: Lear
   const correct = "Only I is correct";
   const { options, answer } = optionSet(correct, ["Only II is correct", "Both I and II are correct", "Neither I nor II is correct", "Only I is correct"], index + topic.day);
   return {
-    question: `${index + 1}. Consider the statements about ${topic.title}. ${statements.join(" ")} Choose the correct code.`,
+    question: `${index + 1}. Consider the following statements about ${topic.title}. ${statements.join(" ")} Choose the correct code.`,
     options,
     answer,
-    explanation: `Statement I is correct because ${fact.key} — ${fact.answer}. Statement II is the trap because ${other.key} has its own association: ${other.answer}.`,
+    explanation: `Correct answer: ${answer}. Statement I is correct because ${fact.key} is associated with ${fact.answer}. Statement II is incorrect because ${other.key} is associated with ${other.answer}, not ${fact.answer}. This is a common statement-code trap in Paper 1 factual topics.`,
     subject: topic.bucket,
     chapter: topic.title,
     topic: fact.tag,
-    difficulty: index < 40 ? "easy" : index < 80 ? "medium" : "hard",
+    difficulty: index < 35 ? "easy" : index < 75 ? "medium" : "hard",
     importance: "high",
-    sourceHint: "Official Paper 1 syllabus + uploaded BCI 2022 PYQ trend + consolidated exam notes"
+    sourceHint: "Learning Library • Official Paper 1 syllabus and uploaded 2022 paper-pattern analysis"
+  };
+}
+
+function appliedQuestion(topic: LearningTopic, fact: LearningFact, poolFacts: LearningFact[], index: number): LearningQuestion {
+  const situation = `A student is preparing a one-line revision table for ${topic.title}.`;
+  const correct = `${fact.key} should be written with ${fact.answer}`;
+  const wrongOne = poolFacts[(index + 7) % poolFacts.length] || fact;
+  const { options, answer } = optionSet(correct, [
+    `${wrongOne.key} should be written with ${fact.answer}`,
+    `${fact.key} should be written with ${wrongOne.answer}`,
+    `${fact.answer} should be ignored for this topic`,
+    correct,
+  ], index + topic.day);
+  return {
+    question: `${index + 1}. ${situation} Which entry is accurate?`,
+    options,
+    answer,
+    explanation: `${optionAnalysis(options, answer, correct)} The safe revision line is ${fact.key} — ${fact.answer}. ${professionalText(fact.explanation)}`,
+    subject: topic.bucket,
+    chapter: topic.title,
+    topic: fact.tag,
+    difficulty: index < 35 ? "easy" : index < 75 ? "medium" : "hard",
+    importance: "high",
+    sourceHint: "Learning Library • Official Paper 1 syllabus and uploaded 2022 paper-pattern analysis"
   };
 }
 
@@ -11207,16 +11263,18 @@ export function getTopicQuestionJson(topicId: string) {
   const answerPool = unique([...facts.map((fact) => fact.answer), ...facts.map((fact) => fact.key), ...topic.concepts, ...globalDistractors]);
   const questions: LearningQuestion[] = [];
   const seen = new Set<string>();
-  for (let i = 0; questions.length < 100 && i < 500; i++) {
+  for (let i = 0; questions.length < 100 && i < 800; i++) {
     const fact = facts[i % facts.length];
     const other = facts[(i + 5) % facts.length] || fact;
     let q: LearningQuestion;
-    if (i % 5 === 0) q = pairQuestion(topic, fact, facts, questions.length, false);
-    else if (i % 5 === 1) q = pairQuestion(topic, fact, facts, questions.length, true);
-    else if (i % 5 === 2) q = statementQuestion(topic, fact, other, questions.length);
+    if (i % 6 === 0) q = pairQuestion(topic, fact, facts, questions.length, false);
+    else if (i % 6 === 1) q = pairQuestion(topic, fact, facts, questions.length, true);
+    else if (i % 6 === 2) q = statementQuestion(topic, fact, other, questions.length);
+    else if (i % 6 === 3) q = appliedQuestion(topic, fact, facts, questions.length);
     else q = directQuestion(topic, fact, answerPool, questions.length);
-    if (seen.has(q.question)) continue;
-    seen.add(q.question);
+    const key = professionalText(q.question).toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
     questions.push(q);
   }
   return {
@@ -11235,13 +11293,14 @@ export function getTopicQuestionJson(topicId: string) {
 }
 
 export function getAllPaper1QuestionBank() {
+  const topics = paper1LearningTopics.map((topic) => getTopicQuestionJson(topic.id));
   return {
     exam_name: "Rajasthan Basic Computer Instructor",
     paper: "paper1",
     mode: "50-day-topic-bank",
     totalTopics: paper1LearningTopics.length,
-    totalQuestions: paper1LearningTopics.length * 100,
+    totalQuestions: topics.reduce((sum, topic) => sum + topic.questions.length, 0),
     generatedOn: new Date().toISOString().slice(0, 10),
-    topics: paper1LearningTopics.map((topic) => getTopicQuestionJson(topic.id))
+    topics
   };
 }

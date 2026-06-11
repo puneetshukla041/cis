@@ -7,6 +7,7 @@ import { AttemptModel } from "@/models/Attempt";
 import { QuestionModel } from "@/models/Question";
 import { TestModel } from "@/models/Test";
 import { UserStatsModel } from "@/models/UserStats";
+import { LearningProgressModel } from "@/models/LearningProgress";
 
 const DEFAULT_USER_ID = process.env.NEXT_PUBLIC_DEFAULT_USER_ID || "default-user";
 const TEST_LIST_LIMIT = 24;
@@ -26,7 +27,7 @@ function emptyDashboard() {
       { paper: "paper1", tests: 0, attempted: 0, correct: 0, wrong: 0, accuracy: 0 },
       { paper: "paper2", tests: 0, attempted: 0, correct: 0, wrong: 0, accuracy: 0 },
     ],
-    strongestTopics: [], weakestTopics: [], difficultyWise: [], trends: [], weeklyProgress: [], monthlyProgress: [],
+    strongestTopics: [], weakestTopics: [], difficultyWise: [], trends: [], weeklyProgress: [], monthlyProgress: [], learningProgress: [], recommendations: [],
   };
 }
 
@@ -88,10 +89,14 @@ export async function getDashboardData(userId = DEFAULT_USER_ID): Promise<any> {
     (UserStatsModel as any).findOne({ userId })
       .select("dailyStreak bestStreak readinessScore rankPrediction totalTimeSeconds")
       .lean(),
-    AnalyticsModel.find({ userId, scope: { $in: ["topic", "difficulty"] } })
-      .select("scope key attempted correct wrong accuracy mastery averageTimeSeconds")
+    AnalyticsModel.find({ userId, scope: { $in: ["topic", "difficulty", "daily", "weekly", "monthly"] } })
+      .select("scope key attempted correct wrong accuracy mastery averageTimeSeconds totalTimeSeconds")
       .lean(),
   ]);
+  const learningProgress = await LearningProgressModel.find({ userId })
+    .select("topicId topicTitle day completed bookmarked attempted correct wrong accuracy studyTimeSeconds revisionCount lastQuestionIndex updatedAt")
+    .sort({ day: 1 })
+    .lean();
 
   const correct = answerStats.find((row: any) => row._id === true)?.count || 0;
   const attemptedAnswers = answerStats.reduce((sum: number, row: any) => sum + row.count, 0);
@@ -107,6 +112,22 @@ export async function getDashboardData(userId = DEFAULT_USER_ID): Promise<any> {
   const strongestTopics = [...topicRows].filter((t: any) => t.attempted >= 3).sort((a: any, b: any) => b.accuracy - a.accuracy).slice(0, 8);
   const weakestTopics = [...topicRows].filter((t: any) => t.attempted >= 3).sort((a: any, b: any) => a.accuracy - b.accuracy).slice(0, 8);
   const difficultyWise = analytics.filter((a: any) => a.scope === "difficulty").sort((a: any, b: any) => a.key.localeCompare(b.key));
+  const learningNeeds = [...(learningProgress as any[])]
+    .filter((row: any) => !row.completed || (row.attempted >= 10 && row.accuracy < 70))
+    .slice(0, 8)
+    .map((row: any) => ({
+      title: row.topicTitle || row.topicId,
+      reason: !row.completed ? "Notes pending" : `Accuracy ${row.accuracy}%`,
+      action: "Revise notes, solve 30 marked questions, then retake topic practice",
+      topicId: row.topicId,
+    }));
+  const weakRecommendations = weakestTopics.slice(0, 6).map((t: any) => ({
+    title: t.key,
+    reason: `Weak topic accuracy ${t.accuracy}%`,
+    action: "Build weak-topic practice set and review explanations",
+    topicId: "",
+  }));
+  const recommendations = [...learningNeeds, ...weakRecommendations].slice(0, 10);
   const trends = trendRows.map((row: any) => ({
     date: row._id,
     attempts: row.attempts,
@@ -139,6 +160,8 @@ export async function getDashboardData(userId = DEFAULT_USER_ID): Promise<any> {
     trends,
     weeklyProgress: trends.slice(-7),
     monthlyProgress: trends,
+    learningProgress,
+    recommendations,
   });
 }
 

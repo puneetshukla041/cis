@@ -2,6 +2,7 @@ import { AnswerModel } from "@/models/Answer";
 import { AttemptModel } from "@/models/Attempt";
 import { AnalyticsModel } from "@/models/Analytics";
 import { UserStatsModel } from "@/models/UserStats";
+import { LearningProgressModel } from "@/models/LearningProgress";
 import { calculateNegativeMarkScore, masteryScore, percentage, readinessScore } from "@/lib/scoring";
 import { daysBetween, getTodayDateOnly } from "@/lib/date";
 
@@ -45,6 +46,15 @@ export async function rebuildUserAnalytics(userId: string) {
     add("overall", "overall", a);
     add("topic", `${a.subject} > ${a.topic}`, a);
     add("difficulty", a.difficulty || "unknown", a);
+    const created = a.createdAt ? new Date(a.createdAt) : new Date();
+    const dayKey = created.toISOString().slice(0, 10);
+    const monthKey = dayKey.slice(0, 7);
+    const weekStart = new Date(created);
+    weekStart.setDate(created.getDate() - created.getDay());
+    const weekKey = weekStart.toISOString().slice(0, 10);
+    add("daily", dayKey, a);
+    add("weekly", weekKey, a);
+    add("monthly", monthKey, a);
   }
 
   for (const g of groups.values()) {
@@ -72,7 +82,9 @@ export async function rebuildUserAnalytics(userId: string) {
   const bestStreak = Math.max(current?.bestStreak || 0, dailyStreak);
   const mockAttempts = submittedAttempts.filter((a: any) => a.mode === "mock");
   const mockAverage = mockAttempts.length ? Math.round(mockAttempts.reduce((s: number, a: any) => s + (a.accuracy || 0), 0) / mockAttempts.length) : accuracy;
-  const coverage = Math.min(100, new Set(answers.map((a: any) => `${a.subject}-${a.topic}`)).size * 4);
+  const learningRows = await LearningProgressModel.find({ userId }).lean();
+  const learningCompletion = Math.min(100, Math.round((learningRows.filter((row: any) => row.completed).length / 50) * 100));
+  const coverage = Math.min(100, Math.max(new Set(answers.map((a: any) => `${a.subject}-${a.topic}`)).size * 4, learningCompletion));
   const readiness = readinessScore({ accuracy, coverage, consistency: Math.min(100, dailyStreak * 10), mockAverage });
 
   const rankPrediction = readiness >= 80 ? "Selection-range ready" : readiness >= 65 ? "Competitive, needs weak-topic polish" : readiness >= 45 ? "Foundation ready, increase mocks" : "High risk, focus on high ROI topics";

@@ -53,6 +53,22 @@ export default async function DashboardPage() {
         </div>
       </section>
 
+
+      <section className="grid gap-6 lg:grid-cols-2">
+        <div className="card p-5 md:p-6">
+          <p className="text-lg font-semibold tracking-tight">Learning progress</p>
+          <div className="mt-5 space-y-3">
+            {data.learningProgress?.length ? data.learningProgress.slice(0, 10).map((row: any) => <div key={row.topicId} className="mini-card p-4"><div className="flex justify-between gap-3 text-sm font-medium"><span>{row.day}. {row.topicTitle}</span><span>{row.completed ? "Complete" : `${row.accuracy || 0}%`}</span></div><p className="mt-2 text-sm text-muted">Attempted {row.attempted || 0}, Correct {row.correct || 0}, Revision {row.revisionCount || 0}, Study time {Math.round((row.studyTimeSeconds || 0) / 60)} min</p></div>) : <p className="text-muted">Open learning topics to start MongoDB-backed progress tracking.</p>}
+          </div>
+        </div>
+        <div className="card p-5 md:p-6">
+          <p className="text-lg font-semibold tracking-tight">Smart recommendations</p>
+          <div className="mt-5 space-y-3">
+            {data.recommendations?.length ? data.recommendations.map((item: any, i: number) => <div key={`${item.title}-${i}`} className="mini-card p-4"><div className="text-sm font-medium">{item.title}</div><p className="mt-2 text-sm text-muted">{item.reason}. {item.action}.</p></div>) : <p className="text-muted">Recommendations will appear after topic practice and submitted tests.</p>}
+          </div>
+        </div>
+      </section>
+
       <section className="card p-5 md:p-6">
         <p className="text-lg font-semibold tracking-tight">30-day performance trend</p>
         <div className="mt-6 flex h-48 items-end gap-2 overflow-x-auto rounded-2xl border p-4" style={{ borderColor: "var(--border)", background: "var(--panel-2)" }}>
